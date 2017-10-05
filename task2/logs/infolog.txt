@@ -1,0 +1,1621 @@
+2017-10-05 18:39:28,076  INFO - Browser settings
+2017-10-05 18:39:33,218  INFO - Browser settings
+2017-10-05 18:39:44,088  INFO - Creating of driver browser
+2017-10-05 18:39:44,088  INFO - Browser close
+2017-10-05 18:39:55,014  INFO - Browser settings
+2017-10-05 18:40:04,381  INFO - Creating of driver browser
+2017-10-05 18:40:34,668  INFO - Browser close
+2017-10-05 18:40:35,723  INFO - Browser settings
+2017-10-05 18:40:41,961  INFO - Creating of driver browser
+2017-10-05 18:41:11,698  INFO - Browser close
+2017-10-05 19:39:46,545  INFO - Browser settings
+2017-10-05 19:40:04,435  INFO - Creating of driver browser
+2017-10-05 19:40:49,512  INFO - Browser close
+2017-10-05 19:40:50,474  INFO - Browser settings
+2017-10-05 19:40:56,512  INFO - Creating of driver browser
+2017-10-05 19:41:43,878  INFO - Browser close
+2017-10-05 19:56:00,563  INFO - Browser settings
+2017-10-05 19:56:22,124  INFO - Creating of driver browser
+2017-10-05 19:57:29,261  INFO - Item found
+2017-10-05 19:57:29,262  INFO - Opened home page
+2017-10-05 19:57:29,262  INFO - Choice header
+2017-10-05 19:57:29,288  INFO - Item found
+2017-10-05 19:57:29,288  INFO - Found the header
+2017-10-05 19:57:29,289  INFO - Choice language menu
+2017-10-05 19:57:29,318  INFO - Item found
+2017-10-05 19:57:29,318  INFO - Found the header
+2017-10-05 19:57:29,318  INFO - Found the head language menu
+2017-10-05 19:57:29,319  INFO - Checked language CS
+2017-10-05 19:57:29,347  INFO - Getting an attribute
+2017-10-05 19:57:29,543  INFO - Swap language
+2017-10-05 19:57:29,569  INFO - Item found
+2017-10-05 19:57:29,569  INFO - Found button
+2017-10-05 19:57:29,570  INFO - Click button
+2017-10-05 19:57:30,059  INFO - Change the language to Czech
+2017-10-05 19:57:30,083  INFO - Item found
+2017-10-05 19:57:30,084  INFO - Found the header
+2017-10-05 19:57:30,084  INFO - Found the head language menu
+2017-10-05 19:57:30,084  INFO - Сlicked on the desired language
+2017-10-05 19:57:30,104  INFO - Item found
+2017-10-05 19:57:30,104  INFO - Found button
+2017-10-05 19:57:30,104  INFO - Click button
+2017-10-05 19:57:30,439  INFO - Waiting for download
+2017-10-05 19:57:34,174  INFO - Item found
+2017-10-05 19:57:34,175  INFO - Opened home page
+2017-10-05 19:57:35,759  INFO - Getting an attribute
+2017-10-05 19:57:36,080  INFO - Browser close
+2017-10-05 20:07:44,664  INFO - Browser settings
+2017-10-05 20:07:58,006  INFO - Creating of driver browser
+2017-10-05 20:09:53,418  INFO - Item found
+2017-10-05 20:09:53,418  INFO - Opened home page
+2017-10-05 20:09:53,418  INFO - Choice header
+2017-10-05 20:09:53,440  INFO - Item found
+2017-10-05 20:09:53,440  INFO - Found the header
+2017-10-05 20:09:53,440  INFO - Choice language menu
+2017-10-05 20:09:53,462  INFO - Item found
+2017-10-05 20:09:53,462  INFO - Found the header
+2017-10-05 20:09:53,462  INFO - Found the head language menu
+2017-10-05 20:09:53,462  INFO - Checked language CS
+2017-10-05 20:09:53,477  INFO - Getting an attribute
+2017-10-05 20:09:53,641  INFO - Swap language
+2017-10-05 20:09:53,656  INFO - Item found
+2017-10-05 20:09:53,656  INFO - Found button
+2017-10-05 20:09:53,656  INFO - Click button
+2017-10-05 20:09:54,044  INFO - Change the language to Czech
+2017-10-05 20:09:54,059  INFO - Item found
+2017-10-05 20:09:54,059  INFO - Found the header
+2017-10-05 20:09:54,059  INFO - Found the head language menu
+2017-10-05 20:09:54,059  INFO - Сlicked on the desired language
+2017-10-05 20:09:54,075  INFO - Item found
+2017-10-05 20:09:54,075  INFO - Found button
+2017-10-05 20:09:54,075  INFO - Click button
+2017-10-05 20:09:54,357  INFO - Waiting for download
+2017-10-05 20:09:55,947  INFO - Item found
+2017-10-05 20:09:55,948  INFO - Opened home page
+2017-10-05 20:09:57,151  INFO - Getting an attribute
+2017-10-05 20:09:57,352  INFO - Browser close
+2017-10-05 20:20:48,986  INFO - Browser settings
+2017-10-05 20:21:09,816  INFO - Creating of driver browser
+2017-10-05 20:23:54,652  INFO - Item found
+2017-10-05 20:23:54,654  INFO - Opened home page
+2017-10-05 20:23:54,654  INFO - Choice header
+2017-10-05 20:23:54,675  INFO - Item found
+2017-10-05 20:23:54,675  INFO - Found the header
+2017-10-05 20:23:54,675  INFO - Choice language menu
+2017-10-05 20:23:54,685  INFO - Item found
+2017-10-05 20:23:54,685  INFO - Found the header
+2017-10-05 20:23:54,685  INFO - Found the head language menu
+2017-10-05 20:23:54,685  INFO - Checked language CS
+2017-10-05 20:23:54,704  INFO - Getting an attribute
+2017-10-05 20:23:54,930  INFO - Swap language
+2017-10-05 20:23:54,962  INFO - Item found
+2017-10-05 20:23:54,962  INFO - Found button
+2017-10-05 20:23:54,962  INFO - Click button
+2017-10-05 20:23:55,431  INFO - Change the language to Czech
+2017-10-05 20:23:55,500  INFO - Item found
+2017-10-05 20:23:55,500  INFO - Found the header
+2017-10-05 20:23:55,500  INFO - Found the head language menu
+2017-10-05 20:23:55,500  INFO - Сlicked on the desired language
+2017-10-05 20:23:55,532  INFO - Item found
+2017-10-05 20:23:55,532  INFO - Found button
+2017-10-05 20:23:55,532  INFO - Click button
+2017-10-05 20:23:56,024  INFO - Waiting for download
+2017-10-05 20:23:59,580  INFO - Item found
+2017-10-05 20:23:59,581  INFO - Opened home page
+2017-10-05 20:24:01,929  INFO - Getting an attribute
+2017-10-05 20:24:02,485  INFO - Browser close
+2017-10-05 20:27:05,017  INFO - Browser settings
+2017-10-05 20:27:19,875  INFO - Creating of driver browser
+2017-10-05 20:28:38,201  INFO - Item found
+2017-10-05 20:28:38,201  INFO - Opened home page
+2017-10-05 20:28:38,201  INFO - Choice header
+2017-10-05 20:28:38,214  INFO - Item found
+2017-10-05 20:28:38,214  INFO - Found the header
+2017-10-05 20:28:38,214  INFO - Choice language menu
+2017-10-05 20:28:38,246  INFO - Item found
+2017-10-05 20:28:38,246  INFO - Found the header
+2017-10-05 20:28:38,246  INFO - Found the head language menu
+2017-10-05 20:28:38,247  INFO - Checked language CS
+2017-10-05 20:28:38,254  INFO - Getting an attribute
+2017-10-05 20:28:38,533  INFO - Swap language
+2017-10-05 20:28:38,555  INFO - Item found
+2017-10-05 20:28:38,555  INFO - Found button
+2017-10-05 20:28:38,555  INFO - Click button
+2017-10-05 20:28:39,087  INFO - Change the language to Czech
+2017-10-05 20:28:39,102  INFO - Item found
+2017-10-05 20:28:39,102  INFO - Found the header
+2017-10-05 20:28:39,102  INFO - Found the head language menu
+2017-10-05 20:28:39,102  INFO - Сlicked on the desired language
+2017-10-05 20:28:39,155  INFO - Item found
+2017-10-05 20:28:39,155  INFO - Found button
+2017-10-05 20:28:39,155  INFO - Click button
+2017-10-05 20:28:39,612  INFO - Waiting for download
+2017-10-05 20:28:41,801  INFO - Item found
+2017-10-05 20:28:41,801  INFO - Opened home page
+2017-10-05 20:28:43,241  INFO - Getting an attribute
+2017-10-05 20:28:43,512  INFO - Browser close
+2017-10-05 20:36:31,802  INFO - Browser settings
+2017-10-05 20:36:48,335  INFO - Creating of driver browser
+2017-10-05 20:39:24,990  INFO - Browser close
+2017-10-05 20:39:26,187  INFO - Browser settings
+2017-10-05 20:39:33,244  INFO - Creating of driver browser
+2017-10-05 20:42:30,028  INFO - Browser close
+2017-10-05 20:57:12,182  INFO - Browser settings
+2017-10-05 20:57:30,094  INFO - Creating of driver browser
+2017-10-05 20:57:45,923  INFO - Item found
+2017-10-05 20:57:45,924  INFO - Opened home page
+2017-10-05 20:57:46,154  INFO - Item found
+2017-10-05 20:57:46,155  INFO - Opened home page
+2017-10-05 20:57:46,157  INFO - Point to an element in navbar
+2017-10-05 20:57:46,303  INFO - Item found
+2017-10-05 20:57:46,304  INFO - Found button
+2017-10-05 20:57:46,304  INFO - Click button
+2017-10-05 20:57:46,802  INFO - Item found
+2017-10-05 20:57:46,802  INFO - Open left bar
+2017-10-05 20:57:46,802  INFO - Сlicked on the desired language
+2017-10-05 20:57:46,803  INFO - Checked language en
+2017-10-05 20:57:46,849  INFO - Getting an attribute
+2017-10-05 20:57:47,005  INFO - Swap language
+2017-10-05 20:57:47,072  INFO - Item found
+2017-10-05 20:57:47,072  INFO - Found button
+2017-10-05 20:57:47,073  INFO - Click button
+2017-10-05 20:58:03,494 ERROR - Not found element Unable to locate element: //div[contains(@class, 'c-h')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.g9JFF9RwGZcy, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=8284, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 3bed7b26-b95a-434e-ab2d-fb72dda4c9c6
+*** Element info: {Using=xpath, value=//div[contains(@class, 'c-h')]}
+2017-10-05 20:58:03,523  INFO - Browser close
+2017-10-05 21:00:40,018  INFO - Browser settings
+2017-10-05 21:00:53,099  INFO - Creating of driver browser
+2017-10-05 21:00:53,949  INFO - Browser close
+2017-10-05 21:01:08,293  INFO - Browser settings
+2017-10-05 21:01:20,901  INFO - Creating of driver browser
+2017-10-05 21:01:21,962  INFO - Browser close
+2017-10-05 21:04:08,168  INFO - Browser settings
+2017-10-05 21:04:25,196  INFO - Creating of driver browser
+2017-10-05 21:04:35,297  INFO - Item found
+2017-10-05 21:04:35,298  INFO - Opened home page
+2017-10-05 21:04:35,506  INFO - Item found
+2017-10-05 21:04:35,506  INFO - Opened home page
+2017-10-05 21:04:35,507  INFO - Point to an element in navbar
+2017-10-05 21:04:35,607  INFO - Item found
+2017-10-05 21:04:35,607  INFO - Found button
+2017-10-05 21:04:35,607  INFO - Click button
+2017-10-05 21:04:36,420  INFO - Item found
+2017-10-05 21:04:36,421  INFO - Open left bar
+2017-10-05 21:04:36,421  INFO - Сlicked on the desired language
+2017-10-05 21:04:36,421  INFO - Checked language en
+2017-10-05 21:04:36,500  INFO - Getting an attribute
+2017-10-05 21:04:36,681  INFO - Swap language
+2017-10-05 21:04:37,587  INFO - Item found
+2017-10-05 21:04:37,587  INFO - Found button
+2017-10-05 21:04:37,587  INFO - Click button
+2017-10-05 21:04:52,908 ERROR - Not found element Failed to decode response from marionette
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.qwPCqqc4jOvS, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=8388, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 58d2862f-b685-4213-83f0-c30ef1e17e13
+*** Element info: {Using=xpath, value=//div[contains(@class, 'c-h')]}
+2017-10-05 21:04:52,952  INFO - Browser close
+2017-10-05 21:07:31,615  INFO - Browser settings
+2017-10-05 21:07:48,014  INFO - Creating of driver browser
+2017-10-05 21:08:06,528  INFO - Item found
+2017-10-05 21:08:06,529  INFO - Opened home page
+2017-10-05 21:08:06,686  INFO - Item found
+2017-10-05 21:08:06,686  INFO - Opened home page
+2017-10-05 21:08:06,686  INFO - Point to an element in navbar
+2017-10-05 21:08:06,816  INFO - Item found
+2017-10-05 21:08:06,816  INFO - Found button
+2017-10-05 21:08:06,817  INFO - Click button
+2017-10-05 21:08:07,882  INFO - Item found
+2017-10-05 21:08:07,883  INFO - Open left bar
+2017-10-05 21:08:07,883  INFO - Сlicked on the desired language
+2017-10-05 21:08:07,883  INFO - Checked language en
+2017-10-05 21:08:08,071  INFO - Getting an attribute
+2017-10-05 21:08:08,267  INFO - Swap language
+2017-10-05 21:08:24,607  INFO - Browser close
+2017-10-05 21:12:16,414  INFO - Browser settings
+2017-10-05 21:12:29,540  INFO - Creating of driver browser
+2017-10-05 21:12:42,675  INFO - Item found
+2017-10-05 21:12:42,675  INFO - Opened home page
+2017-10-05 21:12:42,916  INFO - Item found
+2017-10-05 21:12:42,917  INFO - Opened home page
+2017-10-05 21:12:42,917  INFO - Point to an element in navbar
+2017-10-05 21:12:43,045  INFO - Item found
+2017-10-05 21:12:43,046  INFO - Found button
+2017-10-05 21:12:43,046  INFO - Click button
+2017-10-05 21:12:44,362  INFO - Item found
+2017-10-05 21:12:44,365  INFO - Open left bar
+2017-10-05 21:12:44,368  INFO - Сlicked on the desired language
+2017-10-05 21:12:44,368  INFO - Checked language en
+2017-10-05 21:12:44,487  INFO - Getting an attribute
+2017-10-05 21:12:45,235  INFO - Swap language
+2017-10-05 21:12:45,882  INFO - Item found
+2017-10-05 21:12:45,882  INFO - Found button
+2017-10-05 21:12:45,882  INFO - Click button
+2017-10-05 21:12:48,273  INFO - Item found
+2017-10-05 21:12:48,273  INFO - Found combobox
+2017-10-05 21:12:48,273  INFO - Change the language to English
+2017-10-05 21:12:53,839  INFO - Getting an attribute
+2017-10-05 21:12:54,303  INFO - Browser close
+2017-10-05 21:22:06,318  INFO - Browser settings
+2017-10-05 21:22:19,337  INFO - Creating of driver browser
+2017-10-05 21:22:33,689  INFO - Item found
+2017-10-05 21:22:33,689  INFO - Opened home page
+2017-10-05 21:22:33,854  INFO - Item found
+2017-10-05 21:22:33,854  INFO - Opened home page
+2017-10-05 21:22:33,854  INFO - Point to an element in navbar
+2017-10-05 21:22:33,981  INFO - Item found
+2017-10-05 21:22:33,981  INFO - Found button
+2017-10-05 21:22:33,982  INFO - Click button
+2017-10-05 21:22:34,521  INFO - Item found
+2017-10-05 21:22:34,521  INFO - Open left bar
+2017-10-05 21:22:34,521  INFO - Сlicked on the desired language
+2017-10-05 21:22:34,522  INFO - Checked language en
+2017-10-05 21:22:34,572  INFO - Getting an attribute
+2017-10-05 21:22:34,773  INFO - Swap language
+2017-10-05 21:22:35,075  INFO - Item found
+2017-10-05 21:22:35,075  INFO - Found button
+2017-10-05 21:22:35,076  INFO - Click button
+2017-10-05 21:22:44,438  INFO - Item found
+2017-10-05 21:22:44,439  INFO - Found combobox
+2017-10-05 21:22:44,439  INFO - Change the language to English
+2017-10-05 21:22:55,744  INFO - Getting an attribute
+2017-10-05 21:22:56,222  INFO - Browser close
+2017-10-05 21:26:04,222  INFO - Browser settings
+2017-10-05 21:26:28,005  INFO - Creating of driver browser
+2017-10-05 21:26:38,036  INFO - Item found
+2017-10-05 21:26:38,036  INFO - Opened home page
+2017-10-05 21:26:38,262  INFO - Item found
+2017-10-05 21:26:38,263  INFO - Opened home page
+2017-10-05 21:26:38,263  INFO - Point to an element in navbar
+2017-10-05 21:26:38,416  INFO - Item found
+2017-10-05 21:26:38,416  INFO - Found button
+2017-10-05 21:26:38,416  INFO - Click button
+2017-10-05 21:26:39,231  INFO - Item found
+2017-10-05 21:26:39,231  INFO - Open left bar
+2017-10-05 21:26:39,232  INFO - Сlicked on the desired language
+2017-10-05 21:26:39,232  INFO - Checked language en
+2017-10-05 21:26:39,398  INFO - Getting an attribute
+2017-10-05 21:26:39,747  INFO - Swap language
+2017-10-05 21:26:40,276  INFO - Item found
+2017-10-05 21:26:40,276  INFO - Found button
+2017-10-05 21:26:40,276  INFO - Click button
+2017-10-05 21:26:49,304  INFO - Item found
+2017-10-05 21:26:49,304  INFO - Found combobox
+2017-10-05 21:26:49,305  INFO - Change the language to English
+2017-10-05 21:26:53,911  INFO - Getting an attribute
+2017-10-05 21:26:54,398  INFO - Browser close
+2017-10-05 21:39:20,517  INFO - Browser settings
+2017-10-05 21:39:35,048  INFO - Creating of driver browser
+2017-10-05 21:39:47,433  INFO - Item found
+2017-10-05 21:39:47,433  INFO - Opened home page
+2017-10-05 21:39:47,480  INFO - Item found
+2017-10-05 21:39:47,480  INFO - Opened home page
+2017-10-05 21:39:47,480  INFO - Point to an element in navbar
+2017-10-05 21:39:47,586  INFO - Item found
+2017-10-05 21:39:47,587  INFO - Found button
+2017-10-05 21:39:47,587  INFO - Click button
+2017-10-05 21:39:48,108  INFO - Item found
+2017-10-05 21:39:48,108  INFO - Open left bar
+2017-10-05 21:39:48,108  INFO - Сlicked on the desired language
+2017-10-05 21:39:48,108  INFO - Checked language en
+2017-10-05 21:39:48,167  INFO - Getting an attribute
+2017-10-05 21:39:48,265  INFO - Swap language
+2017-10-05 21:39:48,613  INFO - Item found
+2017-10-05 21:39:48,614  INFO - Found button
+2017-10-05 21:39:48,614  INFO - Click button
+2017-10-05 21:39:52,956  INFO - Item found
+2017-10-05 21:39:52,957  INFO - Found combobox
+2017-10-05 21:39:52,957  INFO - Change the language to English
+2017-10-05 21:39:57,939  INFO - Getting an attribute
+2017-10-05 21:39:58,562  INFO - Browser close
+2017-10-05 21:41:54,237  INFO - Browser settings
+2017-10-05 21:42:06,991  INFO - Creating of driver browser
+2017-10-05 21:42:16,814  INFO - Item found
+2017-10-05 21:42:16,814  INFO - Opened home page
+2017-10-05 21:42:16,972  INFO - Item found
+2017-10-05 21:42:16,972  INFO - Opened home page
+2017-10-05 21:42:16,972  INFO - Point to an element in navbar
+2017-10-05 21:42:17,067  INFO - Item found
+2017-10-05 21:42:17,068  INFO - Found button
+2017-10-05 21:42:17,068  INFO - Click button
+2017-10-05 21:42:17,830  INFO - Item found
+2017-10-05 21:42:17,831  INFO - Open left bar
+2017-10-05 21:42:17,831  INFO - Сlicked on the desired language
+2017-10-05 21:42:17,833  INFO - Checked language en
+2017-10-05 21:42:17,925  INFO - Getting an attribute
+2017-10-05 21:42:18,092  INFO - Swap language
+2017-10-05 21:42:19,038  INFO - Item found
+2017-10-05 21:42:19,039  INFO - Found button
+2017-10-05 21:42:19,039  INFO - Click button
+2017-10-05 21:42:20,109  INFO - Item found
+2017-10-05 21:42:20,110  INFO - Found combobox
+2017-10-05 21:42:20,110  INFO - Change the language to English
+2017-10-05 21:42:23,372  INFO - Getting an attribute
+2017-10-05 21:42:23,923  INFO - Browser close
+2017-10-05 21:44:56,288  INFO - Browser settings
+2017-10-05 21:45:19,088  INFO - Creating of driver browser
+2017-10-05 21:45:30,731  INFO - Item found
+2017-10-05 21:45:30,731  INFO - Opened home page
+2017-10-05 21:45:30,830  INFO - Item found
+2017-10-05 21:45:30,831  INFO - Opened home page
+2017-10-05 21:45:30,831  INFO - Point to an element in navbar
+2017-10-05 21:45:30,903  INFO - Item found
+2017-10-05 21:45:30,904  INFO - Found button
+2017-10-05 21:45:30,904  INFO - Click button
+2017-10-05 21:45:31,462  INFO - Item found
+2017-10-05 21:45:31,462  INFO - Open left bar
+2017-10-05 21:45:31,463  INFO - Сlicked on the desired language
+2017-10-05 21:45:31,463  INFO - Checked language en
+2017-10-05 21:45:31,519  INFO - Getting an attribute
+2017-10-05 21:45:31,685  INFO - Swap language
+2017-10-05 21:45:32,085  INFO - Item found
+2017-10-05 21:45:32,086  INFO - Found button
+2017-10-05 21:45:32,086  INFO - Click button
+2017-10-05 21:45:33,043  INFO - Item found
+2017-10-05 21:45:33,043  INFO - Found combobox
+2017-10-05 21:45:33,043  INFO - Change the language to English
+2017-10-05 21:45:38,274  INFO - Getting an attribute
+2017-10-05 21:45:38,809  INFO - Browser close
+2017-10-05 21:48:17,732  INFO - Browser settings
+2017-10-05 21:48:30,923  INFO - Creating of driver browser
+2017-10-05 21:48:41,491  INFO - Item found
+2017-10-05 21:48:41,491  INFO - Opened home page
+2017-10-05 21:48:41,756  INFO - Item found
+2017-10-05 21:48:41,757  INFO - Opened home page
+2017-10-05 21:48:41,757  INFO - Point to an element in navbar
+2017-10-05 21:48:41,826  INFO - Item found
+2017-10-05 21:48:41,827  INFO - Found button
+2017-10-05 21:48:41,827  INFO - Click button
+2017-10-05 21:48:42,303  INFO - Item found
+2017-10-05 21:48:42,303  INFO - Open left bar
+2017-10-05 21:48:42,303  INFO - Сlicked on the desired language
+2017-10-05 21:48:42,304  INFO - Checked language en
+2017-10-05 21:48:42,344  INFO - Getting an attribute
+2017-10-05 21:48:42,502  INFO - Swap language
+2017-10-05 21:48:43,095  INFO - Item found
+2017-10-05 21:48:43,095  INFO - Found button
+2017-10-05 21:48:43,095  INFO - Click button
+2017-10-05 21:48:43,883  INFO - Item found
+2017-10-05 21:48:43,883  INFO - Found combobox
+2017-10-05 21:48:43,883  INFO - Change the language to English
+2017-10-05 21:48:50,250  INFO - Getting an attribute
+2017-10-05 21:48:51,233  INFO - Item found
+2017-10-05 21:48:51,233  INFO - Found the header
+2017-10-05 21:48:51,233  INFO - Click logging
+2017-10-05 21:48:51,362  INFO - Item found
+2017-10-05 21:48:51,362  INFO - Found button
+2017-10-05 21:48:51,363  INFO - Click button
+2017-10-05 21:48:54,327  INFO - Item found
+2017-10-05 21:48:54,327  INFO - Opened login page
+2017-10-05 21:48:54,327  INFO - Inputted user login
+2017-10-05 21:48:54,346  INFO - Item found
+2017-10-05 21:48:54,346  INFO - Found input field
+2017-10-05 21:48:54,346  INFO - Entered data
+2017-10-05 21:48:54,833  INFO - Inputted user password
+2017-10-05 21:50:11,165  INFO - Browser close
+2017-10-05 21:50:21,753  INFO - Browser settings
+2017-10-05 21:50:34,562  INFO - Creating of driver browser
+2017-10-05 21:50:50,839  INFO - Item found
+2017-10-05 21:50:50,840  INFO - Opened home page
+2017-10-05 21:50:50,976  INFO - Item found
+2017-10-05 21:50:50,976  INFO - Opened home page
+2017-10-05 21:50:50,976  INFO - Point to an element in navbar
+2017-10-05 21:50:51,046  INFO - Item found
+2017-10-05 21:50:51,047  INFO - Found button
+2017-10-05 21:50:51,047  INFO - Click button
+2017-10-05 21:50:51,599  INFO - Item found
+2017-10-05 21:50:51,599  INFO - Open left bar
+2017-10-05 21:50:51,599  INFO - Сlicked on the desired language
+2017-10-05 21:50:51,599  INFO - Checked language en
+2017-10-05 21:50:51,654  INFO - Getting an attribute
+2017-10-05 21:50:51,768  INFO - Swap language
+2017-10-05 21:50:52,209  INFO - Item found
+2017-10-05 21:50:52,210  INFO - Found button
+2017-10-05 21:50:52,210  INFO - Click button
+2017-10-05 21:51:00,631  INFO - Item found
+2017-10-05 21:51:00,631  INFO - Found combobox
+2017-10-05 21:51:00,631  INFO - Change the language to English
+2017-10-05 21:51:07,071  INFO - Getting an attribute
+2017-10-05 21:51:07,714  INFO - Item found
+2017-10-05 21:51:07,714  INFO - Found the header
+2017-10-05 21:51:07,714  INFO - Click logging
+2017-10-05 21:51:07,764  INFO - Item found
+2017-10-05 21:51:07,764  INFO - Found button
+2017-10-05 21:51:07,764  INFO - Click button
+2017-10-05 21:51:11,389  INFO - Item found
+2017-10-05 21:51:11,390  INFO - Opened login page
+2017-10-05 21:51:11,390  INFO - Inputted user login
+2017-10-05 21:51:11,419  INFO - Item found
+2017-10-05 21:51:11,419  INFO - Found input field
+2017-10-05 21:51:11,419  INFO - Entered data
+2017-10-05 21:51:11,876  INFO - Clicked - Log in
+2017-10-05 21:51:27,977 ERROR - Not found element Unable to locate element: //div[@id='passwordNext']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.8mMAia2RNV1g, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=8444, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: bf990aef-0033-43e1-8624-66a601192550
+*** Element info: {Using=xpath, value=//div[@id='passwordNext']}
+2017-10-05 21:51:28,017  INFO - Browser close
+2017-10-05 21:54:36,084  INFO - Browser settings
+2017-10-05 21:54:54,446  INFO - Creating of driver browser
+2017-10-05 21:55:30,391  INFO - Item found
+2017-10-05 21:55:30,392  INFO - Opened home page
+2017-10-05 21:55:30,506  INFO - Item found
+2017-10-05 21:55:30,506  INFO - Opened home page
+2017-10-05 21:55:30,506  INFO - Point to an element in navbar
+2017-10-05 21:55:30,584  INFO - Item found
+2017-10-05 21:55:30,584  INFO - Found button
+2017-10-05 21:55:30,584  INFO - Click button
+2017-10-05 21:55:31,046  INFO - Item found
+2017-10-05 21:55:31,047  INFO - Open left bar
+2017-10-05 21:55:31,047  INFO - Сlicked on the desired language
+2017-10-05 21:55:31,047  INFO - Checked language en
+2017-10-05 21:55:31,084  INFO - Getting an attribute
+2017-10-05 21:55:31,210  INFO - Swap language
+2017-10-05 21:55:31,658  INFO - Item found
+2017-10-05 21:55:31,658  INFO - Found button
+2017-10-05 21:55:31,659  INFO - Click button
+2017-10-05 21:55:33,461  INFO - Item found
+2017-10-05 21:55:33,461  INFO - Found combobox
+2017-10-05 21:55:33,461  INFO - Change the language to English
+2017-10-05 21:55:39,486  INFO - Getting an attribute
+2017-10-05 21:55:40,172  INFO - Item found
+2017-10-05 21:55:40,172  INFO - Found the header
+2017-10-05 21:55:40,172  INFO - Click logging
+2017-10-05 21:55:40,225  INFO - Item found
+2017-10-05 21:55:40,225  INFO - Found button
+2017-10-05 21:55:40,225  INFO - Click button
+2017-10-05 21:55:43,754  INFO - Item found
+2017-10-05 21:55:43,754  INFO - Opened login page
+2017-10-05 21:55:43,754  INFO - Inputted user login
+2017-10-05 21:55:43,768  INFO - Item found
+2017-10-05 21:55:43,768  INFO - Found input field
+2017-10-05 21:55:43,768  INFO - Entered data
+2017-10-05 21:55:44,166  INFO - Clicked - Log in
+2017-10-05 21:55:44,195  INFO - Item found
+2017-10-05 21:55:44,195  INFO - Found button
+2017-10-05 21:55:44,195  INFO - Click button
+2017-10-05 21:55:44,602  INFO - Inputted user password
+2017-10-05 21:55:45,958  INFO - Item found
+2017-10-05 21:55:45,959  INFO - Found input field
+2017-10-05 21:55:45,959  INFO - Entered data
+2017-10-05 21:55:46,061  INFO - Clicked - Log in
+2017-10-05 21:55:46,074  INFO - Item found
+2017-10-05 21:55:46,074  INFO - Found button
+2017-10-05 21:55:46,075  INFO - Click button
+2017-10-05 21:56:06,498 ERROR - Not found element Unable to locate element: //div[@id='global_actions']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.iNPiPG8tEdFw, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=6628, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 5ea2ef16-6a13-486b-8a56-f2e81a7b0e20
+*** Element info: {Using=xpath, value=//div[@id='global_actions']}
+2017-10-05 21:56:06,515  INFO - Browser close
+2017-10-05 21:56:19,441  INFO - Browser settings
+2017-10-05 21:56:27,723  INFO - Creating of driver browser
+2017-10-05 21:56:39,406  INFO - Item found
+2017-10-05 21:56:39,406  INFO - Opened home page
+2017-10-05 21:56:39,665  INFO - Item found
+2017-10-05 21:56:39,665  INFO - Opened home page
+2017-10-05 21:56:39,665  INFO - Point to an element in navbar
+2017-10-05 21:56:39,809  INFO - Item found
+2017-10-05 21:56:39,809  INFO - Found button
+2017-10-05 21:56:39,809  INFO - Click button
+2017-10-05 21:56:40,396  INFO - Item found
+2017-10-05 21:56:40,397  INFO - Open left bar
+2017-10-05 21:56:40,397  INFO - Сlicked on the desired language
+2017-10-05 21:56:40,397  INFO - Checked language en
+2017-10-05 21:56:40,486  INFO - Getting an attribute
+2017-10-05 21:56:40,638  INFO - Swap language
+2017-10-05 21:56:41,218  INFO - Item found
+2017-10-05 21:56:41,218  INFO - Found button
+2017-10-05 21:56:41,219  INFO - Click button
+2017-10-05 21:56:44,656  INFO - Item found
+2017-10-05 21:56:44,657  INFO - Found combobox
+2017-10-05 21:56:44,657  INFO - Change the language to English
+2017-10-05 21:56:48,436  INFO - Getting an attribute
+2017-10-05 21:56:49,025  INFO - Item found
+2017-10-05 21:56:49,025  INFO - Found the header
+2017-10-05 21:56:49,025  INFO - Click logging
+2017-10-05 21:56:49,078  INFO - Item found
+2017-10-05 21:56:49,078  INFO - Found button
+2017-10-05 21:56:49,078  INFO - Click button
+2017-10-05 21:56:51,786  INFO - Item found
+2017-10-05 21:56:51,787  INFO - Opened login page
+2017-10-05 21:56:51,787  INFO - Inputted user login
+2017-10-05 21:56:51,817  INFO - Item found
+2017-10-05 21:56:51,818  INFO - Found input field
+2017-10-05 21:56:51,818  INFO - Entered data
+2017-10-05 21:56:52,728  INFO - Clicked - Log in
+2017-10-05 21:56:52,794  INFO - Item found
+2017-10-05 21:56:52,795  INFO - Found button
+2017-10-05 21:56:52,795  INFO - Click button
+2017-10-05 21:56:53,280  INFO - Inputted user password
+2017-10-05 21:56:54,962  INFO - Item found
+2017-10-05 21:56:54,962  INFO - Found input field
+2017-10-05 21:56:54,962  INFO - Entered data
+2017-10-05 21:56:55,104  INFO - Clicked - Log in
+2017-10-05 21:56:55,168  INFO - Item found
+2017-10-05 21:56:55,168  INFO - Found button
+2017-10-05 21:56:55,168  INFO - Click button
+2017-10-05 21:57:16,550 ERROR - Not found element Unable to locate element: //div[@id='global_actions']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.aCK66KCqDQim, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=8444, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: b602b26e-805c-4fb5-a112-ee67a923c32b
+*** Element info: {Using=xpath, value=//div[@id='global_actions']}
+2017-10-05 21:57:16,582  INFO - Browser close
+2017-10-05 22:17:27,503  INFO - Browser settings
+2017-10-05 22:17:40,017  INFO - Creating of driver browser
+2017-10-05 22:17:51,260  INFO - Item found
+2017-10-05 22:17:51,260  INFO - Opened home page
+2017-10-05 22:17:51,392  INFO - Item found
+2017-10-05 22:17:51,392  INFO - Opened home page
+2017-10-05 22:17:51,392  INFO - Choice left bar
+2017-10-05 22:17:51,455  INFO - Item found
+2017-10-05 22:17:51,455  INFO - Found button
+2017-10-05 22:17:51,455  INFO - Click button
+2017-10-05 22:17:52,105  INFO - Item found
+2017-10-05 22:17:52,105  INFO - Open left bar
+2017-10-05 22:17:52,105  INFO - Сlicked on the desired language
+2017-10-05 22:17:52,105  INFO - Checked language en
+2017-10-05 22:17:52,137  INFO - Getting an attribute
+2017-10-05 22:17:52,246  INFO - Swap language
+2017-10-05 22:17:52,549  INFO - Item found
+2017-10-05 22:17:52,549  INFO - Found button
+2017-10-05 22:17:52,549  INFO - Click button
+2017-10-05 22:17:53,746  INFO - Item found
+2017-10-05 22:17:53,747  INFO - Found combobox
+2017-10-05 22:17:53,747  INFO - Change the language to English
+2017-10-05 22:18:08,666  INFO - Getting an attribute
+2017-10-05 22:18:09,278  INFO - Item found
+2017-10-05 22:18:09,278  INFO - Found the header
+2017-10-05 22:18:09,278  INFO - Click logging
+2017-10-05 22:18:09,341  INFO - Item found
+2017-10-05 22:18:09,341  INFO - Found button
+2017-10-05 22:18:09,341  INFO - Click button
+2017-10-05 22:18:14,909  INFO - Item found
+2017-10-05 22:18:14,909  INFO - Opened login page
+2017-10-05 22:18:14,909  INFO - Inputted user login
+2017-10-05 22:18:14,955  INFO - Item found
+2017-10-05 22:18:14,955  INFO - Found input field
+2017-10-05 22:18:14,955  INFO - Entered data
+2017-10-05 22:18:15,415  INFO - Clicked - Log in
+2017-10-05 22:18:15,457  INFO - Item found
+2017-10-05 22:18:15,457  INFO - Found button
+2017-10-05 22:18:15,457  INFO - Click button
+2017-10-05 22:18:15,894  INFO - Inputted user password
+2017-10-05 22:18:17,300  INFO - Item found
+2017-10-05 22:18:17,300  INFO - Found input field
+2017-10-05 22:18:17,300  INFO - Entered data
+2017-10-05 22:18:17,419  INFO - Clicked - Log in
+2017-10-05 22:18:17,475  INFO - Item found
+2017-10-05 22:18:17,475  INFO - Found button
+2017-10-05 22:18:17,475  INFO - Click button
+2017-10-05 22:18:21,857  INFO - Item found
+2017-10-05 22:18:21,857  INFO - Opened home page
+2017-10-05 22:18:21,857  INFO - Click place tag
+2017-10-05 22:18:38,227 ERROR - Not found element Unable to locate element: //div[class='DQX2Q1B-Q-r']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.tHsSDDiCIeSG, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=8616, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 52cc8140-40fb-4321-8ca5-8930a13d7ae5
+*** Element info: {Using=xpath, value=//div[class='DQX2Q1B-Q-r']}
+2017-10-05 22:18:38,255  INFO - Browser close
+2017-10-05 22:22:02,200  INFO - Browser settings
+2017-10-05 22:22:15,799  INFO - Creating of driver browser
+2017-10-05 22:22:23,479  INFO - Item found
+2017-10-05 22:22:23,480  INFO - Opened home page
+2017-10-05 22:22:23,634  INFO - Item found
+2017-10-05 22:22:23,634  INFO - Opened home page
+2017-10-05 22:22:23,634  INFO - Choice left bar
+2017-10-05 22:22:23,790  INFO - Item found
+2017-10-05 22:22:23,790  INFO - Found button
+2017-10-05 22:22:23,790  INFO - Click button
+2017-10-05 22:22:25,336  INFO - Item found
+2017-10-05 22:22:25,336  INFO - Open left bar
+2017-10-05 22:22:25,336  INFO - Сlicked on the desired language
+2017-10-05 22:22:25,337  INFO - Checked language en
+2017-10-05 22:22:25,394  INFO - Getting an attribute
+2017-10-05 22:22:25,704  INFO - Swap language
+2017-10-05 22:22:26,084  INFO - Item found
+2017-10-05 22:22:26,084  INFO - Found button
+2017-10-05 22:22:26,085  INFO - Click button
+2017-10-05 22:22:29,080  INFO - Item found
+2017-10-05 22:22:29,081  INFO - Found combobox
+2017-10-05 22:22:29,081  INFO - Change the language to English
+2017-10-05 22:22:36,533  INFO - Getting an attribute
+2017-10-05 22:22:37,368  INFO - Item found
+2017-10-05 22:22:37,368  INFO - Found the header
+2017-10-05 22:22:37,368  INFO - Click logging
+2017-10-05 22:22:37,431  INFO - Item found
+2017-10-05 22:22:37,431  INFO - Found button
+2017-10-05 22:22:37,431  INFO - Click button
+2017-10-05 22:22:40,311  INFO - Item found
+2017-10-05 22:22:40,311  INFO - Opened login page
+2017-10-05 22:22:40,311  INFO - Inputted user login
+2017-10-05 22:22:40,323  INFO - Item found
+2017-10-05 22:22:40,323  INFO - Found input field
+2017-10-05 22:22:40,323  INFO - Entered data
+2017-10-05 22:22:40,984  INFO - Clicked - Log in
+2017-10-05 22:22:41,062  INFO - Item found
+2017-10-05 22:22:41,062  INFO - Found button
+2017-10-05 22:22:41,062  INFO - Click button
+2017-10-05 22:22:41,628  INFO - Inputted user password
+2017-10-05 22:22:43,203  INFO - Item found
+2017-10-05 22:22:43,203  INFO - Found input field
+2017-10-05 22:22:43,203  INFO - Entered data
+2017-10-05 22:22:43,374  INFO - Clicked - Log in
+2017-10-05 22:22:43,390  INFO - Item found
+2017-10-05 22:22:43,390  INFO - Found button
+2017-10-05 22:22:43,390  INFO - Click button
+2017-10-05 22:22:49,171  INFO - Item found
+2017-10-05 22:22:49,171  INFO - Opened home page
+2017-10-05 22:22:49,171  INFO - Click place tag
+2017-10-05 22:22:50,088  INFO - Item found
+2017-10-05 22:22:50,103  INFO - Found button
+2017-10-05 22:22:50,103  INFO - Click button
+2017-10-05 22:22:52,710  INFO - Item found
+2017-10-05 22:22:52,710  INFO - Opened home page
+2017-10-05 22:22:52,710  INFO - Place input
+2017-10-05 22:22:53,094  INFO - Item found
+2017-10-05 22:22:53,094  INFO - Found input field
+2017-10-05 22:22:53,094  INFO - Entered data
+2017-10-05 22:22:54,702  INFO - Browser close
+2017-10-05 22:23:52,207  INFO - Browser settings
+2017-10-05 22:24:04,711  INFO - Creating of driver browser
+2017-10-05 22:24:14,301  INFO - Item found
+2017-10-05 22:24:14,301  INFO - Opened home page
+2017-10-05 22:24:14,386  INFO - Item found
+2017-10-05 22:24:14,386  INFO - Opened home page
+2017-10-05 22:24:14,386  INFO - Choice left bar
+2017-10-05 22:24:14,432  INFO - Item found
+2017-10-05 22:24:14,432  INFO - Found button
+2017-10-05 22:24:14,432  INFO - Click button
+2017-10-05 22:24:14,944  INFO - Item found
+2017-10-05 22:24:14,944  INFO - Open left bar
+2017-10-05 22:24:14,944  INFO - Сlicked on the desired language
+2017-10-05 22:24:14,944  INFO - Checked language en
+2017-10-05 22:24:15,103  INFO - Getting an attribute
+2017-10-05 22:24:15,525  INFO - Swap language
+2017-10-05 22:24:16,204  INFO - Item found
+2017-10-05 22:24:16,204  INFO - Found button
+2017-10-05 22:24:16,204  INFO - Click button
+2017-10-05 22:24:17,512  INFO - Item found
+2017-10-05 22:24:17,512  INFO - Found combobox
+2017-10-05 22:24:17,512  INFO - Change the language to English
+2017-10-05 22:24:21,175  INFO - Getting an attribute
+2017-10-05 22:24:22,257  INFO - Item found
+2017-10-05 22:24:22,257  INFO - Found the header
+2017-10-05 22:24:22,257  INFO - Click logging
+2017-10-05 22:24:22,476  INFO - Item found
+2017-10-05 22:24:22,476  INFO - Found button
+2017-10-05 22:24:22,476  INFO - Click button
+2017-10-05 22:24:26,913  INFO - Item found
+2017-10-05 22:24:26,913  INFO - Opened login page
+2017-10-05 22:24:26,913  INFO - Inputted user login
+2017-10-05 22:24:26,924  INFO - Item found
+2017-10-05 22:24:26,939  INFO - Found input field
+2017-10-05 22:24:26,939  INFO - Entered data
+2017-10-05 22:24:27,992  INFO - Clicked - Log in
+2017-10-05 22:24:28,108  INFO - Item found
+2017-10-05 22:24:28,108  INFO - Found button
+2017-10-05 22:24:28,108  INFO - Click button
+2017-10-05 22:24:29,427  INFO - Inputted user password
+2017-10-05 22:24:30,921  INFO - Item found
+2017-10-05 22:24:30,921  INFO - Found input field
+2017-10-05 22:24:30,921  INFO - Entered data
+2017-10-05 22:24:31,121  INFO - Clicked - Log in
+2017-10-05 22:24:31,137  INFO - Item found
+2017-10-05 22:24:31,137  INFO - Found button
+2017-10-05 22:24:31,137  INFO - Click button
+2017-10-05 22:24:36,614  INFO - Item found
+2017-10-05 22:24:36,614  INFO - Opened home page
+2017-10-05 22:24:36,614  INFO - Click place tag
+2017-10-05 22:24:37,207  INFO - Item found
+2017-10-05 22:24:37,207  INFO - Found button
+2017-10-05 22:24:37,207  INFO - Click button
+2017-10-05 22:24:38,536  INFO - Item found
+2017-10-05 22:24:38,536  INFO - Opened home page
+2017-10-05 22:24:38,536  INFO - Click place tag
+2017-10-05 22:24:38,700  INFO - Item found
+2017-10-05 22:24:38,700  INFO - Found button
+2017-10-05 22:24:38,700  INFO - Click button
+2017-10-05 22:24:39,395  INFO - Place input
+2017-10-05 22:24:39,489  INFO - Item found
+2017-10-05 22:24:39,489  INFO - Found input field
+2017-10-05 22:24:39,489  INFO - Entered data
+2017-10-05 22:24:40,005  INFO - Browser close
+2017-10-05 22:27:00,940  INFO - Browser settings
+2017-10-05 22:27:14,387  INFO - Creating of driver browser
+2017-10-05 22:27:22,775  INFO - Item found
+2017-10-05 22:27:22,775  INFO - Opened home page
+2017-10-05 22:27:22,847  INFO - Item found
+2017-10-05 22:27:22,847  INFO - Opened home page
+2017-10-05 22:27:22,847  INFO - Choice left bar
+2017-10-05 22:27:22,920  INFO - Item found
+2017-10-05 22:27:22,920  INFO - Found button
+2017-10-05 22:27:22,920  INFO - Click button
+2017-10-05 22:27:23,496  INFO - Item found
+2017-10-05 22:27:23,496  INFO - Open left bar
+2017-10-05 22:27:23,496  INFO - Сlicked on the desired language
+2017-10-05 22:27:23,497  INFO - Checked language en
+2017-10-05 22:27:23,536  INFO - Getting an attribute
+2017-10-05 22:27:23,944  INFO - Swap language
+2017-10-05 22:28:07,690  INFO - Item found
+2017-10-05 22:28:07,705  INFO - Found button
+2017-10-05 22:28:07,705  INFO - Click button
+2017-10-05 22:28:09,305  INFO - Item found
+2017-10-05 22:28:09,308  INFO - Found combobox
+2017-10-05 22:28:09,308  INFO - Change the language to English
+2017-10-05 22:28:13,103  INFO - Getting an attribute
+2017-10-05 22:28:13,597  INFO - Item found
+2017-10-05 22:28:13,597  INFO - Found the header
+2017-10-05 22:28:13,597  INFO - Click logging
+2017-10-05 22:28:13,644  INFO - Item found
+2017-10-05 22:28:13,644  INFO - Found button
+2017-10-05 22:28:13,644  INFO - Click button
+2017-10-05 22:28:16,577  INFO - Item found
+2017-10-05 22:28:16,588  INFO - Opened login page
+2017-10-05 22:28:16,589  INFO - Inputted user login
+2017-10-05 22:28:16,606  INFO - Item found
+2017-10-05 22:28:16,606  INFO - Found input field
+2017-10-05 22:28:16,606  INFO - Entered data
+2017-10-05 22:28:17,103  INFO - Clicked - Log in
+2017-10-05 22:28:17,150  INFO - Item found
+2017-10-05 22:28:17,150  INFO - Found button
+2017-10-05 22:28:17,150  INFO - Click button
+2017-10-05 22:28:17,672  INFO - Inputted user password
+2017-10-05 22:28:19,120  INFO - Item found
+2017-10-05 22:28:19,120  INFO - Found input field
+2017-10-05 22:28:19,120  INFO - Entered data
+2017-10-05 22:28:19,269  INFO - Clicked - Log in
+2017-10-05 22:28:19,285  INFO - Item found
+2017-10-05 22:28:19,285  INFO - Found button
+2017-10-05 22:28:19,285  INFO - Click button
+2017-10-05 22:28:23,187  INFO - Item found
+2017-10-05 22:28:23,187  INFO - Opened home page
+2017-10-05 22:28:23,188  INFO - Click place tag
+2017-10-05 22:30:02,782  INFO - Item found
+2017-10-05 22:30:02,813  INFO - Found button
+2017-10-05 22:30:02,824  INFO - Click button
+2017-10-05 22:34:31,934  INFO - Browser settings
+2017-10-05 22:34:54,544  INFO - Creating of driver browser
+2017-10-05 22:35:03,465  INFO - Item found
+2017-10-05 22:35:03,465  INFO - Opened home page
+2017-10-05 22:35:03,593  INFO - Item found
+2017-10-05 22:35:03,593  INFO - Opened home page
+2017-10-05 22:35:03,593  INFO - Choice left bar
+2017-10-05 22:35:03,748  INFO - Item found
+2017-10-05 22:35:03,748  INFO - Found button
+2017-10-05 22:35:03,748  INFO - Click button
+2017-10-05 22:35:06,281  INFO - Item found
+2017-10-05 22:35:06,281  INFO - Open left bar
+2017-10-05 22:35:06,282  INFO - Сlicked on the desired language
+2017-10-05 22:35:06,282  INFO - Checked language en
+2017-10-05 22:35:06,692  INFO - Getting an attribute
+2017-10-05 22:35:06,923  INFO - Swap language
+2017-10-05 22:35:14,365  INFO - Item found
+2017-10-05 22:35:14,365  INFO - Found button
+2017-10-05 22:35:14,365  INFO - Click button
+2017-10-05 22:35:15,009  INFO - Item found
+2017-10-05 22:35:15,009  INFO - Found combobox
+2017-10-05 22:35:15,009  INFO - Change the language to English
+2017-10-05 22:35:19,036  INFO - Getting an attribute
+2017-10-05 22:35:19,629  INFO - Item found
+2017-10-05 22:35:19,629  INFO - Found the header
+2017-10-05 22:35:19,629  INFO - Click logging
+2017-10-05 22:35:19,722  INFO - Item found
+2017-10-05 22:35:19,722  INFO - Found button
+2017-10-05 22:35:19,722  INFO - Click button
+2017-10-05 22:35:22,343  INFO - Item found
+2017-10-05 22:35:22,343  INFO - Opened login page
+2017-10-05 22:35:22,359  INFO - Inputted user login
+2017-10-05 22:35:22,379  INFO - Item found
+2017-10-05 22:35:22,379  INFO - Found input field
+2017-10-05 22:35:22,379  INFO - Entered data
+2017-10-05 22:35:23,410  INFO - Clicked - Log in
+2017-10-05 22:35:23,467  INFO - Item found
+2017-10-05 22:35:23,467  INFO - Found button
+2017-10-05 22:35:23,468  INFO - Click button
+2017-10-05 22:35:23,990  INFO - Inputted user password
+2017-10-05 22:35:25,459  INFO - Item found
+2017-10-05 22:35:25,459  INFO - Found input field
+2017-10-05 22:35:25,459  INFO - Entered data
+2017-10-05 22:35:25,565  INFO - Clicked - Log in
+2017-10-05 22:35:25,581  INFO - Item found
+2017-10-05 22:35:25,596  INFO - Found button
+2017-10-05 22:35:25,596  INFO - Click button
+2017-10-05 22:35:28,896  INFO - Item found
+2017-10-05 22:35:28,896  INFO - Opened home page
+2017-10-05 22:35:28,896  INFO - Click place tag
+2017-10-05 22:35:41,719  INFO - Item found
+2017-10-05 22:35:41,733  INFO - Found button
+2017-10-05 22:35:41,751  INFO - Click button
+2017-10-05 22:40:03,602  INFO - Browser settings
+2017-10-05 22:40:22,434  INFO - Creating of driver browser
+2017-10-05 22:40:31,659  INFO - Item found
+2017-10-05 22:40:31,659  INFO - Opened home page
+2017-10-05 22:40:31,715  INFO - Item found
+2017-10-05 22:40:31,715  INFO - Opened home page
+2017-10-05 22:40:31,715  INFO - Choice left bar
+2017-10-05 22:40:31,746  INFO - Item found
+2017-10-05 22:40:31,746  INFO - Found button
+2017-10-05 22:40:31,746  INFO - Click button
+2017-10-05 22:40:32,641  INFO - Item found
+2017-10-05 22:40:32,641  INFO - Open left bar
+2017-10-05 22:40:32,641  INFO - Сlicked on the desired language
+2017-10-05 22:40:32,642  INFO - Checked language en
+2017-10-05 22:40:32,705  INFO - Getting an attribute
+2017-10-05 22:40:32,874  INFO - Swap language
+2017-10-05 22:40:33,276  INFO - Item found
+2017-10-05 22:40:33,276  INFO - Found button
+2017-10-05 22:40:33,276  INFO - Click button
+2017-10-05 22:40:37,239  INFO - Item found
+2017-10-05 22:40:37,239  INFO - Found combobox
+2017-10-05 22:40:37,240  INFO - Change the language to English
+2017-10-05 22:40:43,932  INFO - Getting an attribute
+2017-10-05 22:40:44,784  INFO - Item found
+2017-10-05 22:40:44,784  INFO - Found the header
+2017-10-05 22:40:44,784  INFO - Click logging
+2017-10-05 22:40:44,863  INFO - Item found
+2017-10-05 22:40:44,863  INFO - Found button
+2017-10-05 22:40:44,863  INFO - Click button
+2017-10-05 22:40:48,317  INFO - Item found
+2017-10-05 22:40:48,317  INFO - Opened login page
+2017-10-05 22:40:48,317  INFO - Inputted user login
+2017-10-05 22:40:48,351  INFO - Item found
+2017-10-05 22:40:48,351  INFO - Found input field
+2017-10-05 22:40:48,351  INFO - Entered data
+2017-10-05 22:40:48,890  INFO - Clicked - Log in
+2017-10-05 22:40:48,905  INFO - Item found
+2017-10-05 22:40:48,905  INFO - Found button
+2017-10-05 22:40:48,905  INFO - Click button
+2017-10-05 22:40:49,399  INFO - Inputted user password
+2017-10-05 22:40:50,651  INFO - Item found
+2017-10-05 22:40:50,651  INFO - Found input field
+2017-10-05 22:40:50,651  INFO - Entered data
+2017-10-05 22:40:50,824  INFO - Clicked - Log in
+2017-10-05 22:40:50,840  INFO - Item found
+2017-10-05 22:40:50,840  INFO - Found button
+2017-10-05 22:40:50,840  INFO - Click button
+2017-10-05 22:40:54,330  INFO - Item found
+2017-10-05 22:40:54,330  INFO - Opened home page
+2017-10-05 22:40:54,330  INFO - Click place tag
+2017-10-05 22:40:54,756  INFO - Item found
+2017-10-05 22:40:54,756  INFO - Found button
+2017-10-05 22:40:54,756  INFO - Click button
+2017-10-05 22:40:55,178  INFO - Browser close
+2017-10-05 22:45:44,979  INFO - Browser settings
+2017-10-05 22:45:59,354  INFO - Creating of driver browser
+2017-10-05 22:46:08,439  INFO - Item found
+2017-10-05 22:46:08,439  INFO - Opened home page
+2017-10-05 22:46:08,640  INFO - Item found
+2017-10-05 22:46:08,640  INFO - Opened home page
+2017-10-05 22:46:08,641  INFO - Choice left bar
+2017-10-05 22:46:08,687  INFO - Item found
+2017-10-05 22:46:08,687  INFO - Found button
+2017-10-05 22:46:08,687  INFO - Click button
+2017-10-05 22:46:09,184  INFO - Item found
+2017-10-05 22:46:09,184  INFO - Open left bar
+2017-10-05 22:46:09,185  INFO - Сlicked on the desired language
+2017-10-05 22:46:09,185  INFO - Checked language en
+2017-10-05 22:46:09,244  INFO - Getting an attribute
+2017-10-05 22:46:09,833  INFO - Swap language
+2017-10-05 22:46:10,762  INFO - Item found
+2017-10-05 22:46:10,762  INFO - Found button
+2017-10-05 22:46:10,762  INFO - Click button
+2017-10-05 22:46:12,651  INFO - Item found
+2017-10-05 22:46:12,651  INFO - Found combobox
+2017-10-05 22:46:12,652  INFO - Change the language to English
+2017-10-05 22:46:16,276  INFO - Getting an attribute
+2017-10-05 22:46:16,988  INFO - Item found
+2017-10-05 22:46:16,989  INFO - Found the header
+2017-10-05 22:46:16,989  INFO - Click logging
+2017-10-05 22:46:17,119  INFO - Item found
+2017-10-05 22:46:17,119  INFO - Found button
+2017-10-05 22:46:17,119  INFO - Click button
+2017-10-05 22:46:19,777  INFO - Item found
+2017-10-05 22:46:19,777  INFO - Opened login page
+2017-10-05 22:46:19,777  INFO - Inputted user login
+2017-10-05 22:46:19,822  INFO - Item found
+2017-10-05 22:46:19,822  INFO - Found input field
+2017-10-05 22:46:19,822  INFO - Entered data
+2017-10-05 22:46:20,310  INFO - Clicked - Log in
+2017-10-05 22:46:20,343  INFO - Item found
+2017-10-05 22:46:20,343  INFO - Found button
+2017-10-05 22:46:20,344  INFO - Click button
+2017-10-05 22:46:20,732  INFO - Inputted user password
+2017-10-05 22:46:22,253  INFO - Item found
+2017-10-05 22:46:22,254  INFO - Found input field
+2017-10-05 22:46:22,254  INFO - Entered data
+2017-10-05 22:46:22,378  INFO - Clicked - Log in
+2017-10-05 22:46:22,393  INFO - Item found
+2017-10-05 22:46:22,393  INFO - Found button
+2017-10-05 22:46:22,393  INFO - Click button
+2017-10-05 22:46:26,174  INFO - Item found
+2017-10-05 22:46:26,174  INFO - Opened home page
+2017-10-05 22:46:26,175  INFO - Click place tag
+2017-10-05 22:46:27,659  INFO - Item found
+2017-10-05 22:46:27,659  INFO - Found button
+2017-10-05 22:46:27,659  INFO - Click button
+2017-10-05 22:46:28,907  INFO - Item found
+2017-10-05 22:46:28,907  INFO - Opened home page
+2017-10-05 22:46:28,907  INFO - Click place tag
+2017-10-05 22:46:29,865  INFO - Item found
+2017-10-05 22:46:29,866  INFO - Found button
+2017-10-05 22:46:29,866  INFO - Click button
+2017-10-05 22:46:30,446  INFO - Place input
+2017-10-05 22:46:30,513  INFO - Item found
+2017-10-05 22:46:30,513  INFO - Found input field
+2017-10-05 22:46:30,513  INFO - Entered data
+2017-10-05 22:46:30,712  INFO - Browser close
+2017-10-05 22:47:40,567  INFO - Browser settings
+2017-10-05 22:47:59,002  INFO - Creating of driver browser
+2017-10-05 22:48:09,832  INFO - Item found
+2017-10-05 22:48:09,832  INFO - Opened home page
+2017-10-05 22:48:09,957  INFO - Item found
+2017-10-05 22:48:09,958  INFO - Opened home page
+2017-10-05 22:48:09,958  INFO - Choice left bar
+2017-10-05 22:48:10,011  INFO - Item found
+2017-10-05 22:48:10,012  INFO - Found button
+2017-10-05 22:48:10,012  INFO - Click button
+2017-10-05 22:48:11,442  INFO - Item found
+2017-10-05 22:48:11,442  INFO - Open left bar
+2017-10-05 22:48:11,442  INFO - Сlicked on the desired language
+2017-10-05 22:48:11,443  INFO - Checked language en
+2017-10-05 22:48:11,750  INFO - Getting an attribute
+2017-10-05 22:48:11,913  INFO - Swap language
+2017-10-05 22:48:12,644  INFO - Item found
+2017-10-05 22:48:12,645  INFO - Found button
+2017-10-05 22:48:12,645  INFO - Click button
+2017-10-05 22:48:13,770  INFO - Item found
+2017-10-05 22:48:13,770  INFO - Found combobox
+2017-10-05 22:48:13,770  INFO - Change the language to English
+2017-10-05 22:48:17,194  INFO - Getting an attribute
+2017-10-05 22:48:18,070  INFO - Item found
+2017-10-05 22:48:18,071  INFO - Found the header
+2017-10-05 22:48:18,071  INFO - Click logging
+2017-10-05 22:48:18,182  INFO - Item found
+2017-10-05 22:48:18,182  INFO - Found button
+2017-10-05 22:48:18,183  INFO - Click button
+2017-10-05 22:48:21,094  INFO - Item found
+2017-10-05 22:48:21,094  INFO - Opened login page
+2017-10-05 22:48:21,095  INFO - Inputted user login
+2017-10-05 22:48:21,123  INFO - Item found
+2017-10-05 22:48:21,123  INFO - Found input field
+2017-10-05 22:48:21,123  INFO - Entered data
+2017-10-05 22:48:21,719  INFO - Clicked - Log in
+2017-10-05 22:48:21,776  INFO - Item found
+2017-10-05 22:48:21,777  INFO - Found button
+2017-10-05 22:48:21,777  INFO - Click button
+2017-10-05 22:48:22,272  INFO - Inputted user password
+2017-10-05 22:48:23,838  INFO - Item found
+2017-10-05 22:48:23,838  INFO - Found input field
+2017-10-05 22:48:23,838  INFO - Entered data
+2017-10-05 22:48:24,018  INFO - Clicked - Log in
+2017-10-05 22:48:24,041  INFO - Item found
+2017-10-05 22:48:24,042  INFO - Found button
+2017-10-05 22:48:24,042  INFO - Click button
+2017-10-05 22:48:28,165  INFO - Item found
+2017-10-05 22:48:28,165  INFO - Opened home page
+2017-10-05 22:48:28,166  INFO - Click place tag
+2017-10-05 22:48:28,594  INFO - Item found
+2017-10-05 22:48:28,595  INFO - Found button
+2017-10-05 22:48:28,595  INFO - Click button
+2017-10-05 22:48:29,836  INFO - Item found
+2017-10-05 22:48:29,837  INFO - Opened home page
+2017-10-05 22:48:29,837  INFO - Click place tag
+2017-10-05 22:48:30,525  INFO - Item found
+2017-10-05 22:48:30,525  INFO - Found button
+2017-10-05 22:48:30,525  INFO - Click button
+2017-10-05 22:48:31,187  INFO - Place input
+2017-10-05 22:48:31,359  INFO - Item found
+2017-10-05 22:48:31,359  INFO - Found input field
+2017-10-05 22:48:31,359  INFO - Entered data
+2017-10-05 22:48:48,193 ERROR - Not found element Unable to locate element: //div[@id='global_actions']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.6dRIl5ERgkGY, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=7380, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: e2845dc5-9729-457a-84f9-f2bab65a8a7b
+*** Element info: {Using=xpath, value=//div[@id='global_actions']}
+2017-10-05 22:48:48,239  INFO - Browser close
+2017-10-05 23:30:51,750  INFO - Browser settings
+2017-10-05 23:31:06,009  INFO - Creating of driver browser
+2017-10-05 23:31:12,454  INFO - Item found
+2017-10-05 23:31:12,455  INFO - Opened home page
+2017-10-05 23:31:12,627  INFO - Item found
+2017-10-05 23:31:12,628  INFO - Opened home page
+2017-10-05 23:31:12,628  INFO - Choice left bar
+2017-10-05 23:31:12,759  INFO - Item found
+2017-10-05 23:31:12,759  INFO - Found button
+2017-10-05 23:31:12,759  INFO - Click button
+2017-10-05 23:31:13,684  INFO - Item found
+2017-10-05 23:31:13,684  INFO - Open left bar
+2017-10-05 23:31:13,684  INFO - Сlicked on the desired language
+2017-10-05 23:31:13,685  INFO - Checked language en
+2017-10-05 23:31:13,786  INFO - Getting an attribute
+2017-10-05 23:31:13,949  INFO - Swap language
+2017-10-05 23:31:14,400  INFO - Item found
+2017-10-05 23:31:14,400  INFO - Found button
+2017-10-05 23:31:14,400  INFO - Click button
+2017-10-05 23:31:17,835  INFO - Item found
+2017-10-05 23:31:17,836  INFO - Found combobox
+2017-10-05 23:31:17,836  INFO - Change the language to English
+2017-10-05 23:31:22,700  INFO - Getting an attribute
+2017-10-05 23:31:23,397  INFO - Item found
+2017-10-05 23:31:23,397  INFO - Found the header
+2017-10-05 23:31:23,397  INFO - Click logging
+2017-10-05 23:31:23,426  INFO - Item found
+2017-10-05 23:31:23,426  INFO - Found button
+2017-10-05 23:31:23,426  INFO - Click button
+2017-10-05 23:31:26,141  INFO - Item found
+2017-10-05 23:31:26,142  INFO - Opened login page
+2017-10-05 23:31:26,142  INFO - Inputted user login
+2017-10-05 23:31:26,161  INFO - Item found
+2017-10-05 23:31:26,161  INFO - Found input field
+2017-10-05 23:31:26,161  INFO - Entered data
+2017-10-05 23:31:26,685  INFO - Clicked - Log in
+2017-10-05 23:31:26,731  INFO - Item found
+2017-10-05 23:31:26,731  INFO - Found button
+2017-10-05 23:31:26,731  INFO - Click button
+2017-10-05 23:31:27,194  INFO - Inputted user password
+2017-10-05 23:31:28,715  INFO - Item found
+2017-10-05 23:31:28,716  INFO - Found input field
+2017-10-05 23:31:28,716  INFO - Entered data
+2017-10-05 23:31:28,884  INFO - Clicked - Log in
+2017-10-05 23:31:28,902  INFO - Item found
+2017-10-05 23:31:28,902  INFO - Found button
+2017-10-05 23:31:28,902  INFO - Click button
+2017-10-05 23:31:32,406  INFO - Item found
+2017-10-05 23:31:32,406  INFO - Opened home page
+2017-10-05 23:31:32,406  INFO - Click place tag
+2017-10-05 23:31:32,653  INFO - Item found
+2017-10-05 23:31:32,653  INFO - Found button
+2017-10-05 23:31:32,654  INFO - Click button
+2017-10-05 23:31:33,469  INFO - Item found
+2017-10-05 23:31:33,469  INFO - Opened home page
+2017-10-05 23:31:33,469  INFO - Click place tag
+2017-10-05 23:31:33,819  INFO - Item found
+2017-10-05 23:31:33,819  INFO - Found button
+2017-10-05 23:31:33,819  INFO - Click button
+2017-10-05 23:31:34,562  INFO - Place input
+2017-10-05 23:31:34,651  INFO - Item found
+2017-10-05 23:31:34,652  INFO - Found input field
+2017-10-05 23:31:34,652  INFO - Entered data
+2017-10-05 23:31:34,872  INFO - Browser close
+2017-10-05 23:34:58,342  INFO - Browser settings
+2017-10-05 23:35:14,761  INFO - Creating of driver browser
+2017-10-05 23:35:22,466  INFO - Item found
+2017-10-05 23:35:22,466  INFO - Opened home page
+2017-10-05 23:35:22,645  INFO - Item found
+2017-10-05 23:35:22,645  INFO - Opened home page
+2017-10-05 23:35:22,645  INFO - Choice left bar
+2017-10-05 23:35:22,728  INFO - Item found
+2017-10-05 23:35:22,728  INFO - Found button
+2017-10-05 23:35:22,729  INFO - Click button
+2017-10-05 23:35:24,063  INFO - Item found
+2017-10-05 23:35:24,063  INFO - Open left bar
+2017-10-05 23:35:24,064  INFO - Сlicked on the desired language
+2017-10-05 23:35:24,064  INFO - Checked language en
+2017-10-05 23:35:24,190  INFO - Getting an attribute
+2017-10-05 23:35:24,401  INFO - Swap language
+2017-10-05 23:35:25,088  INFO - Item found
+2017-10-05 23:35:25,088  INFO - Found button
+2017-10-05 23:35:25,088  INFO - Click button
+2017-10-05 23:35:25,728  INFO - Item found
+2017-10-05 23:35:25,729  INFO - Found combobox
+2017-10-05 23:35:25,729  INFO - Change the language to English
+2017-10-05 23:35:28,959  INFO - Getting an attribute
+2017-10-05 23:35:29,760  INFO - Item found
+2017-10-05 23:35:29,761  INFO - Found the header
+2017-10-05 23:35:29,761  INFO - Click logging
+2017-10-05 23:35:29,812  INFO - Item found
+2017-10-05 23:35:29,812  INFO - Found button
+2017-10-05 23:35:29,812  INFO - Click button
+2017-10-05 23:35:33,347  INFO - Item found
+2017-10-05 23:35:33,347  INFO - Opened login page
+2017-10-05 23:35:33,348  INFO - Inputted user login
+2017-10-05 23:35:33,376  INFO - Item found
+2017-10-05 23:35:33,376  INFO - Found input field
+2017-10-05 23:35:33,377  INFO - Entered data
+2017-10-05 23:35:33,846  INFO - Clicked - Log in
+2017-10-05 23:35:33,877  INFO - Item found
+2017-10-05 23:35:33,878  INFO - Found button
+2017-10-05 23:35:33,878  INFO - Click button
+2017-10-05 23:35:34,269  INFO - Inputted user password
+2017-10-05 23:35:35,835  INFO - Item found
+2017-10-05 23:35:35,836  INFO - Found input field
+2017-10-05 23:35:35,836  INFO - Entered data
+2017-10-05 23:35:36,188  INFO - Clicked - Log in
+2017-10-05 23:35:36,215  INFO - Item found
+2017-10-05 23:35:36,215  INFO - Found button
+2017-10-05 23:35:36,215  INFO - Click button
+2017-10-05 23:35:39,852  INFO - Item found
+2017-10-05 23:35:39,852  INFO - Opened home page
+2017-10-05 23:35:39,852  INFO - Click place tag
+2017-10-05 23:35:40,175  INFO - Item found
+2017-10-05 23:35:40,176  INFO - Found button
+2017-10-05 23:35:40,176  INFO - Click button
+2017-10-05 23:35:40,448  INFO - Browser close
+2017-10-05 23:37:08,874  INFO - Browser settings
+2017-10-05 23:37:23,243  INFO - Creating of driver browser
+2017-10-05 23:37:31,467  INFO - Item found
+2017-10-05 23:37:31,467  INFO - Opened home page
+2017-10-05 23:37:31,658  INFO - Item found
+2017-10-05 23:37:31,658  INFO - Opened home page
+2017-10-05 23:37:31,658  INFO - Choice left bar
+2017-10-05 23:37:31,728  INFO - Item found
+2017-10-05 23:37:31,728  INFO - Found button
+2017-10-05 23:37:31,728  INFO - Click button
+2017-10-05 23:37:32,827  INFO - Item found
+2017-10-05 23:37:32,828  INFO - Open left bar
+2017-10-05 23:37:32,828  INFO - Сlicked on the desired language
+2017-10-05 23:37:32,828  INFO - Checked language en
+2017-10-05 23:37:33,188  INFO - Getting an attribute
+2017-10-05 23:37:33,360  INFO - Swap language
+2017-10-05 23:37:34,553  INFO - Item found
+2017-10-05 23:37:34,554  INFO - Found button
+2017-10-05 23:37:34,555  INFO - Click button
+2017-10-05 23:37:35,240  INFO - Item found
+2017-10-05 23:37:35,241  INFO - Found combobox
+2017-10-05 23:37:35,241  INFO - Change the language to English
+2017-10-05 23:37:38,828  INFO - Getting an attribute
+2017-10-05 23:37:39,954  INFO - Item found
+2017-10-05 23:37:39,955  INFO - Found the header
+2017-10-05 23:37:39,955  INFO - Click logging
+2017-10-05 23:37:40,247  INFO - Item found
+2017-10-05 23:37:40,247  INFO - Found button
+2017-10-05 23:37:40,247  INFO - Click button
+2017-10-05 23:37:45,277  INFO - Item found
+2017-10-05 23:37:45,277  INFO - Opened login page
+2017-10-05 23:37:45,277  INFO - Inputted user login
+2017-10-05 23:37:45,299  INFO - Item found
+2017-10-05 23:37:45,299  INFO - Found input field
+2017-10-05 23:37:45,300  INFO - Entered data
+2017-10-05 23:37:45,988  INFO - Clicked - Log in
+2017-10-05 23:37:46,016  INFO - Item found
+2017-10-05 23:37:46,016  INFO - Found button
+2017-10-05 23:37:46,016  INFO - Click button
+2017-10-05 23:37:46,825  INFO - Inputted user password
+2017-10-05 23:37:48,846  INFO - Item found
+2017-10-05 23:37:48,847  INFO - Found input field
+2017-10-05 23:37:48,847  INFO - Entered data
+2017-10-05 23:37:49,000  INFO - Clicked - Log in
+2017-10-05 23:37:49,023  INFO - Item found
+2017-10-05 23:37:49,024  INFO - Found button
+2017-10-05 23:37:49,024  INFO - Click button
+2017-10-05 23:37:52,536  INFO - Item found
+2017-10-05 23:37:52,536  INFO - Opened home page
+2017-10-05 23:37:52,536  INFO - Click place tag
+2017-10-05 23:37:52,977  INFO - Item found
+2017-10-05 23:37:52,977  INFO - Found button
+2017-10-05 23:37:52,978  INFO - Click button
+2017-10-05 23:37:54,199  INFO - Item found
+2017-10-05 23:37:54,200  INFO - Opened home page
+2017-10-05 23:37:54,201  INFO - Place input
+2017-10-05 23:38:06,639  INFO - Item found
+2017-10-05 23:38:06,639  INFO - Found input field
+2017-10-05 23:38:06,639  INFO - Entered data
+2017-10-05 23:40:11,463  INFO - Browser settings
+2017-10-05 23:40:35,256  INFO - Creating of driver browser
+2017-10-05 23:40:41,878  INFO - Item found
+2017-10-05 23:40:41,878  INFO - Opened home page
+2017-10-05 23:40:42,049  INFO - Item found
+2017-10-05 23:40:42,049  INFO - Opened home page
+2017-10-05 23:40:42,049  INFO - Choice left bar
+2017-10-05 23:40:42,119  INFO - Item found
+2017-10-05 23:40:42,119  INFO - Found button
+2017-10-05 23:40:42,119  INFO - Click button
+2017-10-05 23:40:43,243  INFO - Item found
+2017-10-05 23:40:43,244  INFO - Open left bar
+2017-10-05 23:40:43,244  INFO - Сlicked on the desired language
+2017-10-05 23:40:43,244  INFO - Checked language en
+2017-10-05 23:40:43,533  INFO - Getting an attribute
+2017-10-05 23:40:43,769  INFO - Swap language
+2017-10-05 23:40:44,443  INFO - Item found
+2017-10-05 23:40:44,443  INFO - Found button
+2017-10-05 23:40:44,443  INFO - Click button
+2017-10-05 23:40:46,267  INFO - Item found
+2017-10-05 23:40:46,267  INFO - Found combobox
+2017-10-05 23:40:46,267  INFO - Change the language to English
+2017-10-05 23:40:49,239  INFO - Getting an attribute
+2017-10-05 23:40:49,976  INFO - Item found
+2017-10-05 23:40:49,976  INFO - Found the header
+2017-10-05 23:40:49,977  INFO - Click logging
+2017-10-05 23:40:50,039  INFO - Item found
+2017-10-05 23:40:50,039  INFO - Found button
+2017-10-05 23:40:50,040  INFO - Click button
+2017-10-05 23:40:52,370  INFO - Item found
+2017-10-05 23:40:52,370  INFO - Opened login page
+2017-10-05 23:40:52,370  INFO - Inputted user login
+2017-10-05 23:40:52,396  INFO - Item found
+2017-10-05 23:40:52,396  INFO - Found input field
+2017-10-05 23:40:52,396  INFO - Entered data
+2017-10-05 23:40:52,985  INFO - Clicked - Log in
+2017-10-05 23:40:53,025  INFO - Item found
+2017-10-05 23:40:53,025  INFO - Found button
+2017-10-05 23:40:53,026  INFO - Click button
+2017-10-05 23:40:53,483  INFO - Inputted user password
+2017-10-05 23:40:54,885  INFO - Item found
+2017-10-05 23:40:54,885  INFO - Found input field
+2017-10-05 23:40:54,886  INFO - Entered data
+2017-10-05 23:40:55,038  INFO - Clicked - Log in
+2017-10-05 23:40:55,066  INFO - Item found
+2017-10-05 23:40:55,066  INFO - Found button
+2017-10-05 23:40:55,066  INFO - Click button
+2017-10-05 23:40:58,125  INFO - Item found
+2017-10-05 23:40:58,126  INFO - Opened home page
+2017-10-05 23:40:58,126  INFO - Click place tag
+2017-10-05 23:40:59,029  INFO - Item found
+2017-10-05 23:40:59,029  INFO - Found button
+2017-10-05 23:40:59,030  INFO - Click button
+2017-10-05 23:41:00,113  INFO - Item found
+2017-10-05 23:41:00,113  INFO - Opened home page
+2017-10-05 23:41:00,114  INFO - Place input
+2017-10-05 23:41:11,701  INFO - Item found
+2017-10-05 23:41:11,701  INFO - Found input field
+2017-10-05 23:41:11,701  INFO - Entered data
+2017-10-05 23:43:13,904  INFO - Browser settings
+2017-10-05 23:43:34,594  INFO - Creating of driver browser
+2017-10-05 23:43:42,239  INFO - Item found
+2017-10-05 23:43:42,239  INFO - Opened home page
+2017-10-05 23:43:42,434  INFO - Item found
+2017-10-05 23:43:42,434  INFO - Opened home page
+2017-10-05 23:43:42,434  INFO - Choice left bar
+2017-10-05 23:43:42,564  INFO - Item found
+2017-10-05 23:43:42,564  INFO - Found button
+2017-10-05 23:43:42,564  INFO - Click button
+2017-10-05 23:43:43,103  INFO - Item found
+2017-10-05 23:43:43,103  INFO - Open left bar
+2017-10-05 23:43:43,104  INFO - Сlicked on the desired language
+2017-10-05 23:43:43,104  INFO - Checked language en
+2017-10-05 23:43:43,150  INFO - Getting an attribute
+2017-10-05 23:43:43,718  INFO - Swap language
+2017-10-05 23:43:44,643  INFO - Item found
+2017-10-05 23:43:44,644  INFO - Found button
+2017-10-05 23:43:44,644  INFO - Click button
+2017-10-05 23:43:46,370  INFO - Item found
+2017-10-05 23:43:46,370  INFO - Found combobox
+2017-10-05 23:43:46,372  INFO - Change the language to English
+2017-10-05 23:43:51,574  INFO - Getting an attribute
+2017-10-05 23:43:52,003  INFO - Item found
+2017-10-05 23:43:52,003  INFO - Found the header
+2017-10-05 23:43:52,003  INFO - Click logging
+2017-10-05 23:43:52,052  INFO - Item found
+2017-10-05 23:43:52,053  INFO - Found button
+2017-10-05 23:43:52,053  INFO - Click button
+2017-10-05 23:43:56,552  INFO - Item found
+2017-10-05 23:43:56,552  INFO - Opened login page
+2017-10-05 23:43:56,553  INFO - Inputted user login
+2017-10-05 23:43:56,595  INFO - Item found
+2017-10-05 23:43:56,595  INFO - Found input field
+2017-10-05 23:43:56,595  INFO - Entered data
+2017-10-05 23:43:57,063  INFO - Clicked - Log in
+2017-10-05 23:43:57,088  INFO - Item found
+2017-10-05 23:43:57,088  INFO - Found button
+2017-10-05 23:43:57,088  INFO - Click button
+2017-10-05 23:43:57,462  INFO - Inputted user password
+2017-10-05 23:43:58,992  INFO - Item found
+2017-10-05 23:43:58,992  INFO - Found input field
+2017-10-05 23:43:58,992  INFO - Entered data
+2017-10-05 23:43:59,117  INFO - Clicked - Log in
+2017-10-05 23:43:59,149  INFO - Item found
+2017-10-05 23:43:59,150  INFO - Found button
+2017-10-05 23:43:59,150  INFO - Click button
+2017-10-05 23:44:02,265  INFO - Item found
+2017-10-05 23:44:02,265  INFO - Opened home page
+2017-10-05 23:44:02,265  INFO - Click place tag
+2017-10-05 23:44:07,357  INFO - Item found
+2017-10-05 23:44:07,357  INFO - Found button
+2017-10-05 23:44:07,357  INFO - Click button
+2017-10-05 23:44:07,763  INFO - Item found
+2017-10-05 23:44:07,763  INFO - Opened home page
+2017-10-05 23:44:07,764  INFO - Place input
+2017-10-05 23:45:11,173  INFO - Browser close
+2017-10-05 23:45:58,339  INFO - Browser settings
+2017-10-05 23:46:18,940  INFO - Creating of driver browser
+2017-10-05 23:46:24,902  INFO - Item found
+2017-10-05 23:46:24,902  INFO - Opened home page
+2017-10-05 23:46:25,127  INFO - Item found
+2017-10-05 23:46:25,127  INFO - Opened home page
+2017-10-05 23:46:25,127  INFO - Choice left bar
+2017-10-05 23:46:25,180  INFO - Item found
+2017-10-05 23:46:25,181  INFO - Found button
+2017-10-05 23:46:25,181  INFO - Click button
+2017-10-05 23:46:26,244  INFO - Item found
+2017-10-05 23:46:26,246  INFO - Open left bar
+2017-10-05 23:46:26,246  INFO - Сlicked on the desired language
+2017-10-05 23:46:26,246  INFO - Checked language en
+2017-10-05 23:46:26,323  INFO - Getting an attribute
+2017-10-05 23:46:26,562  INFO - Swap language
+2017-10-05 23:46:27,400  INFO - Item found
+2017-10-05 23:46:27,401  INFO - Found button
+2017-10-05 23:46:27,401  INFO - Click button
+2017-10-05 23:46:28,283  INFO - Item found
+2017-10-05 23:46:28,284  INFO - Found combobox
+2017-10-05 23:46:28,284  INFO - Change the language to English
+2017-10-05 23:46:35,984  INFO - Getting an attribute
+2017-10-05 23:46:37,251  INFO - Item found
+2017-10-05 23:46:37,252  INFO - Found the header
+2017-10-05 23:46:37,264  INFO - Click logging
+2017-10-05 23:46:37,315  INFO - Item found
+2017-10-05 23:46:37,315  INFO - Found button
+2017-10-05 23:46:37,315  INFO - Click button
+2017-10-05 23:46:42,128  INFO - Item found
+2017-10-05 23:46:42,129  INFO - Opened login page
+2017-10-05 23:46:42,130  INFO - Inputted user login
+2017-10-05 23:46:42,161  INFO - Item found
+2017-10-05 23:46:42,161  INFO - Found input field
+2017-10-05 23:46:42,161  INFO - Entered data
+2017-10-05 23:46:43,013  INFO - Clicked - Log in
+2017-10-05 23:46:43,085  INFO - Item found
+2017-10-05 23:46:43,085  INFO - Found button
+2017-10-05 23:46:43,085  INFO - Click button
+2017-10-05 23:46:43,626  INFO - Inputted user password
+2017-10-05 23:46:45,439  INFO - Item found
+2017-10-05 23:46:45,439  INFO - Found input field
+2017-10-05 23:46:45,439  INFO - Entered data
+2017-10-05 23:46:45,586  INFO - Clicked - Log in
+2017-10-05 23:46:45,608  INFO - Item found
+2017-10-05 23:46:45,608  INFO - Found button
+2017-10-05 23:46:45,608  INFO - Click button
+2017-10-05 23:46:49,636  INFO - Item found
+2017-10-05 23:46:49,636  INFO - Opened home page
+2017-10-05 23:46:49,637  INFO - Click place tag
+2017-10-05 23:46:49,902  INFO - Item found
+2017-10-05 23:46:49,902  INFO - Found button
+2017-10-05 23:46:49,902  INFO - Click button
+2017-10-05 23:46:50,744  INFO - Item found
+2017-10-05 23:46:50,745  INFO - Opened home page
+2017-10-05 23:46:50,745  INFO - Place input
+2017-10-05 23:46:51,848  INFO - Item found
+2017-10-05 23:46:51,849  INFO - Found input field
+2017-10-05 23:46:51,849  INFO - Entered data
+2017-10-05 23:47:08,642 ERROR - Not found element Unable to locate element: //div[@id='global_actions']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.uOPRSViuBe2A, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=7368, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: f86c5d5e-9142-4097-bceb-68ffa33943b3
+*** Element info: {Using=xpath, value=//div[@id='global_actions']}
+2017-10-05 23:47:08,674  INFO - Browser close
+2017-10-05 23:49:08,790  INFO - Browser settings
+2017-10-05 23:49:30,818  INFO - Creating of driver browser
+2017-10-05 23:49:37,949  INFO - Item found
+2017-10-05 23:49:37,949  INFO - Opened home page
+2017-10-05 23:49:38,048  INFO - Item found
+2017-10-05 23:49:38,048  INFO - Opened home page
+2017-10-05 23:49:38,048  INFO - Choice left bar
+2017-10-05 23:49:38,184  INFO - Item found
+2017-10-05 23:49:38,184  INFO - Found button
+2017-10-05 23:49:38,184  INFO - Click button
+2017-10-05 23:49:39,213  INFO - Item found
+2017-10-05 23:49:39,214  INFO - Open left bar
+2017-10-05 23:49:39,214  INFO - Сlicked on the desired language
+2017-10-05 23:49:39,214  INFO - Checked language en
+2017-10-05 23:49:39,403  INFO - Getting an attribute
+2017-10-05 23:49:39,616  INFO - Swap language
+2017-10-05 23:49:40,301  INFO - Item found
+2017-10-05 23:49:40,301  INFO - Found button
+2017-10-05 23:49:40,301  INFO - Click button
+2017-10-05 23:49:41,906  INFO - Item found
+2017-10-05 23:49:41,907  INFO - Found combobox
+2017-10-05 23:49:41,907  INFO - Change the language to English
+2017-10-05 23:49:44,584  INFO - Getting an attribute
+2017-10-05 23:49:45,540  INFO - Item found
+2017-10-05 23:49:45,540  INFO - Found the header
+2017-10-05 23:49:45,540  INFO - Click logging
+2017-10-05 23:49:45,590  INFO - Item found
+2017-10-05 23:49:45,590  INFO - Found button
+2017-10-05 23:49:45,590  INFO - Click button
+2017-10-05 23:49:48,271  INFO - Item found
+2017-10-05 23:49:48,272  INFO - Opened login page
+2017-10-05 23:49:48,272  INFO - Inputted user login
+2017-10-05 23:49:48,296  INFO - Item found
+2017-10-05 23:49:48,296  INFO - Found input field
+2017-10-05 23:49:48,297  INFO - Entered data
+2017-10-05 23:49:48,739  INFO - Clicked - Log in
+2017-10-05 23:49:48,774  INFO - Item found
+2017-10-05 23:49:48,774  INFO - Found button
+2017-10-05 23:49:48,774  INFO - Click button
+2017-10-05 23:49:49,195  INFO - Inputted user password
+2017-10-05 23:49:50,608  INFO - Item found
+2017-10-05 23:49:50,609  INFO - Found input field
+2017-10-05 23:49:50,609  INFO - Entered data
+2017-10-05 23:49:50,768  INFO - Clicked - Log in
+2017-10-05 23:49:50,794  INFO - Item found
+2017-10-05 23:49:50,794  INFO - Found button
+2017-10-05 23:49:50,794  INFO - Click button
+2017-10-05 23:49:53,874  INFO - Item found
+2017-10-05 23:49:53,874  INFO - Opened home page
+2017-10-05 23:49:53,874  INFO - Click place tag
+2017-10-05 23:49:54,223  INFO - Item found
+2017-10-05 23:49:54,224  INFO - Found button
+2017-10-05 23:49:54,224  INFO - Click button
+2017-10-05 23:49:54,956  INFO - Place input
+2017-10-05 23:49:55,812  INFO - Item found
+2017-10-05 23:49:55,812  INFO - Found input field
+2017-10-05 23:49:55,812  INFO - Entered data
+2017-10-05 23:49:56,059  INFO - Click place result
+2017-10-06 00:53:02,569  INFO - Browser settings
+2017-10-06 00:53:19,939  INFO - Creating of driver browser
+2017-10-06 00:53:29,052  INFO - Item found
+2017-10-06 00:53:29,052  INFO - Opened home page
+2017-10-06 00:53:29,135  INFO - Item found
+2017-10-06 00:53:29,135  INFO - Opened home page
+2017-10-06 00:53:29,135  INFO - Choice left bar
+2017-10-06 00:53:29,592  INFO - Item found
+2017-10-06 00:53:29,592  INFO - Found button
+2017-10-06 00:53:29,592  INFO - Click button
+2017-10-06 00:53:30,687  INFO - Item found
+2017-10-06 00:53:30,688  INFO - Open left bar
+2017-10-06 00:53:30,688  INFO - Сlicked on the desired language
+2017-10-06 00:53:30,688  INFO - Checked language en
+2017-10-06 00:53:30,818  INFO - Getting an attribute
+2017-10-06 00:53:31,417  INFO - Swap language
+2017-10-06 00:53:32,258  INFO - Item found
+2017-10-06 00:53:32,259  INFO - Found button
+2017-10-06 00:53:32,259  INFO - Click button
+2017-10-06 00:53:34,946  INFO - Item found
+2017-10-06 00:53:34,946  INFO - Found combobox
+2017-10-06 00:53:34,947  INFO - Change the language to English
+2017-10-06 00:53:37,708  INFO - Getting an attribute
+2017-10-06 00:53:38,390  INFO - Item found
+2017-10-06 00:53:38,390  INFO - Found the header
+2017-10-06 00:53:38,391  INFO - Click logging
+2017-10-06 00:53:38,754  INFO - Item found
+2017-10-06 00:53:38,754  INFO - Found button
+2017-10-06 00:53:38,754  INFO - Click button
+2017-10-06 00:53:40,826  INFO - Item found
+2017-10-06 00:53:40,827  INFO - Opened login page
+2017-10-06 00:53:40,827  INFO - Inputted user login
+2017-10-06 00:53:40,890  INFO - Item found
+2017-10-06 00:53:40,890  INFO - Found input field
+2017-10-06 00:53:40,891  INFO - Entered data
+2017-10-06 00:53:41,436  INFO - Clicked - Log in
+2017-10-06 00:53:41,490  INFO - Item found
+2017-10-06 00:53:41,490  INFO - Found button
+2017-10-06 00:53:41,491  INFO - Click button
+2017-10-06 00:53:41,880  INFO - Inputted user password
+2017-10-06 00:55:29,781  INFO - Browser close
+2017-10-06 00:56:55,954  INFO - Browser settings
+2017-10-06 00:57:08,497  INFO - Creating of driver browser
+2017-10-06 00:57:16,498  INFO - Item found
+2017-10-06 00:57:16,498  INFO - Opened home page
+2017-10-06 00:57:16,640  INFO - Item found
+2017-10-06 00:57:16,640  INFO - Opened home page
+2017-10-06 00:57:16,641  INFO - Choice left bar
+2017-10-06 00:57:16,791  INFO - Item found
+2017-10-06 00:57:16,792  INFO - Found button
+2017-10-06 00:57:16,792  INFO - Click button
+2017-10-06 00:57:17,895  INFO - Item found
+2017-10-06 00:57:17,896  INFO - Open left bar
+2017-10-06 00:57:17,897  INFO - Сlicked on the desired language
+2017-10-06 00:57:17,898  INFO - Checked language en
+2017-10-06 00:57:18,122  INFO - Getting an attribute
+2017-10-06 00:57:18,350  INFO - Swap language
+2017-10-06 00:57:19,394  INFO - Item found
+2017-10-06 00:57:19,394  INFO - Found button
+2017-10-06 00:57:19,395  INFO - Click button
+2017-10-06 00:57:19,832  INFO - Item found
+2017-10-06 00:57:19,832  INFO - Found combobox
+2017-10-06 00:57:19,832  INFO - Change the language to English
+2017-10-06 00:57:22,622  INFO - Getting an attribute
+2017-10-06 00:57:23,373  INFO - Item found
+2017-10-06 00:57:23,373  INFO - Found the header
+2017-10-06 00:57:23,373  INFO - Click logging
+2017-10-06 00:57:23,410  INFO - Item found
+2017-10-06 00:57:23,411  INFO - Found button
+2017-10-06 00:57:23,411  INFO - Click button
+2017-10-06 00:57:26,136  INFO - Item found
+2017-10-06 00:57:26,136  INFO - Opened login page
+2017-10-06 00:57:26,136  INFO - Inputted user login
+2017-10-06 00:57:26,160  INFO - Item found
+2017-10-06 00:57:26,161  INFO - Found input field
+2017-10-06 00:57:26,161  INFO - Entered data
+2017-10-06 00:57:26,631  INFO - Clicked - Log in
+2017-10-06 00:57:26,647  INFO - Item found
+2017-10-06 00:57:26,647  INFO - Found button
+2017-10-06 00:57:26,648  INFO - Click button
+2017-10-06 00:57:27,041  INFO - Inputted user password
+2017-10-06 00:57:28,398  INFO - Item found
+2017-10-06 00:57:28,399  INFO - Found input field
+2017-10-06 00:57:28,399  INFO - Entered data
+2017-10-06 00:57:28,525  INFO - Clicked - Log in
+2017-10-06 00:57:28,561  INFO - Item found
+2017-10-06 00:57:28,562  INFO - Found button
+2017-10-06 00:57:28,562  INFO - Click button
+2017-10-06 00:57:31,388  INFO - Item found
+2017-10-06 00:57:31,389  INFO - Opened home page
+2017-10-06 00:57:31,389  INFO - Click place tag
+2017-10-06 00:57:31,699  INFO - Item found
+2017-10-06 00:57:31,699  INFO - Found button
+2017-10-06 00:57:31,699  INFO - Click button
+2017-10-06 00:57:31,952  INFO - Browser close
+2017-10-06 00:58:41,026  INFO - Browser settings
+2017-10-06 00:58:52,096  INFO - Creating of driver browser
+2017-10-06 00:58:59,573  INFO - Item found
+2017-10-06 00:58:59,573  INFO - Opened home page
+2017-10-06 00:58:59,811  INFO - Item found
+2017-10-06 00:58:59,812  INFO - Opened home page
+2017-10-06 00:58:59,812  INFO - Choice left bar
+2017-10-06 00:58:59,960  INFO - Item found
+2017-10-06 00:58:59,962  INFO - Found button
+2017-10-06 00:58:59,962  INFO - Click button
+2017-10-06 00:59:01,433  INFO - Item found
+2017-10-06 00:59:01,433  INFO - Open left bar
+2017-10-06 00:59:01,434  INFO - Сlicked on the desired language
+2017-10-06 00:59:01,434  INFO - Checked language en
+2017-10-06 00:59:01,614  INFO - Getting an attribute
+2017-10-06 00:59:01,785  INFO - Swap language
+2017-10-06 00:59:02,357  INFO - Item found
+2017-10-06 00:59:02,357  INFO - Found button
+2017-10-06 00:59:02,357  INFO - Click button
+2017-10-06 00:59:04,520  INFO - Item found
+2017-10-06 00:59:04,521  INFO - Found combobox
+2017-10-06 00:59:04,521  INFO - Change the language to English
+2017-10-06 00:59:09,256  INFO - Getting an attribute
+2017-10-06 00:59:09,909  INFO - Item found
+2017-10-06 00:59:09,909  INFO - Found the header
+2017-10-06 00:59:09,909  INFO - Click logging
+2017-10-06 00:59:09,941  INFO - Item found
+2017-10-06 00:59:09,941  INFO - Found button
+2017-10-06 00:59:09,941  INFO - Click button
+2017-10-06 00:59:12,275  INFO - Item found
+2017-10-06 00:59:12,275  INFO - Opened login page
+2017-10-06 00:59:12,275  INFO - Inputted user login
+2017-10-06 00:59:12,296  INFO - Item found
+2017-10-06 00:59:12,296  INFO - Found input field
+2017-10-06 00:59:12,297  INFO - Entered data
+2017-10-06 00:59:12,799  INFO - Clicked - Log in
+2017-10-06 00:59:12,821  INFO - Item found
+2017-10-06 00:59:12,821  INFO - Found button
+2017-10-06 00:59:12,821  INFO - Click button
+2017-10-06 00:59:13,264  INFO - Inputted user password
+2017-10-06 00:59:14,293  INFO - Item found
+2017-10-06 00:59:14,293  INFO - Found input field
+2017-10-06 00:59:14,293  INFO - Entered data
+2017-10-06 00:59:14,467  INFO - Clicked - Log in
+2017-10-06 00:59:14,500  INFO - Item found
+2017-10-06 00:59:14,501  INFO - Found button
+2017-10-06 00:59:14,501  INFO - Click button
+2017-10-06 00:59:17,788  INFO - Item found
+2017-10-06 00:59:17,789  INFO - Opened home page
+2017-10-06 00:59:17,789  INFO - Click place tag
+2017-10-06 00:59:18,059  INFO - Item found
+2017-10-06 00:59:18,059  INFO - Found button
+2017-10-06 00:59:18,059  INFO - Click button
+2017-10-06 00:59:18,771  INFO - Place input
+2017-10-06 00:59:19,461  INFO - Item found
+2017-10-06 00:59:19,461  INFO - Found input field
+2017-10-06 00:59:19,461  INFO - Entered data
+2017-10-06 00:59:19,672  INFO - Click place result
+2017-10-06 00:59:20,838  INFO - Item found
+2017-10-06 00:59:20,838  INFO - Found button
+2017-10-06 00:59:20,838  INFO - Click button
+2017-10-06 00:59:37,206 ERROR - Not found element Unable to locate element: //div[@id='global_actions']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.MLZ52nGj2aBc, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, moz:headless=false, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=56.0, platformVersion=10.0, moz:processID=7844, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: fcddd958-e38d-4b54-8fc9-b8b190e06691
+*** Element info: {Using=xpath, value=//div[@id='global_actions']}
+2017-10-06 00:59:37,229  INFO - Browser close

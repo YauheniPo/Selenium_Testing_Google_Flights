@@ -106,11 +106,12 @@ public abstract class MainForEntityFramework {
 		action.perform();
 	}
 
-	public void pointToElement() {
+	public WebElement pointToElement() {
 		log.info("Point to element");
 		Actions action = new Actions(driver);
 		action.moveToElement(element);
 		action.perform();
+		return element;
 	}
 
 	public boolean isNotNull(By locator) {
@@ -138,7 +139,8 @@ public abstract class MainForEntityFramework {
 	public WebElement setWaitClickable(By locator) {
 		element = driver.findElement(locator);
 		Wait<WebDriver> wait = new WebDriverWait(driver, Integer.parseInt(properties.getProperty(PROP_BROWSER_TIMEOUT)))
-				.pollingEvery(TimeoutConfig.MIN.getTimeout(), TimeUnit.MILLISECONDS);
+				.pollingEvery(TimeoutConfig.MIN.getTimeout(), TimeUnit.MILLISECONDS)
+				.ignoring(NoSuchElementException.class);
 		wait.until(ExpectedConditions.elementToBeClickable(element));
 		return element;
 	}

@@ -3022,3 +3022,1418 @@ Session ID: 9ddac68c-e0e9-40da-b293-ed7fc1052218
 2017-10-06 13:32:01,778  INFO - Item found
 2017-10-06 13:32:01,778  INFO - Click track prices
 2017-10-06 13:32:02,579  INFO - Browser close
+2017-10-06 23:46:09,722  INFO - Browser settings
+2017-10-06 23:46:20,936  INFO - Creating of driver browser
+2017-10-06 23:46:26,895  INFO - Item found
+2017-10-06 23:46:26,895  INFO - Opened home page
+2017-10-06 23:46:27,042  INFO - Item found
+2017-10-06 23:46:27,042  INFO - Opened home page
+2017-10-06 23:46:27,042  INFO - Choice left bar
+2017-10-06 23:46:27,095  INFO - Item found
+2017-10-06 23:46:27,095  INFO - Found button
+2017-10-06 23:46:27,095  INFO - Click button
+2017-10-06 23:46:28,514  INFO - Item found
+2017-10-06 23:46:28,515  INFO - Open left bar
+2017-10-06 23:46:28,515  INFO - Сlicked on the desired language
+2017-10-06 23:46:28,515  INFO - Checked language en
+2017-10-06 23:46:28,587  INFO - Getting an attribute
+2017-10-06 23:46:28,879  INFO - Swap language
+2017-10-06 23:46:29,464  INFO - Item found
+2017-10-06 23:46:29,465  INFO - Found button
+2017-10-06 23:46:29,465  INFO - Click button
+2017-10-06 23:46:30,402  INFO - Item found
+2017-10-06 23:46:30,402  INFO - Found combobox
+2017-10-06 23:46:30,402  INFO - Change the language to EN
+2017-10-06 23:46:33,549  INFO - Getting an attribute
+2017-10-06 23:46:34,270  INFO - Item found
+2017-10-06 23:46:34,270  INFO - Opened home page
+2017-10-06 23:46:34,270  INFO - Click place tag
+2017-10-06 23:46:34,889  INFO - Item found
+2017-10-06 23:46:34,890  INFO - Found button
+2017-10-06 23:46:34,890  INFO - Click button
+2017-10-06 23:46:35,396  INFO - Place input
+2017-10-06 23:46:35,797  INFO - Item found
+2017-10-06 23:46:35,797  INFO - Found input field
+2017-10-06 23:46:35,797  INFO - Entered data
+2017-10-06 23:46:36,819  INFO - Click place result
+2017-10-06 23:46:36,903  INFO - Item found
+2017-10-06 23:46:36,903  INFO - Found button
+2017-10-06 23:46:36,903  INFO - Click button
+2017-10-06 23:46:38,221  INFO - Click place
+2017-10-06 23:46:38,358  INFO - Item found
+2017-10-06 23:46:38,358  INFO - Found button
+2017-10-06 23:46:38,358  INFO - Click button
+2017-10-06 23:46:38,784  INFO - Click place
+2017-10-06 23:46:38,906  INFO - Item found
+2017-10-06 23:46:38,906  INFO - Found button
+2017-10-06 23:46:38,906  INFO - Click button
+2017-10-06 23:46:40,277  INFO - Item found
+2017-10-06 23:46:40,277  INFO - Click track prices
+2017-10-06 23:46:41,211  INFO - Browser close
+2017-10-06 23:46:58,322  INFO - Browser settings
+2017-10-06 23:47:06,589  INFO - Creating of driver browser
+2017-10-06 23:47:11,916  INFO - Item found
+2017-10-06 23:47:11,916  INFO - Opened home page
+2017-10-06 23:47:12,148  INFO - Item found
+2017-10-06 23:47:12,148  INFO - Opened home page
+2017-10-06 23:47:12,148  INFO - Choice left bar
+2017-10-06 23:47:12,232  INFO - Item found
+2017-10-06 23:47:12,232  INFO - Found button
+2017-10-06 23:47:12,232  INFO - Click button
+2017-10-06 23:47:12,865  INFO - Item found
+2017-10-06 23:47:12,865  INFO - Open left bar
+2017-10-06 23:47:12,865  INFO - Сlicked on the desired language
+2017-10-06 23:47:12,865  INFO - Checked language en
+2017-10-06 23:47:13,337  INFO - Getting an attribute
+2017-10-06 23:47:13,770  INFO - Swap language
+2017-10-06 23:47:14,978  INFO - Item found
+2017-10-06 23:47:14,979  INFO - Found button
+2017-10-06 23:47:14,979  INFO - Click button
+2017-10-06 23:47:15,484  INFO - Item found
+2017-10-06 23:47:15,485  INFO - Found combobox
+2017-10-06 23:47:15,485  INFO - Change the language to EN
+2017-10-06 23:47:18,503  INFO - Getting an attribute
+2017-10-06 23:47:19,236  INFO - Item found
+2017-10-06 23:47:19,236  INFO - Opened home page
+2017-10-06 23:47:19,236  INFO - Click place tag
+2017-10-06 23:47:19,721  INFO - Item found
+2017-10-06 23:47:19,721  INFO - Found button
+2017-10-06 23:47:19,737  INFO - Click button
+2017-10-06 23:47:20,578  INFO - Place input
+2017-10-06 23:47:20,823  INFO - Item found
+2017-10-06 23:47:20,823  INFO - Found input field
+2017-10-06 23:47:20,823  INFO - Entered data
+2017-10-06 23:47:21,872  INFO - Click place result
+2017-10-06 23:47:21,940  INFO - Item found
+2017-10-06 23:47:21,940  INFO - Found button
+2017-10-06 23:47:21,940  INFO - Click button
+2017-10-06 23:47:23,428  INFO - Browser close
+2017-10-07 00:16:40,289  INFO - Browser settings
+2017-10-07 00:16:51,125  INFO - Creating of driver browser
+2017-10-07 00:16:59,353  INFO - Item found
+2017-10-07 00:16:59,353  INFO - Opened home page
+2017-10-07 00:16:59,469  INFO - Item found
+2017-10-07 00:16:59,469  INFO - Opened home page
+2017-10-07 00:16:59,469  INFO - Choice left bar
+2017-10-07 00:16:59,670  INFO - Item found
+2017-10-07 00:16:59,670  INFO - Found button
+2017-10-07 00:16:59,670  INFO - Click button
+2017-10-07 00:17:00,711  INFO - Item found
+2017-10-07 00:17:00,712  INFO - Open left bar
+2017-10-07 00:17:00,712  INFO - Сlicked on the desired language
+2017-10-07 00:17:00,712  INFO - Checked language en
+2017-10-07 00:17:00,910  INFO - Getting an attribute
+2017-10-07 00:17:01,095  INFO - Swap language
+2017-10-07 00:17:01,935  INFO - Item found
+2017-10-07 00:17:01,935  INFO - Found button
+2017-10-07 00:17:01,935  INFO - Click button
+2017-10-07 00:17:02,469  INFO - Item found
+2017-10-07 00:17:02,469  INFO - Found combobox
+2017-10-07 00:17:02,470  INFO - Change the language to EN
+2017-10-07 00:17:04,868  INFO - Getting an attribute
+2017-10-07 00:17:05,449  INFO - Item found
+2017-10-07 00:17:05,449  INFO - Opened home page
+2017-10-07 00:17:05,449  INFO - Click place tag
+2017-10-07 00:17:05,890  INFO - Item found
+2017-10-07 00:17:05,890  INFO - Found button
+2017-10-07 00:17:05,890  INFO - Click button
+2017-10-07 00:17:06,231  INFO - Place input
+2017-10-07 00:17:06,676  INFO - Item found
+2017-10-07 00:17:06,676  INFO - Found input field
+2017-10-07 00:17:06,676  INFO - Entered data
+2017-10-07 00:17:07,794  INFO - Click place result
+2017-10-07 00:17:07,979  INFO - Item found
+2017-10-07 00:17:07,979  INFO - Found button
+2017-10-07 00:17:07,979  INFO - Click button
+2017-10-07 00:17:18,772  INFO - Browser close
+2017-10-07 00:20:57,101  INFO - Browser settings
+2017-10-07 00:21:06,259  INFO - Creating of driver browser
+2017-10-07 00:21:12,803  INFO - Item found
+2017-10-07 00:21:12,803  INFO - Opened home page
+2017-10-07 00:21:12,925  INFO - Item found
+2017-10-07 00:21:12,925  INFO - Opened home page
+2017-10-07 00:21:12,925  INFO - Choice left bar
+2017-10-07 00:21:13,003  INFO - Item found
+2017-10-07 00:21:13,003  INFO - Found button
+2017-10-07 00:21:13,003  INFO - Click button
+2017-10-07 00:21:13,608  INFO - Item found
+2017-10-07 00:21:13,608  INFO - Open left bar
+2017-10-07 00:21:13,608  INFO - Сlicked on the desired language
+2017-10-07 00:21:13,608  INFO - Checked language en
+2017-10-07 00:21:13,689  INFO - Getting an attribute
+2017-10-07 00:21:14,043  INFO - Swap language
+2017-10-07 00:21:14,469  INFO - Item found
+2017-10-07 00:21:14,470  INFO - Found button
+2017-10-07 00:21:14,470  INFO - Click button
+2017-10-07 00:21:15,266  INFO - Item found
+2017-10-07 00:21:15,266  INFO - Found combobox
+2017-10-07 00:21:15,267  INFO - Change the language to EN
+2017-10-07 00:21:18,669  INFO - Getting an attribute
+2017-10-07 00:21:19,200  INFO - Item found
+2017-10-07 00:21:19,200  INFO - Opened home page
+2017-10-07 00:21:19,200  INFO - Click place tag
+2017-10-07 00:21:19,680  INFO - Item found
+2017-10-07 00:21:19,680  INFO - Found button
+2017-10-07 00:21:19,680  INFO - Click button
+2017-10-07 00:21:20,187  INFO - Place input
+2017-10-07 00:23:21,412  INFO - Browser settings
+2017-10-07 00:23:35,511  INFO - Creating of driver browser
+2017-10-07 00:23:41,778  INFO - Item found
+2017-10-07 00:23:41,778  INFO - Opened home page
+2017-10-07 00:23:42,025  INFO - Item found
+2017-10-07 00:23:42,025  INFO - Opened home page
+2017-10-07 00:23:42,025  INFO - Choice left bar
+2017-10-07 00:23:42,165  INFO - Item found
+2017-10-07 00:23:42,165  INFO - Found button
+2017-10-07 00:23:42,165  INFO - Click button
+2017-10-07 00:23:43,720  INFO - Item found
+2017-10-07 00:23:43,720  INFO - Open left bar
+2017-10-07 00:23:43,721  INFO - Сlicked on the desired language
+2017-10-07 00:23:43,721  INFO - Checked language en
+2017-10-07 00:23:43,872  INFO - Getting an attribute
+2017-10-07 00:23:44,060  INFO - Swap language
+2017-10-07 00:23:44,721  INFO - Item found
+2017-10-07 00:23:44,721  INFO - Found button
+2017-10-07 00:23:44,721  INFO - Click button
+2017-10-07 00:23:45,360  INFO - Item found
+2017-10-07 00:23:45,360  INFO - Found combobox
+2017-10-07 00:23:45,361  INFO - Change the language to EN
+2017-10-07 00:23:48,007  INFO - Getting an attribute
+2017-10-07 00:23:48,613  INFO - Item found
+2017-10-07 00:23:48,613  INFO - Opened home page
+2017-10-07 00:23:48,613  INFO - Click place tag
+2017-10-07 00:23:49,013  INFO - Item found
+2017-10-07 00:23:49,014  INFO - Found button
+2017-10-07 00:23:49,014  INFO - Click button
+2017-10-07 00:23:49,498  INFO - Place input
+2017-10-07 00:23:50,272  INFO - Item found
+2017-10-07 00:23:50,272  INFO - Found input field
+2017-10-07 00:23:50,272  INFO - Entered data
+2017-10-07 00:23:51,359  INFO - Click place result
+2017-10-07 00:23:51,434  INFO - Item found
+2017-10-07 00:23:51,434  INFO - Found button
+2017-10-07 00:23:51,434  INFO - Click button
+2017-10-07 00:23:52,724  INFO - Browser close
+2017-10-07 00:26:17,347  INFO - Browser settings
+2017-10-07 00:26:26,431  INFO - Creating of driver browser
+2017-10-07 00:26:36,230  INFO - Item found
+2017-10-07 00:26:36,230  INFO - Opened home page
+2017-10-07 00:26:36,299  INFO - Item found
+2017-10-07 00:26:36,299  INFO - Opened home page
+2017-10-07 00:26:36,299  INFO - Choice left bar
+2017-10-07 00:26:36,453  INFO - Item found
+2017-10-07 00:26:36,453  INFO - Found button
+2017-10-07 00:26:36,453  INFO - Click button
+2017-10-07 00:26:37,323  INFO - Item found
+2017-10-07 00:26:37,323  INFO - Open left bar
+2017-10-07 00:26:37,323  INFO - Сlicked on the desired language
+2017-10-07 00:26:37,324  INFO - Checked language en
+2017-10-07 00:26:37,428  INFO - Getting an attribute
+2017-10-07 00:26:37,565  INFO - Swap language
+2017-10-07 00:26:38,041  INFO - Item found
+2017-10-07 00:26:38,041  INFO - Found button
+2017-10-07 00:26:38,041  INFO - Click button
+2017-10-07 00:26:39,835  INFO - Item found
+2017-10-07 00:26:39,836  INFO - Found combobox
+2017-10-07 00:26:39,836  INFO - Change the language to EN
+2017-10-07 00:26:45,004  INFO - Getting an attribute
+2017-10-07 00:26:45,668  INFO - Item found
+2017-10-07 00:26:45,668  INFO - Opened home page
+2017-10-07 00:26:45,668  INFO - Click place tag
+2017-10-07 00:26:46,269  INFO - Item found
+2017-10-07 00:26:46,269  INFO - Found button
+2017-10-07 00:26:46,269  INFO - Click button
+2017-10-07 00:26:46,708  INFO - Place input
+2017-10-07 00:26:47,240  INFO - Item found
+2017-10-07 00:26:47,240  INFO - Found input field
+2017-10-07 00:26:47,240  INFO - Entered data
+2017-10-07 00:26:48,191  INFO - Click place result
+2017-10-07 00:26:48,312  INFO - Item found
+2017-10-07 00:26:48,312  INFO - Found button
+2017-10-07 00:26:48,312  INFO - Click button
+2017-10-07 00:26:50,047  INFO - Browser close
+2017-10-07 00:28:52,041  INFO - Browser settings
+2017-10-07 00:29:01,553  INFO - Creating of driver browser
+2017-10-07 00:29:07,430  INFO - Item found
+2017-10-07 00:29:07,430  INFO - Opened home page
+2017-10-07 00:29:07,474  INFO - Item found
+2017-10-07 00:29:07,474  INFO - Opened home page
+2017-10-07 00:29:07,474  INFO - Choice left bar
+2017-10-07 00:29:07,489  INFO - Item found
+2017-10-07 00:29:07,489  INFO - Found button
+2017-10-07 00:29:07,489  INFO - Click button
+2017-10-07 00:29:08,094  INFO - Item found
+2017-10-07 00:29:08,095  INFO - Open left bar
+2017-10-07 00:29:08,095  INFO - Сlicked on the desired language
+2017-10-07 00:29:08,095  INFO - Checked language en
+2017-10-07 00:29:08,147  INFO - Getting an attribute
+2017-10-07 00:29:08,232  INFO - Swap language
+2017-10-07 00:29:08,879  INFO - Item found
+2017-10-07 00:29:08,879  INFO - Found button
+2017-10-07 00:29:08,879  INFO - Click button
+2017-10-07 00:29:10,762  INFO - Item found
+2017-10-07 00:29:10,762  INFO - Found combobox
+2017-10-07 00:29:10,763  INFO - Change the language to EN
+2017-10-07 00:29:15,019  INFO - Getting an attribute
+2017-10-07 00:29:15,630  INFO - Item found
+2017-10-07 00:29:15,630  INFO - Opened home page
+2017-10-07 00:29:15,630  INFO - Click place tag
+2017-10-07 00:29:16,083  INFO - Item found
+2017-10-07 00:29:16,084  INFO - Found button
+2017-10-07 00:29:16,084  INFO - Click button
+2017-10-07 00:29:16,522  INFO - Place input
+2017-10-07 00:29:16,821  INFO - Item found
+2017-10-07 00:29:16,821  INFO - Found input field
+2017-10-07 00:29:16,821  INFO - Entered data
+2017-10-07 00:29:17,840  INFO - Click place result
+2017-10-07 00:29:17,924  INFO - Item found
+2017-10-07 00:29:17,924  INFO - Found button
+2017-10-07 00:29:17,924  INFO - Click button
+2017-10-07 00:54:35,199  INFO - Browser settings
+2017-10-07 00:54:44,675  INFO - Creating of driver browser
+2017-10-07 00:54:53,220  INFO - Item found
+2017-10-07 00:54:53,220  INFO - Opened home page
+2017-10-07 00:54:53,320  INFO - Item found
+2017-10-07 00:54:53,320  INFO - Opened home page
+2017-10-07 00:54:53,320  INFO - Choice left bar
+2017-10-07 00:54:53,373  INFO - Item found
+2017-10-07 00:54:53,373  INFO - Found button
+2017-10-07 00:54:53,373  INFO - Click button
+2017-10-07 00:54:54,091  INFO - Item found
+2017-10-07 00:54:54,091  INFO - Open left bar
+2017-10-07 00:54:54,091  INFO - Сlicked on the desired language
+2017-10-07 00:54:54,091  INFO - Checked language en
+2017-10-07 00:54:54,391  INFO - Getting an attribute
+2017-10-07 00:54:54,583  INFO - Swap language
+2017-10-07 00:54:54,923  INFO - Item found
+2017-10-07 00:54:54,923  INFO - Found button
+2017-10-07 00:54:54,923  INFO - Click button
+2017-10-07 00:54:56,214  INFO - Item found
+2017-10-07 00:54:56,214  INFO - Found combobox
+2017-10-07 00:54:56,214  INFO - Change the language to EN
+2017-10-07 00:55:01,851  INFO - Getting an attribute
+2017-10-07 00:55:03,117  INFO - Item found
+2017-10-07 00:55:03,117  INFO - Opened home page
+2017-10-07 00:55:03,117  INFO - Click place tag
+2017-10-07 00:55:05,694  INFO - Item found
+2017-10-07 00:55:05,694  INFO - Found button
+2017-10-07 00:55:05,695  INFO - Click button
+2017-10-07 00:55:06,621  INFO - Place input
+2017-10-07 00:55:07,165  INFO - Item found
+2017-10-07 00:55:07,165  INFO - Found input field
+2017-10-07 00:55:07,165  INFO - Entered data
+2017-10-07 00:55:08,297  INFO - Click place result
+2017-10-07 00:55:08,429  INFO - Item found
+2017-10-07 00:55:08,429  INFO - Found button
+2017-10-07 00:55:08,429  INFO - Click button
+2017-10-07 00:55:26,892 ERROR - Not found element Unable to locate element: //div[contains(@class, 'w-x')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.z5w55WRoSm2p, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.2, platformVersion=10.0, moz:processID=7072, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 6b16835c-67ab-4a7b-87f2-1704627b77b2
+*** Element info: {Using=xpath, value=//div[contains(@class, 'w-x')]}
+2017-10-07 00:55:26,932  INFO - Browser close
+2017-10-07 00:56:48,416  INFO - Browser settings
+2017-10-07 00:56:57,085  INFO - Creating of driver browser
+2017-10-07 00:57:03,755  INFO - Item found
+2017-10-07 00:57:03,755  INFO - Opened home page
+2017-10-07 00:57:03,886  INFO - Item found
+2017-10-07 00:57:03,886  INFO - Opened home page
+2017-10-07 00:57:03,886  INFO - Choice left bar
+2017-10-07 00:57:03,933  INFO - Item found
+2017-10-07 00:57:03,933  INFO - Found button
+2017-10-07 00:57:03,933  INFO - Click button
+2017-10-07 00:57:04,481  INFO - Item found
+2017-10-07 00:57:04,481  INFO - Open left bar
+2017-10-07 00:57:04,481  INFO - Сlicked on the desired language
+2017-10-07 00:57:04,481  INFO - Checked language en
+2017-10-07 00:57:04,571  INFO - Getting an attribute
+2017-10-07 00:57:05,339  INFO - Swap language
+2017-10-07 00:57:05,744  INFO - Item found
+2017-10-07 00:57:05,744  INFO - Found button
+2017-10-07 00:57:05,745  INFO - Click button
+2017-10-07 00:57:07,301  INFO - Item found
+2017-10-07 00:57:07,301  INFO - Found combobox
+2017-10-07 00:57:07,301  INFO - Change the language to EN
+2017-10-07 00:57:16,888  INFO - Getting an attribute
+2017-10-07 00:57:17,274  INFO - Item found
+2017-10-07 00:57:17,274  INFO - Opened home page
+2017-10-07 00:57:17,274  INFO - Click place tag
+2017-10-07 00:57:17,690  INFO - Item found
+2017-10-07 00:57:17,690  INFO - Found button
+2017-10-07 00:57:17,690  INFO - Click button
+2017-10-07 00:57:18,157  INFO - Place input
+2017-10-07 00:57:35,127  INFO - Browser close
+2017-10-07 00:57:49,617  INFO - Browser settings
+2017-10-07 00:58:00,918  INFO - Creating of driver browser
+2017-10-07 00:58:07,078  INFO - Item found
+2017-10-07 00:58:07,078  INFO - Opened home page
+2017-10-07 00:58:07,118  INFO - Item found
+2017-10-07 00:58:07,118  INFO - Opened home page
+2017-10-07 00:58:07,118  INFO - Choice left bar
+2017-10-07 00:58:07,225  INFO - Item found
+2017-10-07 00:58:07,225  INFO - Found button
+2017-10-07 00:58:07,225  INFO - Click button
+2017-10-07 00:58:08,230  INFO - Item found
+2017-10-07 00:58:08,233  INFO - Open left bar
+2017-10-07 00:58:08,233  INFO - Сlicked on the desired language
+2017-10-07 00:58:08,234  INFO - Checked language en
+2017-10-07 00:58:08,352  INFO - Getting an attribute
+2017-10-07 00:58:08,540  INFO - Swap language
+2017-10-07 00:58:08,996  INFO - Item found
+2017-10-07 00:58:08,996  INFO - Found button
+2017-10-07 00:58:08,996  INFO - Click button
+2017-10-07 00:58:09,881  INFO - Item found
+2017-10-07 00:58:09,882  INFO - Found combobox
+2017-10-07 00:58:09,882  INFO - Change the language to EN
+2017-10-07 00:58:12,893  INFO - Getting an attribute
+2017-10-07 00:58:13,450  INFO - Item found
+2017-10-07 00:58:13,450  INFO - Opened home page
+2017-10-07 00:58:13,450  INFO - Click place tag
+2017-10-07 00:58:13,751  INFO - Item found
+2017-10-07 00:58:13,751  INFO - Found button
+2017-10-07 00:58:13,751  INFO - Click button
+2017-10-07 00:58:14,485  INFO - Place input
+2017-10-07 00:58:15,207  INFO - Item found
+2017-10-07 00:58:15,207  INFO - Found input field
+2017-10-07 00:58:15,207  INFO - Entered data
+2017-10-07 00:58:16,210  INFO - Click place result
+2017-10-07 00:58:16,342  INFO - Item found
+2017-10-07 00:58:16,342  INFO - Found button
+2017-10-07 00:58:16,342  INFO - Click button
+2017-10-07 00:58:17,676  INFO - Item found
+2017-10-07 00:58:17,676  INFO - Opened home page
+2017-10-07 00:58:17,676  INFO - Choice left bar
+2017-10-07 00:58:17,760  INFO - Item found
+2017-10-07 00:58:17,760  INFO - Found button
+2017-10-07 00:58:17,760  INFO - Click button
+2017-10-07 00:58:18,198  INFO - Item found
+2017-10-07 00:58:18,198  INFO - Open left bar
+2017-10-07 00:58:18,372  INFO - Item found
+2017-10-07 00:58:18,372  INFO - Found combobox
+2017-10-07 00:58:18,372  INFO - Change the currency
+2017-10-07 00:58:34,478  INFO - Browser close
+2017-10-07 01:03:49,372  INFO - Browser settings
+2017-10-07 01:03:59,296  INFO - Creating of driver browser
+2017-10-07 01:04:04,873  INFO - Item found
+2017-10-07 01:04:04,873  INFO - Opened home page
+2017-10-07 01:04:04,989  INFO - Item found
+2017-10-07 01:04:04,989  INFO - Opened home page
+2017-10-07 01:04:04,989  INFO - Choice left bar
+2017-10-07 01:04:05,151  INFO - Item found
+2017-10-07 01:04:05,151  INFO - Found button
+2017-10-07 01:04:05,151  INFO - Click button
+2017-10-07 01:04:06,331  INFO - Item found
+2017-10-07 01:04:06,332  INFO - Open left bar
+2017-10-07 01:04:06,332  INFO - Сlicked on the desired language
+2017-10-07 01:04:06,332  INFO - Checked language en
+2017-10-07 01:04:06,458  INFO - Getting an attribute
+2017-10-07 01:04:07,065  INFO - Swap language
+2017-10-07 01:04:07,467  INFO - Item found
+2017-10-07 01:04:07,467  INFO - Found button
+2017-10-07 01:04:07,467  INFO - Click button
+2017-10-07 01:04:07,929  INFO - Item found
+2017-10-07 01:04:07,929  INFO - Found combobox
+2017-10-07 01:04:07,929  INFO - Change the language to EN
+2017-10-07 01:04:11,637  INFO - Getting an attribute
+2017-10-07 01:04:11,972  INFO - Item found
+2017-10-07 01:04:11,972  INFO - Opened home page
+2017-10-07 01:04:11,972  INFO - Click place tag
+2017-10-07 01:04:12,541  INFO - Item found
+2017-10-07 01:04:12,541  INFO - Found button
+2017-10-07 01:04:12,541  INFO - Click button
+2017-10-07 01:04:13,313  INFO - Place input
+2017-10-07 01:04:14,266  INFO - Item found
+2017-10-07 01:04:14,266  INFO - Found input field
+2017-10-07 01:04:14,266  INFO - Entered data
+2017-10-07 01:04:15,463  INFO - Click place result
+2017-10-07 01:04:15,610  INFO - Item found
+2017-10-07 01:04:15,610  INFO - Found button
+2017-10-07 01:04:15,610  INFO - Click button
+2017-10-07 01:04:17,229  INFO - Item found
+2017-10-07 01:04:17,229  INFO - Opened home page
+2017-10-07 01:04:17,229  INFO - Choice left bar
+2017-10-07 01:04:17,266  INFO - Item found
+2017-10-07 01:04:17,266  INFO - Found button
+2017-10-07 01:04:17,266  INFO - Click button
+2017-10-07 01:04:17,627  INFO - Item found
+2017-10-07 01:04:17,627  INFO - Open left bar
+2017-10-07 01:04:26,405  INFO - Item found
+2017-10-07 01:04:26,405  INFO - Found button
+2017-10-07 01:04:26,416  INFO - Click button
+2017-10-07 01:04:38,806  INFO - Item found
+2017-10-07 01:04:38,806  INFO - Found combobox
+2017-10-07 01:04:41,842  INFO - Change the currency
+2017-10-07 01:42:26,145  INFO - Browser settings
+2017-10-07 01:42:37,554  INFO - Creating of driver browser
+2017-10-07 01:42:47,457  INFO - Item found
+2017-10-07 01:42:47,457  INFO - Opened home page
+2017-10-07 01:42:47,557  INFO - Item found
+2017-10-07 01:42:47,557  INFO - Opened home page
+2017-10-07 01:42:47,557  INFO - Choice left bar
+2017-10-07 01:42:47,604  INFO - Item found
+2017-10-07 01:42:47,604  INFO - Found button
+2017-10-07 01:42:47,604  INFO - Click button
+2017-10-07 01:42:48,390  INFO - Item found
+2017-10-07 01:42:48,390  INFO - Open left bar
+2017-10-07 01:42:48,390  INFO - Сlicked on the desired language
+2017-10-07 01:42:48,390  INFO - Checked language en
+2017-10-07 01:42:48,524  INFO - Getting an attribute
+2017-10-07 01:42:48,729  INFO - Swap language
+2017-10-07 01:42:49,425  INFO - Item found
+2017-10-07 01:42:49,425  INFO - Found button
+2017-10-07 01:42:49,425  INFO - Click button
+2017-10-07 01:42:50,784  INFO - Item found
+2017-10-07 01:42:50,784  INFO - Found combobox
+2017-10-07 01:42:50,784  INFO - Change the language to EN
+2017-10-07 01:42:54,496  INFO - Getting an attribute
+2017-10-07 01:42:55,097  INFO - Item found
+2017-10-07 01:42:55,097  INFO - Opened home page
+2017-10-07 01:42:55,097  INFO - Click place tag
+2017-10-07 01:42:55,613  INFO - Item found
+2017-10-07 01:42:55,613  INFO - Found button
+2017-10-07 01:42:55,613  INFO - Click button
+2017-10-07 01:42:56,118  INFO - Place input
+2017-10-07 01:42:56,590  INFO - Item found
+2017-10-07 01:42:56,590  INFO - Found input field
+2017-10-07 01:42:56,590  INFO - Entered data
+2017-10-07 01:42:57,492  INFO - Click place result
+2017-10-07 01:42:57,592  INFO - Item found
+2017-10-07 01:42:57,592  INFO - Found button
+2017-10-07 01:42:57,592  INFO - Click button
+2017-10-07 01:42:58,910  INFO - Item found
+2017-10-07 01:42:58,910  INFO - Opened home page
+2017-10-07 01:42:58,910  INFO - Choice left bar
+2017-10-07 01:42:59,010  INFO - Item found
+2017-10-07 01:42:59,010  INFO - Found button
+2017-10-07 01:42:59,010  INFO - Click button
+2017-10-07 01:42:59,480  INFO - Item found
+2017-10-07 01:42:59,480  INFO - Open left bar
+2017-10-07 01:42:59,665  INFO - Item found
+2017-10-07 01:42:59,665  INFO - Found button
+2017-10-07 01:42:59,665  INFO - Click button
+2017-10-07 01:43:00,066  INFO - Item found
+2017-10-07 01:43:00,066  INFO - Found combobox
+2017-10-07 01:43:00,066  INFO - Change the currency
+2017-10-07 01:43:02,082  INFO - Checking currency
+2017-10-07 01:43:02,449  INFO - Item found
+2017-10-07 01:43:02,449  INFO - Opened home page
+2017-10-07 01:43:03,451  INFO - Item found
+2017-10-07 01:43:03,451  INFO - Opened home page
+2017-10-07 01:43:03,451  INFO - Choice left bar
+2017-10-07 01:43:03,474  INFO - Item found
+2017-10-07 01:43:03,474  INFO - Found button
+2017-10-07 01:43:03,474  INFO - Click button
+2017-10-07 01:43:04,330  INFO - Item found
+2017-10-07 01:43:04,330  INFO - Open left bar
+2017-10-07 01:43:04,546  INFO - Item found
+2017-10-07 01:43:04,546  INFO - Found button
+2017-10-07 01:43:04,546  INFO - Click button
+2017-10-07 01:43:04,915  INFO - Item found
+2017-10-07 01:43:04,915  INFO - Found combobox
+2017-10-07 01:43:04,915  INFO - Change the currency
+2017-10-07 01:43:07,984  INFO - Checking currency
+2017-10-07 01:43:08,584  INFO - Item found
+2017-10-07 01:43:08,584  INFO - Opened home page
+2017-10-07 01:43:39,849  INFO - Browser close
+2017-10-07 01:47:14,411  INFO - Browser settings
+2017-10-07 01:47:24,198  INFO - Creating of driver browser
+2017-10-07 01:47:30,487  INFO - Item found
+2017-10-07 01:47:30,487  INFO - Opened home page
+2017-10-07 01:47:30,555  INFO - Item found
+2017-10-07 01:47:30,555  INFO - Opened home page
+2017-10-07 01:47:30,555  INFO - Choice left bar
+2017-10-07 01:47:30,624  INFO - Item found
+2017-10-07 01:47:30,624  INFO - Found button
+2017-10-07 01:47:30,624  INFO - Click button
+2017-10-07 01:47:31,643  INFO - Item found
+2017-10-07 01:47:31,643  INFO - Open left bar
+2017-10-07 01:47:31,643  INFO - Сlicked on the desired language
+2017-10-07 01:47:31,643  INFO - Checked language en
+2017-10-07 01:47:31,993  INFO - Getting an attribute
+2017-10-07 01:47:32,405  INFO - Swap language
+2017-10-07 01:47:33,319  INFO - Item found
+2017-10-07 01:47:33,319  INFO - Found button
+2017-10-07 01:47:33,320  INFO - Click button
+2017-10-07 01:47:34,518  INFO - Item found
+2017-10-07 01:47:34,518  INFO - Found combobox
+2017-10-07 01:47:34,519  INFO - Change the language to EN
+2017-10-07 01:47:37,616  INFO - Getting an attribute
+2017-10-07 01:47:38,201  INFO - Item found
+2017-10-07 01:47:38,201  INFO - Opened home page
+2017-10-07 01:47:38,201  INFO - Click place tag
+2017-10-07 01:47:38,711  INFO - Item found
+2017-10-07 01:47:38,711  INFO - Found button
+2017-10-07 01:47:38,711  INFO - Click button
+2017-10-07 01:47:39,227  INFO - Place input
+2017-10-07 01:47:39,709  INFO - Item found
+2017-10-07 01:47:39,709  INFO - Found input field
+2017-10-07 01:47:39,710  INFO - Entered data
+2017-10-07 01:47:40,973  INFO - Click place result
+2017-10-07 01:47:41,605  INFO - Item found
+2017-10-07 01:47:41,605  INFO - Found button
+2017-10-07 01:47:41,605  INFO - Click button
+2017-10-07 01:47:43,725  INFO - Item found
+2017-10-07 01:47:43,725  INFO - Opened home page
+2017-10-07 01:47:43,725  INFO - Choice left bar
+2017-10-07 01:47:43,841  INFO - Item found
+2017-10-07 01:47:43,841  INFO - Found button
+2017-10-07 01:47:43,841  INFO - Click button
+2017-10-07 01:47:44,257  INFO - Item found
+2017-10-07 01:47:44,257  INFO - Open left bar
+2017-10-07 01:47:44,441  INFO - Item found
+2017-10-07 01:47:44,441  INFO - Found button
+2017-10-07 01:47:44,441  INFO - Click button
+2017-10-07 01:47:44,788  INFO - Item found
+2017-10-07 01:47:44,788  INFO - Found combobox
+2017-10-07 01:47:44,788  INFO - Change the currency
+2017-10-07 01:47:47,464  INFO - Checking currency
+2017-10-07 01:47:48,031  INFO - Item found
+2017-10-07 01:47:48,031  INFO - Opened home page
+2017-10-07 01:47:48,732  INFO - Item found
+2017-10-07 01:47:48,732  INFO - Opened home page
+2017-10-07 01:47:48,732  INFO - Choice left bar
+2017-10-07 01:47:48,770  INFO - Item found
+2017-10-07 01:47:48,770  INFO - Found button
+2017-10-07 01:47:48,770  INFO - Click button
+2017-10-07 01:47:49,401  INFO - Item found
+2017-10-07 01:47:49,402  INFO - Open left bar
+2017-10-07 01:47:49,776  INFO - Item found
+2017-10-07 01:47:49,776  INFO - Found button
+2017-10-07 01:47:49,776  INFO - Click button
+2017-10-07 01:47:50,137  INFO - Item found
+2017-10-07 01:47:50,137  INFO - Found combobox
+2017-10-07 01:47:50,137  INFO - Change the currency
+2017-10-07 01:47:54,989  INFO - Checking currency
+2017-10-07 01:47:55,381  INFO - Item found
+2017-10-07 01:47:55,381  INFO - Opened home page
+2017-10-07 01:50:58,600  INFO - Browser settings
+2017-10-07 01:51:10,033  INFO - Creating of driver browser
+2017-10-07 01:51:15,579  INFO - Item found
+2017-10-07 01:51:15,579  INFO - Opened home page
+2017-10-07 01:51:15,910  INFO - Item found
+2017-10-07 01:51:15,910  INFO - Opened home page
+2017-10-07 01:51:15,910  INFO - Choice left bar
+2017-10-07 01:51:16,095  INFO - Item found
+2017-10-07 01:51:16,095  INFO - Found button
+2017-10-07 01:51:16,095  INFO - Click button
+2017-10-07 01:51:17,296  INFO - Item found
+2017-10-07 01:51:17,296  INFO - Open left bar
+2017-10-07 01:51:17,297  INFO - Сlicked on the desired language
+2017-10-07 01:51:17,297  INFO - Checked language en
+2017-10-07 01:51:17,515  INFO - Getting an attribute
+2017-10-07 01:51:17,885  INFO - Swap language
+2017-10-07 01:51:18,697  INFO - Item found
+2017-10-07 01:51:18,697  INFO - Found button
+2017-10-07 01:51:18,697  INFO - Click button
+2017-10-07 01:51:19,143  INFO - Item found
+2017-10-07 01:51:19,144  INFO - Found combobox
+2017-10-07 01:51:19,144  INFO - Change the language to EN
+2017-10-07 01:51:21,802  INFO - Getting an attribute
+2017-10-07 01:51:22,174  INFO - Item found
+2017-10-07 01:51:22,174  INFO - Opened home page
+2017-10-07 01:51:22,174  INFO - Click place tag
+2017-10-07 01:51:22,613  INFO - Item found
+2017-10-07 01:51:22,613  INFO - Found button
+2017-10-07 01:51:22,613  INFO - Click button
+2017-10-07 01:51:23,109  INFO - Place input
+2017-10-07 01:51:23,590  INFO - Item found
+2017-10-07 01:51:23,590  INFO - Found input field
+2017-10-07 01:51:23,590  INFO - Entered data
+2017-10-07 01:51:24,359  INFO - Click place result
+2017-10-07 01:51:24,559  INFO - Item found
+2017-10-07 01:51:24,559  INFO - Found button
+2017-10-07 01:51:24,559  INFO - Click button
+2017-10-07 01:51:26,528  INFO - Item found
+2017-10-07 01:51:26,528  INFO - Opened home page
+2017-10-07 01:51:26,543  INFO - Choice left bar
+2017-10-07 01:51:26,597  INFO - Item found
+2017-10-07 01:51:26,597  INFO - Found button
+2017-10-07 01:51:26,597  INFO - Click button
+2017-10-07 01:51:26,998  INFO - Item found
+2017-10-07 01:51:26,998  INFO - Open left bar
+2017-10-07 01:51:27,176  INFO - Item found
+2017-10-07 01:51:27,176  INFO - Found button
+2017-10-07 01:51:27,176  INFO - Click button
+2017-10-07 01:51:27,529  INFO - Item found
+2017-10-07 01:51:27,529  INFO - Found combobox
+2017-10-07 01:51:27,529  INFO - Change the currency
+2017-10-07 01:51:29,774  INFO - Checking currency
+2017-10-07 01:51:30,720  INFO - Item found
+2017-10-07 01:51:30,720  INFO - Opened home page
+2017-10-07 01:51:31,907  INFO - Item found
+2017-10-07 01:51:31,907  INFO - Opened home page
+2017-10-07 01:51:31,907  INFO - Choice left bar
+2017-10-07 01:51:31,946  INFO - Item found
+2017-10-07 01:51:31,946  INFO - Found button
+2017-10-07 01:51:31,946  INFO - Click button
+2017-10-07 01:51:32,423  INFO - Item found
+2017-10-07 01:51:32,423  INFO - Open left bar
+2017-10-07 01:51:32,809  INFO - Item found
+2017-10-07 01:51:32,809  INFO - Found button
+2017-10-07 01:51:32,809  INFO - Click button
+2017-10-07 01:51:33,288  INFO - Item found
+2017-10-07 01:51:33,288  INFO - Found combobox
+2017-10-07 01:51:33,288  INFO - Change the currency
+2017-10-07 01:51:35,337  INFO - Checking currency
+2017-10-07 01:51:35,931  INFO - Item found
+2017-10-07 01:51:35,931  INFO - Opened home page
+2017-10-07 01:52:05,044  INFO - Browser settings
+2017-10-07 01:52:17,770  INFO - Creating of driver browser
+2017-10-07 01:52:23,393  INFO - Item found
+2017-10-07 01:52:23,408  INFO - Opened home page
+2017-10-07 01:52:23,662  INFO - Item found
+2017-10-07 01:52:23,662  INFO - Opened home page
+2017-10-07 01:52:23,662  INFO - Choice left bar
+2017-10-07 01:52:23,746  INFO - Item found
+2017-10-07 01:52:23,746  INFO - Found button
+2017-10-07 01:52:23,746  INFO - Click button
+2017-10-07 01:52:24,846  INFO - Item found
+2017-10-07 01:52:24,847  INFO - Open left bar
+2017-10-07 01:52:24,848  INFO - Сlicked on the desired language
+2017-10-07 01:52:24,848  INFO - Checked language en
+2017-10-07 01:52:25,005  INFO - Getting an attribute
+2017-10-07 01:52:25,199  INFO - Swap language
+2017-10-07 01:52:25,700  INFO - Item found
+2017-10-07 01:52:25,700  INFO - Found button
+2017-10-07 01:52:25,700  INFO - Click button
+2017-10-07 01:52:26,259  INFO - Item found
+2017-10-07 01:52:26,259  INFO - Found combobox
+2017-10-07 01:52:26,259  INFO - Change the language to EN
+2017-10-07 01:52:28,461  INFO - Getting an attribute
+2017-10-07 01:52:28,958  INFO - Item found
+2017-10-07 01:52:28,958  INFO - Opened home page
+2017-10-07 01:52:28,958  INFO - Click place tag
+2017-10-07 01:52:29,517  INFO - Item found
+2017-10-07 01:52:29,517  INFO - Found button
+2017-10-07 01:52:29,517  INFO - Click button
+2017-10-07 01:52:30,024  INFO - Place input
+2017-10-07 01:52:30,424  INFO - Item found
+2017-10-07 01:52:30,424  INFO - Found input field
+2017-10-07 01:52:30,424  INFO - Entered data
+2017-10-07 01:52:31,241  INFO - Click place result
+2017-10-07 01:52:31,363  INFO - Item found
+2017-10-07 01:52:31,363  INFO - Found button
+2017-10-07 01:52:31,363  INFO - Click button
+2017-10-07 01:52:32,666  INFO - Item found
+2017-10-07 01:52:32,666  INFO - Opened home page
+2017-10-07 01:52:32,666  INFO - Choice left bar
+2017-10-07 01:52:32,766  INFO - Item found
+2017-10-07 01:52:32,766  INFO - Found button
+2017-10-07 01:52:32,766  INFO - Click button
+2017-10-07 01:52:33,383  INFO - Item found
+2017-10-07 01:52:33,383  INFO - Open left bar
+2017-10-07 01:52:33,583  INFO - Item found
+2017-10-07 01:52:33,583  INFO - Found button
+2017-10-07 01:52:33,583  INFO - Click button
+2017-10-07 01:52:33,899  INFO - Item found
+2017-10-07 01:52:33,899  INFO - Found combobox
+2017-10-07 01:52:33,899  INFO - Change the currency
+2017-10-07 01:52:36,072  INFO - Checking currency
+2017-10-07 01:52:36,436  INFO - Item found
+2017-10-07 01:52:36,436  INFO - Opened home page
+2017-10-07 01:52:37,638  INFO - Item found
+2017-10-07 01:52:37,638  INFO - Opened home page
+2017-10-07 01:52:37,638  INFO - Choice left bar
+2017-10-07 01:52:37,675  INFO - Item found
+2017-10-07 01:52:37,675  INFO - Found button
+2017-10-07 01:52:37,675  INFO - Click button
+2017-10-07 01:52:38,308  INFO - Item found
+2017-10-07 01:52:38,308  INFO - Open left bar
+2017-10-07 01:52:38,639  INFO - Item found
+2017-10-07 01:52:38,639  INFO - Found button
+2017-10-07 01:52:38,639  INFO - Click button
+2017-10-07 01:52:38,993  INFO - Item found
+2017-10-07 01:52:38,993  INFO - Found combobox
+2017-10-07 01:52:38,993  INFO - Change the currency
+2017-10-07 01:52:41,206  INFO - Checking currency
+2017-10-07 01:52:41,645  INFO - Item found
+2017-10-07 01:52:41,645  INFO - Opened home page
+2017-10-07 01:53:25,288  INFO - Browser close
+2017-10-07 01:54:39,342  INFO - Browser settings
+2017-10-07 01:54:49,759  INFO - Creating of driver browser
+2017-10-07 01:54:54,885  INFO - Item found
+2017-10-07 01:54:54,901  INFO - Opened home page
+2017-10-07 01:54:55,039  INFO - Item found
+2017-10-07 01:54:55,039  INFO - Opened home page
+2017-10-07 01:54:55,039  INFO - Choice left bar
+2017-10-07 01:54:55,086  INFO - Item found
+2017-10-07 01:54:55,086  INFO - Found button
+2017-10-07 01:54:55,086  INFO - Click button
+2017-10-07 01:54:55,888  INFO - Item found
+2017-10-07 01:54:55,888  INFO - Open left bar
+2017-10-07 01:54:55,888  INFO - Сlicked on the desired language
+2017-10-07 01:54:55,888  INFO - Checked language en
+2017-10-07 01:54:56,082  INFO - Getting an attribute
+2017-10-07 01:54:56,328  INFO - Swap language
+2017-10-07 01:54:57,398  INFO - Item found
+2017-10-07 01:54:57,399  INFO - Found button
+2017-10-07 01:54:57,399  INFO - Click button
+2017-10-07 01:54:59,032  INFO - Item found
+2017-10-07 01:54:59,032  INFO - Found combobox
+2017-10-07 01:54:59,032  INFO - Change the language to EN
+2017-10-07 01:55:02,661  INFO - Getting an attribute
+2017-10-07 01:55:03,262  INFO - Item found
+2017-10-07 01:55:03,262  INFO - Opened home page
+2017-10-07 01:55:03,262  INFO - Click place tag
+2017-10-07 01:55:03,732  INFO - Item found
+2017-10-07 01:55:03,732  INFO - Found button
+2017-10-07 01:55:03,732  INFO - Click button
+2017-10-07 01:55:04,148  INFO - Place input
+2017-10-07 01:55:04,811  INFO - Item found
+2017-10-07 01:55:04,811  INFO - Found input field
+2017-10-07 01:55:04,811  INFO - Entered data
+2017-10-07 01:55:06,113  INFO - Click place result
+2017-10-07 01:55:06,332  INFO - Item found
+2017-10-07 01:55:06,332  INFO - Found button
+2017-10-07 01:55:06,332  INFO - Click button
+2017-10-07 01:55:07,986  INFO - Item found
+2017-10-07 01:55:07,986  INFO - Opened home page
+2017-10-07 01:55:07,986  INFO - Choice left bar
+2017-10-07 01:55:08,071  INFO - Item found
+2017-10-07 01:55:08,071  INFO - Found button
+2017-10-07 01:55:08,071  INFO - Click button
+2017-10-07 01:55:08,424  INFO - Item found
+2017-10-07 01:55:08,424  INFO - Open left bar
+2017-10-07 01:55:08,541  INFO - Item found
+2017-10-07 01:55:08,541  INFO - Found button
+2017-10-07 01:55:08,541  INFO - Click button
+2017-10-07 01:55:08,657  INFO - Browser close
+2017-10-07 01:56:04,944  INFO - Browser settings
+2017-10-07 01:56:14,218  INFO - Creating of driver browser
+2017-10-07 01:56:19,342  INFO - Item found
+2017-10-07 01:56:19,342  INFO - Opened home page
+2017-10-07 01:56:19,526  INFO - Item found
+2017-10-07 01:56:19,526  INFO - Opened home page
+2017-10-07 01:56:19,526  INFO - Choice left bar
+2017-10-07 01:56:19,573  INFO - Item found
+2017-10-07 01:56:19,573  INFO - Found button
+2017-10-07 01:56:19,573  INFO - Click button
+2017-10-07 01:56:20,583  INFO - Item found
+2017-10-07 01:56:20,583  INFO - Open left bar
+2017-10-07 01:56:20,584  INFO - Сlicked on the desired language
+2017-10-07 01:56:20,584  INFO - Checked language en
+2017-10-07 01:56:20,656  INFO - Getting an attribute
+2017-10-07 01:56:20,865  INFO - Swap language
+2017-10-07 01:56:21,607  INFO - Item found
+2017-10-07 01:56:21,608  INFO - Found button
+2017-10-07 01:56:21,608  INFO - Click button
+2017-10-07 01:56:22,344  INFO - Item found
+2017-10-07 01:56:22,345  INFO - Found combobox
+2017-10-07 01:56:22,345  INFO - Change the language to EN
+2017-10-07 01:56:26,426  INFO - Getting an attribute
+2017-10-07 01:56:27,053  INFO - Item found
+2017-10-07 01:56:27,053  INFO - Opened home page
+2017-10-07 01:56:27,053  INFO - Click place tag
+2017-10-07 01:56:27,470  INFO - Item found
+2017-10-07 01:56:27,470  INFO - Found button
+2017-10-07 01:56:27,470  INFO - Click button
+2017-10-07 01:56:27,869  INFO - Place input
+2017-10-07 01:56:28,203  INFO - Item found
+2017-10-07 01:56:28,203  INFO - Found input field
+2017-10-07 01:56:28,203  INFO - Entered data
+2017-10-07 01:56:29,190  INFO - Click place result
+2017-10-07 01:56:29,299  INFO - Item found
+2017-10-07 01:56:29,299  INFO - Found button
+2017-10-07 01:56:29,299  INFO - Click button
+2017-10-07 01:56:30,741  INFO - Item found
+2017-10-07 01:56:30,741  INFO - Opened home page
+2017-10-07 01:56:30,741  INFO - Choice left bar
+2017-10-07 01:56:30,808  INFO - Item found
+2017-10-07 01:56:30,808  INFO - Found button
+2017-10-07 01:56:30,808  INFO - Click button
+2017-10-07 01:56:31,206  INFO - Item found
+2017-10-07 01:56:31,206  INFO - Open left bar
+2017-10-07 01:56:31,525  INFO - Item found
+2017-10-07 01:56:31,525  INFO - Found button
+2017-10-07 01:56:31,525  INFO - Click button
+2017-10-07 01:56:31,878  INFO - Item found
+2017-10-07 01:56:31,878  INFO - Found combobox
+2017-10-07 01:56:31,878  INFO - Change the currency
+2017-10-07 01:56:33,910  INFO - Checking currency
+2017-10-07 01:56:34,252  INFO - Item found
+2017-10-07 01:56:34,252  INFO - Opened home page
+2017-10-07 01:56:35,270  INFO - Item found
+2017-10-07 01:56:35,270  INFO - Opened home page
+2017-10-07 01:56:35,270  INFO - Choice left bar
+2017-10-07 01:56:35,308  INFO - Item found
+2017-10-07 01:56:35,308  INFO - Found button
+2017-10-07 01:56:35,308  INFO - Click button
+2017-10-07 01:56:35,918  INFO - Item found
+2017-10-07 01:56:35,918  INFO - Open left bar
+2017-10-07 01:56:36,657  INFO - Item found
+2017-10-07 01:56:36,657  INFO - Found button
+2017-10-07 01:56:36,657  INFO - Click button
+2017-10-07 01:56:36,995  INFO - Item found
+2017-10-07 01:56:36,995  INFO - Found combobox
+2017-10-07 01:56:36,995  INFO - Change the currency
+2017-10-07 01:56:38,980  INFO - Checking currency
+2017-10-07 01:56:39,363  INFO - Item found
+2017-10-07 01:56:39,363  INFO - Opened home page
+2017-10-07 01:58:58,680  INFO - Browser settings
+2017-10-07 01:59:08,357  INFO - Creating of driver browser
+2017-10-07 01:59:14,521  INFO - Item found
+2017-10-07 01:59:14,521  INFO - Opened home page
+2017-10-07 01:59:14,690  INFO - Item found
+2017-10-07 01:59:14,690  INFO - Opened home page
+2017-10-07 01:59:14,690  INFO - Choice left bar
+2017-10-07 01:59:14,790  INFO - Item found
+2017-10-07 01:59:14,790  INFO - Found button
+2017-10-07 01:59:14,790  INFO - Click button
+2017-10-07 01:59:16,136  INFO - Item found
+2017-10-07 01:59:16,136  INFO - Open left bar
+2017-10-07 01:59:16,137  INFO - Сlicked on the desired language
+2017-10-07 01:59:16,137  INFO - Checked language en
+2017-10-07 01:59:16,280  INFO - Getting an attribute
+2017-10-07 01:59:16,706  INFO - Swap language
+2017-10-07 01:59:17,152  INFO - Item found
+2017-10-07 01:59:17,152  INFO - Found button
+2017-10-07 01:59:17,152  INFO - Click button
+2017-10-07 01:59:17,638  INFO - Item found
+2017-10-07 01:59:17,638  INFO - Found combobox
+2017-10-07 01:59:17,638  INFO - Change the language to EN
+2017-10-07 01:59:19,719  INFO - Getting an attribute
+2017-10-07 01:59:20,401  INFO - Item found
+2017-10-07 01:59:20,402  INFO - Opened home page
+2017-10-07 01:59:20,402  INFO - Click place tag
+2017-10-07 01:59:20,800  INFO - Item found
+2017-10-07 01:59:20,800  INFO - Found button
+2017-10-07 01:59:20,800  INFO - Click button
+2017-10-07 01:59:21,309  INFO - Place input
+2017-10-07 02:04:32,765  INFO - Browser settings
+2017-10-07 02:04:41,559  INFO - Creating of driver browser
+2017-10-07 02:04:48,415  INFO - Item found
+2017-10-07 02:04:48,415  INFO - Opened home page
+2017-10-07 02:04:48,531  INFO - Item found
+2017-10-07 02:04:48,531  INFO - Opened home page
+2017-10-07 02:04:48,531  INFO - Choice left bar
+2017-10-07 02:04:48,600  INFO - Item found
+2017-10-07 02:04:48,600  INFO - Found button
+2017-10-07 02:04:48,600  INFO - Click button
+2017-10-07 02:04:49,152  INFO - Item found
+2017-10-07 02:04:49,152  INFO - Open left bar
+2017-10-07 02:04:49,152  INFO - Сlicked on the desired language
+2017-10-07 02:04:49,152  INFO - Checked language en
+2017-10-07 02:04:49,401  INFO - Getting an attribute
+2017-10-07 02:04:49,646  INFO - Swap language
+2017-10-07 02:04:50,270  INFO - Item found
+2017-10-07 02:04:50,271  INFO - Found button
+2017-10-07 02:04:50,271  INFO - Click button
+2017-10-07 02:04:51,277  INFO - Item found
+2017-10-07 02:04:51,278  INFO - Found combobox
+2017-10-07 02:04:51,278  INFO - Change the language to EN
+2017-10-07 02:04:54,439  INFO - Getting an attribute
+2017-10-07 02:04:55,034  INFO - Item found
+2017-10-07 02:04:55,035  INFO - Opened home page
+2017-10-07 02:04:55,035  INFO - Click place tag
+2017-10-07 02:04:55,432  INFO - Item found
+2017-10-07 02:04:55,432  INFO - Found button
+2017-10-07 02:04:55,432  INFO - Click button
+2017-10-07 02:04:55,937  INFO - Place input
+2017-10-07 02:04:56,316  INFO - Item found
+2017-10-07 02:04:56,316  INFO - Found input field
+2017-10-07 02:04:56,316  INFO - Entered data
+2017-10-07 02:04:57,756  INFO - Click place result
+2017-10-07 02:04:57,957  INFO - Item found
+2017-10-07 02:04:57,957  INFO - Found button
+2017-10-07 02:04:57,957  INFO - Click button
+2017-10-07 02:04:59,676  INFO - Item found
+2017-10-07 02:04:59,676  INFO - Opened home page
+2017-10-07 02:04:59,676  INFO - Choice left bar
+2017-10-07 02:04:59,700  INFO - Item found
+2017-10-07 02:04:59,700  INFO - Found button
+2017-10-07 02:04:59,700  INFO - Click button
+2017-10-07 02:05:00,347  INFO - Item found
+2017-10-07 02:05:00,347  INFO - Open left bar
+2017-10-07 02:05:00,694  INFO - Item found
+2017-10-07 02:05:00,694  INFO - Found button
+2017-10-07 02:05:00,694  INFO - Click button
+2017-10-07 02:05:01,010  INFO - Item found
+2017-10-07 02:05:01,010  INFO - Found combobox
+2017-10-07 02:05:01,010  INFO - Change the currency
+2017-10-07 02:05:03,481  INFO - Checking currency
+2017-10-07 02:05:03,969  INFO - Item found
+2017-10-07 02:05:03,969  INFO - Opened home page
+2017-10-07 02:05:05,924  INFO - Item found
+2017-10-07 02:05:05,924  INFO - Opened home page
+2017-10-07 02:05:05,924  INFO - Choice left bar
+2017-10-07 02:05:05,993  INFO - Item found
+2017-10-07 02:05:05,993  INFO - Found button
+2017-10-07 02:05:05,993  INFO - Click button
+2017-10-07 02:05:06,610  INFO - Item found
+2017-10-07 02:05:06,610  INFO - Open left bar
+2017-10-07 02:05:07,042  INFO - Item found
+2017-10-07 02:05:07,042  INFO - Found button
+2017-10-07 02:05:07,042  INFO - Click button
+2017-10-07 02:05:07,342  INFO - Item found
+2017-10-07 02:05:07,342  INFO - Found combobox
+2017-10-07 02:05:07,342  INFO - Change the currency
+2017-10-07 02:05:09,262  INFO - Checking currency
+2017-10-07 02:05:09,616  INFO - Item found
+2017-10-07 02:05:09,616  INFO - Opened home page
+2017-10-07 02:06:27,762  INFO - Browser settings
+2017-10-07 02:06:40,855  INFO - Creating of driver browser
+2017-10-07 02:06:47,807  INFO - Item found
+2017-10-07 02:06:47,807  INFO - Opened home page
+2017-10-07 02:06:48,070  INFO - Item found
+2017-10-07 02:06:48,070  INFO - Opened home page
+2017-10-07 02:06:48,070  INFO - Choice left bar
+2017-10-07 02:06:48,201  INFO - Item found
+2017-10-07 02:06:48,201  INFO - Found button
+2017-10-07 02:06:48,201  INFO - Click button
+2017-10-07 02:06:49,395  INFO - Item found
+2017-10-07 02:06:49,396  INFO - Open left bar
+2017-10-07 02:06:49,397  INFO - Сlicked on the desired language
+2017-10-07 02:06:49,397  INFO - Checked language en
+2017-10-07 02:06:49,582  INFO - Getting an attribute
+2017-10-07 02:06:49,833  INFO - Swap language
+2017-10-07 02:06:50,228  INFO - Item found
+2017-10-07 02:06:50,228  INFO - Found button
+2017-10-07 02:06:50,229  INFO - Click button
+2017-10-07 02:06:50,700  INFO - Item found
+2017-10-07 02:06:50,700  INFO - Found combobox
+2017-10-07 02:06:50,700  INFO - Change the language to EN
+2017-10-07 02:06:53,178  INFO - Getting an attribute
+2017-10-07 02:06:53,802  INFO - Item found
+2017-10-07 02:06:53,802  INFO - Opened home page
+2017-10-07 02:06:53,802  INFO - Click place tag
+2017-10-07 02:06:54,286  INFO - Item found
+2017-10-07 02:06:54,287  INFO - Found button
+2017-10-07 02:06:54,287  INFO - Click button
+2017-10-07 02:06:54,691  INFO - Place input
+2017-10-07 02:07:35,639  INFO - Item found
+2017-10-07 02:07:35,639  INFO - Found input field
+2017-10-07 02:07:35,639  INFO - Entered data
+2017-10-07 02:07:36,201  INFO - Click place result
+2017-10-07 02:07:36,223  INFO - Item found
+2017-10-07 02:07:36,223  INFO - Found button
+2017-10-07 02:07:36,223  INFO - Click button
+2017-10-07 02:07:37,621  INFO - Item found
+2017-10-07 02:07:37,621  INFO - Opened home page
+2017-10-07 02:07:37,622  INFO - Choice left bar
+2017-10-07 02:07:37,657  INFO - Item found
+2017-10-07 02:07:37,657  INFO - Found button
+2017-10-07 02:07:37,657  INFO - Click button
+2017-10-07 02:07:37,983  INFO - Item found
+2017-10-07 02:07:37,983  INFO - Open left bar
+2017-10-07 02:07:38,317  INFO - Item found
+2017-10-07 02:07:38,318  INFO - Found button
+2017-10-07 02:07:38,318  INFO - Click button
+2017-10-07 02:07:38,605  INFO - Item found
+2017-10-07 02:07:38,605  INFO - Found combobox
+2017-10-07 02:07:38,605  INFO - Change the currency
+2017-10-07 02:07:40,847  INFO - Checking currency
+2017-10-07 02:07:41,364  INFO - Item found
+2017-10-07 02:07:41,364  INFO - Opened home page
+2017-10-07 02:07:43,509  INFO - Item found
+2017-10-07 02:07:43,509  INFO - Opened home page
+2017-10-07 02:07:43,509  INFO - Choice left bar
+2017-10-07 02:07:43,593  INFO - Item found
+2017-10-07 02:07:43,593  INFO - Found button
+2017-10-07 02:07:43,593  INFO - Click button
+2017-10-07 02:07:44,543  INFO - Item found
+2017-10-07 02:07:44,543  INFO - Open left bar
+2017-10-07 02:07:44,879  INFO - Item found
+2017-10-07 02:07:44,879  INFO - Found button
+2017-10-07 02:07:44,879  INFO - Click button
+2017-10-07 02:07:45,227  INFO - Item found
+2017-10-07 02:07:45,227  INFO - Found combobox
+2017-10-07 02:07:45,227  INFO - Change the currency
+2017-10-07 02:07:47,191  INFO - Checking currency
+2017-10-07 02:07:47,554  INFO - Item found
+2017-10-07 02:07:47,554  INFO - Opened home page
+2017-10-07 02:08:13,645  INFO - Browser close
+2017-10-07 02:10:52,067  INFO - Browser settings
+2017-10-07 02:11:01,276  INFO - Creating of driver browser
+2017-10-07 02:11:10,154  INFO - Item found
+2017-10-07 02:11:10,154  INFO - Opened home page
+2017-10-07 02:11:10,242  INFO - Item found
+2017-10-07 02:11:10,242  INFO - Opened home page
+2017-10-07 02:11:10,242  INFO - Choice left bar
+2017-10-07 02:11:10,369  INFO - Item found
+2017-10-07 02:11:10,369  INFO - Found button
+2017-10-07 02:11:10,369  INFO - Click button
+2017-10-07 02:11:11,824  INFO - Item found
+2017-10-07 02:11:11,824  INFO - Open left bar
+2017-10-07 02:11:11,824  INFO - Сlicked on the desired language
+2017-10-07 02:11:11,824  INFO - Checked language en
+2017-10-07 02:11:12,020  INFO - Getting an attribute
+2017-10-07 02:11:12,147  INFO - Swap language
+2017-10-07 02:11:12,554  INFO - Item found
+2017-10-07 02:11:12,554  INFO - Found button
+2017-10-07 02:11:12,555  INFO - Click button
+2017-10-07 02:11:13,219  INFO - Item found
+2017-10-07 02:11:13,220  INFO - Found combobox
+2017-10-07 02:11:13,220  INFO - Change the language to EN
+2017-10-07 02:11:15,668  INFO - Getting an attribute
+2017-10-07 02:11:16,248  INFO - Item found
+2017-10-07 02:11:16,248  INFO - Opened home page
+2017-10-07 02:11:16,248  INFO - Click place tag
+2017-10-07 02:11:16,614  INFO - Item found
+2017-10-07 02:11:16,614  INFO - Found button
+2017-10-07 02:11:16,614  INFO - Click button
+2017-10-07 02:11:17,092  INFO - Place input
+2017-10-07 02:11:17,415  INFO - Item found
+2017-10-07 02:11:17,415  INFO - Found input field
+2017-10-07 02:11:17,415  INFO - Entered data
+2017-10-07 02:11:18,399  INFO - Click place result
+2017-10-07 02:11:18,621  INFO - Item found
+2017-10-07 02:11:18,621  INFO - Found button
+2017-10-07 02:11:18,621  INFO - Click button
+2017-10-07 02:11:20,151  INFO - Item found
+2017-10-07 02:11:20,151  INFO - Opened home page
+2017-10-07 02:11:20,151  INFO - Choice left bar
+2017-10-07 02:11:20,277  INFO - Item found
+2017-10-07 02:11:20,277  INFO - Found button
+2017-10-07 02:11:20,278  INFO - Click button
+2017-10-07 02:11:20,822  INFO - Item found
+2017-10-07 02:11:20,822  INFO - Open left bar
+2017-10-07 02:11:21,065  INFO - Item found
+2017-10-07 02:11:21,065  INFO - Found button
+2017-10-07 02:11:21,065  INFO - Click button
+2017-10-07 02:11:21,613  INFO - Item found
+2017-10-07 02:11:21,613  INFO - Found combobox
+2017-10-07 02:11:21,613  INFO - Change the currency
+2017-10-07 02:11:23,944  INFO - Checking currency
+2017-10-07 02:11:24,361  INFO - Item found
+2017-10-07 02:11:24,361  INFO - Opened home page
+2017-10-07 02:11:26,006  INFO - Item found
+2017-10-07 02:11:26,006  INFO - Opened home page
+2017-10-07 02:11:26,006  INFO - Choice left bar
+2017-10-07 02:11:26,074  INFO - Item found
+2017-10-07 02:11:26,074  INFO - Found button
+2017-10-07 02:11:26,074  INFO - Click button
+2017-10-07 02:11:26,591  INFO - Item found
+2017-10-07 02:11:26,591  INFO - Open left bar
+2017-10-07 02:11:26,876  INFO - Item found
+2017-10-07 02:11:26,876  INFO - Found button
+2017-10-07 02:11:26,876  INFO - Click button
+2017-10-07 02:11:27,176  INFO - Item found
+2017-10-07 02:11:27,191  INFO - Found combobox
+2017-10-07 02:11:27,191  INFO - Change the currency
+2017-10-07 02:11:29,244  INFO - Checking currency
+2017-10-07 02:11:29,779  INFO - Item found
+2017-10-07 02:11:29,779  INFO - Opened home page
+2017-10-07 02:15:33,950  INFO - Browser settings
+2017-10-07 02:15:44,202  INFO - Creating of driver browser
+2017-10-07 02:15:51,529  INFO - Item found
+2017-10-07 02:15:51,529  INFO - Opened home page
+2017-10-07 02:15:51,629  INFO - Item found
+2017-10-07 02:15:51,629  INFO - Opened home page
+2017-10-07 02:15:51,629  INFO - Choice left bar
+2017-10-07 02:15:51,761  INFO - Item found
+2017-10-07 02:15:51,761  INFO - Found button
+2017-10-07 02:15:51,761  INFO - Click button
+2017-10-07 02:15:52,881  INFO - Item found
+2017-10-07 02:15:52,881  INFO - Open left bar
+2017-10-07 02:15:52,881  INFO - Сlicked on the desired language
+2017-10-07 02:15:52,882  INFO - Checked language en
+2017-10-07 02:15:52,940  INFO - Getting an attribute
+2017-10-07 02:15:53,065  INFO - Swap language
+2017-10-07 02:15:53,805  INFO - Item found
+2017-10-07 02:15:53,806  INFO - Found button
+2017-10-07 02:15:53,806  INFO - Click button
+2017-10-07 02:15:54,284  INFO - Item found
+2017-10-07 02:15:54,285  INFO - Found combobox
+2017-10-07 02:15:54,285  INFO - Change the language to EN
+2017-10-07 02:15:56,735  INFO - Getting an attribute
+2017-10-07 02:15:57,373  INFO - Item found
+2017-10-07 02:15:57,373  INFO - Opened home page
+2017-10-07 02:15:57,374  INFO - Click place tag
+2017-10-07 02:15:57,968  INFO - Item found
+2017-10-07 02:15:57,968  INFO - Found button
+2017-10-07 02:15:57,968  INFO - Click button
+2017-10-07 02:15:58,631  INFO - Place input
+2017-10-07 02:15:59,022  INFO - Item found
+2017-10-07 02:15:59,022  INFO - Found input field
+2017-10-07 02:15:59,022  INFO - Entered data
+2017-10-07 02:16:00,001  INFO - Click place result
+2017-10-07 02:16:00,455  INFO - Item found
+2017-10-07 02:16:00,455  INFO - Found button
+2017-10-07 02:16:00,455  INFO - Click button
+2017-10-07 02:16:01,990  INFO - Item found
+2017-10-07 02:16:01,990  INFO - Opened home page
+2017-10-07 02:16:01,990  INFO - Choice left bar
+2017-10-07 02:16:02,043  INFO - Item found
+2017-10-07 02:16:02,043  INFO - Found button
+2017-10-07 02:16:02,043  INFO - Click button
+2017-10-07 02:16:02,629  INFO - Item found
+2017-10-07 02:16:02,629  INFO - Open left bar
+2017-10-07 02:16:02,891  INFO - Item found
+2017-10-07 02:16:02,891  INFO - Found button
+2017-10-07 02:16:02,891  INFO - Click button
+2017-10-07 02:16:03,176  INFO - Item found
+2017-10-07 02:16:03,176  INFO - Found combobox
+2017-10-07 02:16:03,183  INFO - Change the currency
+2017-10-07 02:16:05,380  INFO - Checking currency
+2017-10-07 02:16:05,750  INFO - Item found
+2017-10-07 02:16:05,750  INFO - Opened home page
+2017-10-07 02:16:07,283  INFO - Item found
+2017-10-07 02:16:07,283  INFO - Opened home page
+2017-10-07 02:16:07,283  INFO - Choice left bar
+2017-10-07 02:16:07,368  INFO - Item found
+2017-10-07 02:16:07,368  INFO - Found button
+2017-10-07 02:16:07,368  INFO - Click button
+2017-10-07 02:16:07,900  INFO - Item found
+2017-10-07 02:16:07,900  INFO - Open left bar
+2017-10-07 02:16:08,501  INFO - Item found
+2017-10-07 02:16:08,501  INFO - Found button
+2017-10-07 02:16:08,501  INFO - Click button
+2017-10-07 02:16:08,884  INFO - Item found
+2017-10-07 02:16:08,884  INFO - Found combobox
+2017-10-07 02:16:08,884  INFO - Change the currency
+2017-10-07 02:16:11,013  INFO - Checking currency
+2017-10-07 02:16:11,360  INFO - Item found
+2017-10-07 02:16:11,360  INFO - Opened home page
+2017-10-07 02:17:47,869  INFO - Browser settings
+2017-10-07 02:17:58,849  INFO - Creating of driver browser
+2017-10-07 02:18:06,036  INFO - Item found
+2017-10-07 02:18:06,036  INFO - Opened home page
+2017-10-07 02:18:06,206  INFO - Item found
+2017-10-07 02:18:06,206  INFO - Opened home page
+2017-10-07 02:18:06,206  INFO - Choice left bar
+2017-10-07 02:18:06,268  INFO - Item found
+2017-10-07 02:18:06,268  INFO - Found button
+2017-10-07 02:18:06,268  INFO - Click button
+2017-10-07 02:18:07,207  INFO - Item found
+2017-10-07 02:18:07,207  INFO - Open left bar
+2017-10-07 02:18:07,207  INFO - Сlicked on the desired language
+2017-10-07 02:18:07,207  INFO - Checked language en
+2017-10-07 02:18:07,723  INFO - Getting an attribute
+2017-10-07 02:18:08,351  INFO - Swap language
+2017-10-07 02:18:08,968  INFO - Item found
+2017-10-07 02:18:08,968  INFO - Found button
+2017-10-07 02:18:08,968  INFO - Click button
+2017-10-07 02:18:09,482  INFO - Item found
+2017-10-07 02:18:09,483  INFO - Found combobox
+2017-10-07 02:18:09,483  INFO - Change the language to EN
+2017-10-07 02:18:12,726  INFO - Getting an attribute
+2017-10-07 02:18:13,464  INFO - Item found
+2017-10-07 02:18:13,464  INFO - Opened home page
+2017-10-07 02:18:13,464  INFO - Click place tag
+2017-10-07 02:18:13,938  INFO - Item found
+2017-10-07 02:18:13,938  INFO - Found button
+2017-10-07 02:18:13,938  INFO - Click button
+2017-10-07 02:18:14,476  INFO - Place input
+2017-10-07 02:24:26,114  INFO - Browser close
+2017-10-07 02:25:23,256  INFO - Browser settings
+2017-10-07 02:25:33,895  INFO - Creating of driver browser
+2017-10-07 02:25:39,968  INFO - Item found
+2017-10-07 02:25:39,968  INFO - Opened home page
+2017-10-07 02:25:40,052  INFO - Item found
+2017-10-07 02:25:40,052  INFO - Opened home page
+2017-10-07 02:25:40,052  INFO - Choice left bar
+2017-10-07 02:25:40,083  INFO - Item found
+2017-10-07 02:25:40,083  INFO - Found button
+2017-10-07 02:25:40,083  INFO - Click button
+2017-10-07 02:25:40,657  INFO - Item found
+2017-10-07 02:25:40,657  INFO - Open left bar
+2017-10-07 02:25:40,657  INFO - Сlicked on the desired language
+2017-10-07 02:25:40,657  INFO - Checked language en
+2017-10-07 02:25:40,722  INFO - Getting an attribute
+2017-10-07 02:25:41,099  INFO - Swap language
+2017-10-07 02:25:42,007  INFO - Item found
+2017-10-07 02:25:42,007  INFO - Found button
+2017-10-07 02:25:42,008  INFO - Click button
+2017-10-07 02:25:42,856  INFO - Item found
+2017-10-07 02:25:42,857  INFO - Found combobox
+2017-10-07 02:25:42,857  INFO - Change the language to EN
+2017-10-07 02:25:46,951  INFO - Getting an attribute
+2017-10-07 02:25:47,536  INFO - Item found
+2017-10-07 02:25:47,536  INFO - Opened home page
+2017-10-07 02:25:47,536  INFO - Click place tag
+2017-10-07 02:25:47,938  INFO - Item found
+2017-10-07 02:25:47,938  INFO - Found button
+2017-10-07 02:25:47,938  INFO - Click button
+2017-10-07 02:25:48,376  INFO - Place input
+2017-10-07 02:25:48,392  INFO - Waiting for presence of element
+2017-10-07 02:26:04,458  INFO - Browser close
+2017-10-07 02:29:43,905  INFO - Browser settings
+2017-10-07 02:29:53,059  INFO - Creating of driver browser
+2017-10-07 02:29:58,949  INFO - Item found
+2017-10-07 02:29:58,949  INFO - Opened home page
+2017-10-07 02:29:59,379  INFO - Item found
+2017-10-07 02:29:59,379  INFO - Opened home page
+2017-10-07 02:29:59,379  INFO - Choice left bar
+2017-10-07 02:29:59,433  INFO - Item found
+2017-10-07 02:29:59,433  INFO - Found button
+2017-10-07 02:29:59,433  INFO - Click button
+2017-10-07 02:30:00,345  INFO - Item found
+2017-10-07 02:30:00,346  INFO - Open left bar
+2017-10-07 02:30:00,346  INFO - Сlicked on the desired language
+2017-10-07 02:30:00,346  INFO - Checked language en
+2017-10-07 02:30:00,463  INFO - Getting an attribute
+2017-10-07 02:30:00,628  INFO - Swap language
+2017-10-07 02:30:01,259  INFO - Item found
+2017-10-07 02:30:01,259  INFO - Found button
+2017-10-07 02:30:01,259  INFO - Click button
+2017-10-07 02:30:02,125  INFO - Item found
+2017-10-07 02:30:02,125  INFO - Found combobox
+2017-10-07 02:30:02,126  INFO - Change the language to EN
+2017-10-07 02:30:05,183  INFO - Getting an attribute
+2017-10-07 02:30:05,530  INFO - Item found
+2017-10-07 02:30:05,530  INFO - Opened home page
+2017-10-07 02:30:05,530  INFO - Click places tag
+2017-10-07 02:30:05,530  INFO - Waiting for presence of element
+2017-10-07 02:30:05,886  INFO - Item found
+2017-10-07 02:30:05,886  INFO - Found button
+2017-10-07 02:30:05,887  INFO - Click button
+2017-10-07 02:30:06,460  INFO - Place input
+2017-10-07 02:30:06,460  INFO - Waiting for presence of element
+2017-10-07 02:30:22,950  INFO - Browser close
+2017-10-07 02:32:49,038  INFO - Browser settings
+2017-10-07 02:32:59,858  INFO - Creating of driver browser
+2017-10-07 02:33:07,862  INFO - Item found
+2017-10-07 02:33:07,862  INFO - Opened home page
+2017-10-07 02:33:07,999  INFO - Item found
+2017-10-07 02:33:07,999  INFO - Opened home page
+2017-10-07 02:33:07,999  INFO - Choice left bar
+2017-10-07 02:33:08,077  INFO - Item found
+2017-10-07 02:33:08,077  INFO - Found button
+2017-10-07 02:33:08,077  INFO - Click button
+2017-10-07 02:33:09,332  INFO - Item found
+2017-10-07 02:33:09,332  INFO - Open left bar
+2017-10-07 02:33:09,332  INFO - Сlicked on the desired language
+2017-10-07 02:33:09,332  INFO - Checked language en
+2017-10-07 02:33:09,544  INFO - Getting an attribute
+2017-10-07 02:33:09,926  INFO - Swap language
+2017-10-07 02:33:10,384  INFO - Item found
+2017-10-07 02:33:10,384  INFO - Found button
+2017-10-07 02:33:10,384  INFO - Click button
+2017-10-07 02:33:11,140  INFO - Item found
+2017-10-07 02:33:11,140  INFO - Found combobox
+2017-10-07 02:33:11,140  INFO - Change the language to EN
+2017-10-07 02:33:16,345  INFO - Getting an attribute
+2017-10-07 02:33:16,792  INFO - Item found
+2017-10-07 02:33:16,792  INFO - Opened home page
+2017-10-07 02:33:16,792  INFO - Click places tag
+2017-10-07 02:33:16,792  INFO - Waiting for presence of element
+2017-10-07 02:33:17,157  INFO - Item found
+2017-10-07 02:33:17,157  INFO - Found button
+2017-10-07 02:33:17,158  INFO - Point to element
+2017-10-07 02:33:18,268  INFO - Place input
+2017-10-07 02:33:18,268  INFO - Waiting for presence of element
+2017-10-07 02:33:18,512  INFO - Item found
+2017-10-07 02:33:18,512  INFO - Found input field
+2017-10-07 02:33:18,512  INFO - Entered data
+2017-10-07 02:33:20,183  INFO - Click place result
+2017-10-07 02:33:20,299  INFO - Item found
+2017-10-07 02:33:20,299  INFO - Found button
+2017-10-07 02:33:20,299  INFO - Click button
+2017-10-07 02:33:20,867  INFO - Waiting for presence of element
+2017-10-07 02:33:22,435  INFO - Item found
+2017-10-07 02:33:22,435  INFO - Opened home page
+2017-10-07 02:33:22,435  INFO - Choice left bar
+2017-10-07 02:33:22,473  INFO - Item found
+2017-10-07 02:33:22,473  INFO - Found button
+2017-10-07 02:33:22,473  INFO - Click button
+2017-10-07 02:33:22,798  INFO - Item found
+2017-10-07 02:33:22,798  INFO - Open left bar
+2017-10-07 02:33:23,173  INFO - Item found
+2017-10-07 02:33:23,173  INFO - Found button
+2017-10-07 02:33:23,173  INFO - Click button
+2017-10-07 02:33:23,488  INFO - Item found
+2017-10-07 02:33:23,488  INFO - Found combobox
+2017-10-07 02:33:23,495  INFO - Change the currency
+2017-10-07 02:33:25,677  INFO - Checking currency
+2017-10-07 02:33:27,616  INFO - Item found
+2017-10-07 02:33:27,616  INFO - Opened home page
+2017-10-07 02:33:27,616  INFO - Waiting for presence of element
+2017-10-07 02:33:30,161  INFO - Item found
+2017-10-07 02:33:30,161  INFO - Opened home page
+2017-10-07 02:33:30,161  INFO - Choice left bar
+2017-10-07 02:33:30,291  INFO - Item found
+2017-10-07 02:33:30,291  INFO - Found button
+2017-10-07 02:33:30,291  INFO - Click button
+2017-10-07 02:33:31,147  INFO - Item found
+2017-10-07 02:33:31,147  INFO - Open left bar
+2017-10-07 02:33:31,565  INFO - Item found
+2017-10-07 02:33:31,565  INFO - Found button
+2017-10-07 02:33:31,565  INFO - Click button
+2017-10-07 02:33:31,850  INFO - Item found
+2017-10-07 02:33:31,850  INFO - Found combobox
+2017-10-07 02:33:31,850  INFO - Change the currency
+2017-10-07 02:33:33,993  INFO - Checking currency
+2017-10-07 02:33:34,385  INFO - Item found
+2017-10-07 02:33:34,385  INFO - Opened home page
+2017-10-07 02:33:34,385  INFO - Waiting for presence of element
+2017-10-07 02:34:39,770  INFO - Browser close
+2017-10-07 02:36:11,273  INFO - Browser settings
+2017-10-07 02:36:20,511  INFO - Creating of driver browser
+2017-10-07 02:36:26,829  INFO - Item found
+2017-10-07 02:36:26,829  INFO - Opened home page
+2017-10-07 02:36:26,911  INFO - Item found
+2017-10-07 02:36:26,911  INFO - Opened home page
+2017-10-07 02:36:26,911  INFO - Choice left bar
+2017-10-07 02:36:26,945  INFO - Item found
+2017-10-07 02:36:26,945  INFO - Found button
+2017-10-07 02:36:26,945  INFO - Click button
+2017-10-07 02:36:28,161  INFO - Item found
+2017-10-07 02:36:28,161  INFO - Open left bar
+2017-10-07 02:36:28,161  INFO - Сlicked on the desired language
+2017-10-07 02:36:28,161  INFO - Checked language en
+2017-10-07 02:36:28,315  INFO - Getting an attribute
+2017-10-07 02:36:28,699  INFO - Swap language
+2017-10-07 02:36:29,628  INFO - Item found
+2017-10-07 02:36:29,629  INFO - Found button
+2017-10-07 02:36:29,629  INFO - Click button
+2017-10-07 02:36:30,611  INFO - Item found
+2017-10-07 02:36:30,611  INFO - Found combobox
+2017-10-07 02:36:30,611  INFO - Change the language to EN
+2017-10-07 02:36:34,439  INFO - Getting an attribute
+2017-10-07 02:36:34,993  INFO - Item found
+2017-10-07 02:36:34,993  INFO - Opened home page
+2017-10-07 02:36:34,993  INFO - Click places tag
+2017-10-07 02:36:34,993  INFO - Waiting for presence of element
+2017-10-07 02:36:35,396  INFO - Item found
+2017-10-07 02:36:35,396  INFO - Found button
+2017-10-07 02:36:35,396  INFO - Point to element
+2017-10-07 02:36:36,176  INFO - Place input
+2017-10-07 02:36:36,176  INFO - Waiting for presence of element
+2017-10-07 02:36:36,495  INFO - Item found
+2017-10-07 02:36:36,495  INFO - Found input field
+2017-10-07 02:36:36,495  INFO - Entered data
+2017-10-07 02:36:37,240  INFO - Click place result
+2017-10-07 02:36:37,309  INFO - Item found
+2017-10-07 02:36:37,309  INFO - Found button
+2017-10-07 02:36:37,309  INFO - Click button
+2017-10-07 02:36:37,742  INFO - Waiting for presence of element
+2017-10-07 02:36:38,262  INFO - Item found
+2017-10-07 02:36:38,262  INFO - Opened home page
+2017-10-07 02:36:38,262  INFO - Choice left bar
+2017-10-07 02:36:38,302  INFO - Item found
+2017-10-07 02:36:38,302  INFO - Found button
+2017-10-07 02:36:38,302  INFO - Click button
+2017-10-07 02:36:38,611  INFO - Item found
+2017-10-07 02:36:38,611  INFO - Open left bar
+2017-10-07 02:36:38,911  INFO - Item found
+2017-10-07 02:36:38,911  INFO - Found button
+2017-10-07 02:36:38,911  INFO - Click button
+2017-10-07 02:36:39,299  INFO - Item found
+2017-10-07 02:36:39,299  INFO - Found combobox
+2017-10-07 02:36:39,299  INFO - Change the currency
+2017-10-07 02:36:41,367  INFO - Checking currency
+2017-10-07 02:36:41,733  INFO - Item found
+2017-10-07 02:36:41,733  INFO - Opened home page
+2017-10-07 02:36:41,733  INFO - Waiting for presence of element
+2017-10-07 02:36:42,989  INFO - Item found
+2017-10-07 02:36:42,989  INFO - Opened home page
+2017-10-07 02:36:42,989  INFO - Choice left bar
+2017-10-07 02:36:43,010  INFO - Item found
+2017-10-07 02:36:43,010  INFO - Found button
+2017-10-07 02:36:43,010  INFO - Click button
+2017-10-07 02:36:43,458  INFO - Item found
+2017-10-07 02:36:43,458  INFO - Open left bar
+2017-10-07 02:36:43,922  INFO - Item found
+2017-10-07 02:36:43,922  INFO - Found button
+2017-10-07 02:36:43,922  INFO - Click button
+2017-10-07 02:36:44,275  INFO - Item found
+2017-10-07 02:36:44,275  INFO - Found combobox
+2017-10-07 02:36:44,275  INFO - Change the currency
+2017-10-07 02:36:46,507  INFO - Checking currency
+2017-10-07 02:36:47,065  INFO - Item found
+2017-10-07 02:36:47,065  INFO - Opened home page
+2017-10-07 02:36:47,065  INFO - Waiting for presence of element
+2017-10-07 02:36:48,300  INFO - Browser close

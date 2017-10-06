@@ -18,7 +18,7 @@ public class CheckingTrackPrices extends BaseTest {
 	private HomePage homePage;
 	private FlightsPage flightsPage;
 
-	@When("^I switched Places tab$")
+	@When("^I choose Places tab$")
 	public void i_switched_Places_tab() throws Throwable {
 		homePage = new HomePage().clickPlacesTag();
 	}
@@ -41,7 +41,7 @@ public class CheckingTrackPrices extends BaseTest {
 		}
 	}
 
-	@When("^I switched this result$")
+	@When("^I choose this result$")
 	public void i_switched_this_result() throws Throwable {
 		homePage.clickPlaceResult();
 	}
@@ -51,7 +51,7 @@ public class CheckingTrackPrices extends BaseTest {
 	   assertTrue(place.indexOf(homePage.getPlaceName()) >= 0, "Incorrect place");
 	}
 
-	@When("^I switched this place$")
+	@When("^I choose this place$")
 	public void i_switched_this_place() throws Throwable {
 		 homePage.clickPlace();
 	}

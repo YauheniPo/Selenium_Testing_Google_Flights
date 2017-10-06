@@ -30,4 +30,8 @@ public class ScenarioContext {
 	public static void setScenarioContextNull() {
 		instance = null;
 	}
+	
+	public Map<String, Object> getMap() {
+		return map;
+	}
 }

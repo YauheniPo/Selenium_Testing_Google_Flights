@@ -13,13 +13,14 @@ import static a1qa.google.flights.utils.Locators.*;
 public class HomePage extends BasePage {
 
 	private final static By HOME_PAGE_LOCATOR = By.xpath("//div[contains(@class, 'Q-g')]");
-	private final By HOME_PAGE_PLACES = By.xpath("//div[@class='DQX2Q1B-Q-r'][1]");
+	private final By HOME_PAGE_PLACES = By.xpath("//div[@class='DQX2Q1B-Q-r'][1]/div[1]");
 	private final By HOME_PAGE_PLACE_INPUT = By.xpath("//div[contains(@class, 'Q-g')]//input");
 	private final By HOME_PAGE_PLACE = By.xpath("//div[contains(@class, 'nb-a')]");
 	private final By HOME_PAGE_PLACE_FLIGHTS = By.xpath("//div[@class='DQX2Q1B-K-M DQX2Q1B-K-t']");
 	private final By HOME_PAGE_PLACE_HOTELS = By.xpath("//div[contains(@class, 'K-x')]");
-	public static final By HOME_PAGE_PLACE_CONTENT = By.xpath("//div[contains(@class, 'ontent')]/div");
 	private final By HOME_PAGE_PLACE_NAME = By.xpath(".//div[contains(@class, 'nb-u')]");
+	private final By HOME_PAGE_PLACE_PRICE = By.xpath(".//span[contains(@class, 'nb-p')]");
+	public static final By HOME_PAGE_PLACE_CONTENT = By.xpath("//div[contains(@class, 'ontent')]/div");
 
 	public HomePage() {
 		super(HOME_PAGE_LOCATOR);
@@ -38,15 +39,15 @@ public class HomePage extends BasePage {
 	}
 	
 	public HomePage clickPlacesTag() {
-		log.info("Click place tag");
-		setWaitClickable(HOME_PAGE_PLACES);
-		new Button(HOME_PAGE_PLACES).clickBnt();
+		log.info("Click places tag");
+		fluentWaitForPresenceOf(HOME_PAGE_PLACES);
+		new Button(HOME_PAGE_PLACES).pointToElement().click();
 		return this;
 	}
 	
 	public HomePage typePlace(String place) {
 		log.info("Place input");
-		setWaitClickable(HOME_PAGE_PLACE_INPUT);
+		fluentWaitForPresenceOf(HOME_PAGE_PLACE_INPUT);
 		new TextBox(HOME_PAGE_PLACE_INPUT).inputData(place);
 		return this;
 	}
@@ -76,6 +77,12 @@ public class HomePage extends BasePage {
 	}
 	
 	public String getPlaceName() {
+		fluentWaitForPresenceOf(HOME_PAGE_PLACE);
 		return getElement(HOME_PAGE_PLACE).findElement(HOME_PAGE_PLACE_NAME).getText();
+	}
+	
+	public String getPlacePrice() {
+		fluentWaitForPresenceOf(HOME_PAGE_PLACE);
+		return getElement(HOME_PAGE_PLACE).findElement(HOME_PAGE_PLACE_PRICE).getText();
 	}
 }

@@ -8,7 +8,6 @@ public class RegExConfig {
 	public static final String REG_EX_VALUE_INT = "[0-9]+";
 	public static final String REG_EX_VALUE_DOUBLE = "([0-9])+.([0-9])+";
 	public static final String REG_EX_UPPER_TEXT = "([A-Z])+";
-	public static final String REG_EX_GAME_TAG_TEXT = "[^, ].+[^ ]";
 	public static final String REG_EX_END_HREF = "([\\w.]*)?$";
 
 	public static String getStrToRegEx(String str, String regx) {

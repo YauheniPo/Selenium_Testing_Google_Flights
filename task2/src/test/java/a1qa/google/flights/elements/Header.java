@@ -57,7 +57,7 @@ public class Header extends BaseElement{
 		return this;
 	}
 	
-	public Header checkUserLogout(String login) {
+	public Header checkUserLogout() {
 		log.info("Checking user logout");
 		assertFalse(isNotNull(HEADER_ACCOUNT), "Error log out");
 		log.info("User is log out");

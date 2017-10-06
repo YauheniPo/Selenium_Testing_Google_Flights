@@ -8,5 +8,6 @@ public class Authorization {
 	@When("^I logged in with '(.*?)' and '(.*?)'$")
 	public void logging(String login, String password) throws Throwable {
 	    new Header().logging().loginAs(login, password);
+	    new Header().checkAuthorization(login);
 	}
 }

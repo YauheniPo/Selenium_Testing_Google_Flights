@@ -10,14 +10,16 @@ import a1qa.google.flights.elements.LeftNavBar;
 
 import static a1qa.google.flights.utils.Locators.*;
 
-import java.util.StringTokenizer;
-
 public class HomePage extends BasePage {
 
 	private final static By HOME_PAGE_LOCATOR = By.xpath("//div[contains(@class, 'Q-g')]");
-	private final By HOME_PAGE_PLACES = By.xpath(".//*[@id='root']/div[3]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/div/div/div[4]/div[2]/div[3]");
+	private final By HOME_PAGE_PLACES = By.xpath("//div[@class='DQX2Q1B-Q-r'][1]");
 	private final By HOME_PAGE_PLACE_INPUT = By.xpath("//div[contains(@class, 'Q-g')]//input");
-	private final By HOME_PAGE_PLACE_CONTENT = By.xpath("//div[contains(@class, 'ontent')]/div");
+	private final By HOME_PAGE_PLACE = By.xpath("//div[contains(@class, 'nb-a')]");
+	private final By HOME_PAGE_PLACE_FLIGHTS = By.xpath("//div[@class='DQX2Q1B-K-M DQX2Q1B-K-t']");
+	private final By HOME_PAGE_PLACE_HOTELS = By.xpath("//div[contains(@class, 'K-x')]");
+	public static final By HOME_PAGE_PLACE_CONTENT = By.xpath("//div[contains(@class, 'ontent')]/div");
+	private final By HOME_PAGE_PLACE_NAME = By.xpath(".//div[contains(@class, 'nb-u')]");
 
 	public HomePage() {
 		super(HOME_PAGE_LOCATOR);
@@ -37,6 +39,7 @@ public class HomePage extends BasePage {
 	
 	public HomePage clickPlacesTag() {
 		log.info("Click place tag");
+		setWaitClickable(HOME_PAGE_PLACES);
 		new Button(HOME_PAGE_PLACES).clickBnt();
 		return this;
 	}
@@ -48,17 +51,31 @@ public class HomePage extends BasePage {
 		return this;
 	}
 	
-	public HomePage clickPlaceResult(String place) {
+	public HomePage clickPlaceResult() {
 		log.info("Click place result");
-		String content = getElement(HOME_PAGE_PLACE_CONTENT).getText().trim();
-		StringTokenizer tokenizer = new StringTokenizer(content, ", "); 
-		while (tokenizer.hasMoreTokens()) {
-			if(place.indexOf(tokenizer.nextToken()) < 0) {
-				log.error("Incorrected place result");
-				return null;
-			}
-		}
 		new Button(HOME_PAGE_PLACE_CONTENT).clickBnt();
 		return this;
+	}
+	
+	public HomePage clickPlace() {
+		log.info("Click place");
+		new Button(HOME_PAGE_PLACE).clickBnt();
+		return this;
+	}
+	
+	public HomePage clickPlaceFlights() {
+		log.info("Click place");
+		new Button(HOME_PAGE_PLACE_FLIGHTS).clickBnt();
+		return this;
+	}
+	
+	public HomePage clickPlaceHotels() {
+		log.info("Click place");
+		new Button(HOME_PAGE_PLACE_HOTELS).clickBnt();
+		return this;
+	}
+	
+	public String getPlaceName() {
+		return getElement(HOME_PAGE_PLACE).findElement(HOME_PAGE_PLACE_NAME).getText();
 	}
 }

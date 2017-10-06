@@ -16,7 +16,6 @@ public class LeftNavBar extends BaseElement{
 	private final static By LEFT_BAR = By.xpath("//div[contains(@class, 'w-x')]");
 	private final static By LANGUAGE = By.xpath("//div[contains(text(), 'anguage')]");
 	private final static By LANG_COMBOBOX = By.xpath("//div[contains(@class, 'c-h')]");
-	//private final static By LANG_ELEMENT = By.xpath("//div[contains(@class, 'c-v')]");
 
 	public LeftNavBar() {
 		super(LEFT_BAR);

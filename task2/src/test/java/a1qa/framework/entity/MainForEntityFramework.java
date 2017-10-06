@@ -33,7 +33,7 @@ import a1qa.framework.utils.TimeoutConfig;
 public abstract class MainForEntityFramework {
 
 	protected WebElement element;
-	protected Properties properties = ConfigReader.getInstance().getProperties();
+	protected static Properties properties = ConfigReader.getInstance().getProperties();
 	protected Logger log = BaseTest.log;
 	protected WebDriver driver = BrowserManager.getInstance(properties.getProperty(PROP_BROWSER)).getDriver();
 
@@ -62,7 +62,7 @@ public abstract class MainForEntityFramework {
 		element.click();
 	}
 
-	public void clickback() {
+	public static void clickback() {
 		BrowserManager.getInstance(properties.getProperty(PROP_BROWSER)).back();
 	}
 	

@@ -16,7 +16,7 @@ public class ConstantValue {
 	public static final String PROP_BROWSER_TIMEOUT = "browser.timeout";
 	public static final String PROP_RESOURCES_FOLDER = "resources.folder";
 	public static final String PROP_ARTIFACTS_FOLDER = "artifacts.folder";
-	public static final String PROP_URL = "steam.url";
+	public static final String PROP_URL = "site.url";
 	public static final String PROP_LOG = "log.properties";
 	public static final String PROP_LANG = "language.site";
 	

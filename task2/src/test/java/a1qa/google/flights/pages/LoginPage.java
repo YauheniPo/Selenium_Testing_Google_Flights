@@ -7,7 +7,7 @@ import a1qa.framework.pages.BasePage;
 
 public class LoginPage extends BasePage {
 	
-	private final static By LOGIN_PAGE = By.xpath("//div[@id='initialView']");
+	private static final By LOGIN_PAGE = By.xpath("//div[@id='initialView']");
 	private final By LOGIN_PAGE_INPUT_LOGIN = By.xpath("//input[@id='identifierId']");
 	private final By LOGIN_PAGE_INPUT_PASSWORD = By.xpath("//input[@type='password']");
 	private final By LOGIN_PAGE_SUBMIT = By.xpath("//div[contains(@id, 'Next')]");

@@ -1,5 +1,6 @@
 package steps;
 
+import a1qa.framework.test.BaseTest;
 import a1qa.google.flights.pages.HomePage;
 import a1qa.google.flights.utils.CurrenciesLocators;
 import context.ScenarioContext;
@@ -9,7 +10,7 @@ import cucumber.api.java.en.When;
 import static a1qa.framework.utils.RegExConfig.*;
 import static org.testng.Assert.*;
 
-public class CheckingPricesOfDifferentCurrencies {
+public class CheckingPricesOfDifferentCurrencies extends BaseTest {
 
 	private String currency;
 
@@ -26,6 +27,7 @@ public class CheckingPricesOfDifferentCurrencies {
 
 	@Then("^the price difference corresponds to a '(.*?)' within (\\d+)$")
 	public void pricesEquals(String coeff, int pct) throws Throwable {
+		log.info("Checking the price difference");
 		double coefficient = Double.valueOf(coeff);
 		
 		double firstPrice = (Double) ScenarioContext.getInstance().getValue(CurrenciesLocators.USD.toString());

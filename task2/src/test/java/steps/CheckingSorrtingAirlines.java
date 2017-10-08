@@ -18,18 +18,19 @@ public class CheckingSorrtingAirlines extends BaseTest {
 	private FlightsPage flightPage;
 	
 	@When("^I clicked sorting airlines$")
-	public void i_clicked_sorting_airlines() throws Throwable {
+	public void clickSortAirlines() throws Throwable {
 		flightPage = new FlightsPage();
 		flightPage.clickAirline();
 	}
 
 	@When("^choose Belavia$")
-	public void choose_Belavia() throws Throwable {
+	public void choiceAirline() throws Throwable {
 	    flightPage.switchAirline(Airlines.BELAVIA.getTitle());
 	}
 
 	@Then("^flights only Belavia$")
-	public void flights_only_Belavia() throws Throwable {
+	public void checkFlights() throws Throwable {
+		log.info("Checking sorting airlines");
 		List<WebElement> flights = flightPage.getListFlights();
 		boolean bool = true;
 		for(int i = 0, l = flights.size(); i < l; ++i) {

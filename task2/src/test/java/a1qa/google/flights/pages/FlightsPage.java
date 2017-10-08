@@ -11,7 +11,7 @@ import a1qa.framework.pages.BasePage;
 
 public class FlightsPage extends BasePage {
 	
-	private final static By FLIGHTS_PAGE_SWITCH_TRACK_PRICES = By.xpath("//div[contains(@class, 'Ub-g')]");
+	private static final By FLIGHTS_PAGE_SWITCH_TRACK_PRICES = By.xpath("//div[contains(@class, 'Ub-g')]");
 	private final By FLIGHTS_PAGE_SWITCH_STATUS = By.xpath(".//div[@elm]");
 	private final By FLIGHTS_PAGE_AIRLINE = By.xpath("//div[contains(@class, 's-b')]");
 	private final By FLIGHTS_PAGE_SET_AIRLINE = By.xpath("//div[contains(@class, 'jb-g')]");

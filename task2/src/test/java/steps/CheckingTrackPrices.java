@@ -19,17 +19,18 @@ public class CheckingTrackPrices extends BaseTest {
 	private FlightsPage flightsPage;
 
 	@When("^I choose Places tab$")
-	public void i_switched_Places_tab() throws Throwable {
+	public void switchPlacesTab() throws Throwable {
 		homePage = new HomePage().clickPlacesTag();
 	}
 
 	@When("^entered the '(.*?)'$")
-	public void entered_the_Moscow_Russia(String place) throws Throwable {
+	public void enterPlace(String place) throws Throwable {
 		homePage.typePlace(place);
 	}
 
 	@Then("^in results viewed correct information '(.*?)'$")
-	public void in_results_viewed_correct_information(String place) throws Throwable {
+	public void checkResult(String place) throws Throwable {
+		log.info("Checking the result of the entered place");
 		String content = homePage.getElement(HOME_PAGE_PLACE_CONTENT).getText().trim();
 		String delim = ", ";
 		
@@ -42,38 +43,38 @@ public class CheckingTrackPrices extends BaseTest {
 	}
 
 	@When("^I choose this result$")
-	public void i_switched_this_result() throws Throwable {
+	public void switchResult() throws Throwable {
 		homePage.clickPlaceResult();
 	}
 
 	@Then("^there is this '(.*?)'$")
-	public void there_is_this_place(String place) throws Throwable {
+	public void checkPlace(String place) throws Throwable {
 	   assertTrue(place.indexOf(homePage.getPlaceName()) >= 0, "Incorrect place");
 	}
 
 	@When("^I choose this place$")
-	public void i_switched_this_place() throws Throwable {
+	public void switchPlace() throws Throwable {
 		 homePage.clickPlace();
 	}
 
 	@When("^information flights$")
-	public void information_flights() throws Throwable {
+	public void informationFlights() throws Throwable {
 	    homePage.clickPlaceFlights();
 	}
 
 	@Then("^opened flights page$")
-	public void opened_flights_page() throws Throwable {
+	public void flightsPage() throws Throwable {
 		flightsPage = new FlightsPage();
 	}
 
 	@When("^I clicked track prices$")
-	public void i_clicked_track_prices() throws Throwable {
+	public void clickTrackPrices() throws Throwable {
 		flightsPage.clickTrackPrices();
 	}
 
 	@Then("^track prices function is turned on$")
-	public void track_prices_function_is_turned_on() throws Throwable {
-		assertEquals(SWITCH_ON, flightsPage.getStatusSwitchTrackPrices(), "Incorrected switch work ");
+	public void checkTrackPricesStatusIsON() throws Throwable {
+		assertEquals(SWITCH_ON, flightsPage.getStatusSwitchTrackPrices(), "Incorrected switch work");
 		
 		//Выключаем для корректной работы следующих тестов
 		flightsPage.clickTrackPrices();
@@ -85,7 +86,7 @@ public class CheckingTrackPrices extends BaseTest {
 	}
 	
 	@Then("^track prices function is turned off$")
-	public void track_prices_function_is_turned_off() throws Throwable {
-		assertEquals(SWITCH_OFF, flightsPage.getStatusSwitchTrackPrices(), "Incorrected switch work ");
+	public void checkTrackPricesStatusIsOFF() throws Throwable {
+		assertEquals(SWITCH_OFF, flightsPage.getStatusSwitchTrackPrices(), "Incorrected switch work");
 	}
 }

@@ -2,7 +2,7 @@ package a1qa.framework.utils;
 
 public enum TimeoutConfig {
 	
-	SPINNER(5000), MAX(30000), SLEEP(1000), MIN(500);
+	SPINNER(5000), MAX(30000), SLEEP(1000), MIN(500), SECONDS(10);
 
 	private int timeout;
 

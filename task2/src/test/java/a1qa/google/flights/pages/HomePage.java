@@ -12,9 +12,9 @@ import static a1qa.google.flights.utils.Locators.*;
 
 public class HomePage extends BasePage {
 
-	private final static By HOME_PAGE_LOCATOR = By.xpath("//div[contains(@class, 'Q-g')]");
+	private static final By HOME_PAGE_LOCATOR = By.xpath("//div[contains(@class, 'Q-g')]");
 	private final By HOME_PAGE_MAP = By.xpath("//div[contains(@class, 'O-a')]");
-	private final By HOME_PAGE_PLACES = By.xpath("//div[@class='DQX2Q1B-Q-r'][1]/div[1]");
+	private final By HOME_PAGE_PLACES = By.xpath("//div[@class='DQX2Q1B-Q-r'][1]");
 	private final By HOME_PAGE_PLACE_INPUT = By.xpath("//div[contains(@class, 'Q-g')]//input");
 	private final By HOME_PAGE_PLACE = By.xpath("//div[contains(@class, 'nb-a')]");
 	private final By HOME_PAGE_PLACE_FLIGHTS = By.xpath("//div[@class='DQX2Q1B-K-M DQX2Q1B-K-t']");
@@ -78,11 +78,13 @@ public class HomePage extends BasePage {
 	}
 	
 	public String getPlaceName() {
+		log.info("Fetch place name");
 		fluentWaitForPresenceOf(HOME_PAGE_PLACE);
 		return getElement(HOME_PAGE_PLACE).findElement(HOME_PAGE_PLACE_NAME).getText();
 	}
 	
 	public String getPlacePrice() {
+		log.info("Fetch place price");
 		fluentWaitForPresenceOf(HOME_PAGE_PLACE);
 		return getElement(HOME_PAGE_PLACE).findElement(HOME_PAGE_PLACE_PRICE).getText();
 	}

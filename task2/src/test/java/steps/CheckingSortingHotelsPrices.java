@@ -20,23 +20,24 @@ public class CheckingSortingHotelsPrices extends BaseTest {
 	private HotelsPage hotelsPage;
 
 	@When("^information hotels$")
-	public void information_hotels() throws Throwable {
+	public void informationHotels() throws Throwable {
 		homePage = new HomePage().clickPlaceHotels();
 		homePage.focusNewWindow();
 	}
 
 	@Then("^opened hotels page$")
-	public void opened_hotels_page() throws Throwable {
+	public void hotelsPage() throws Throwable {
 		hotelsPage = new HotelsPage();
 	}
 
 	@When("^I clicked prices tag$")
-	public void i_clicked_prices_tag() throws Throwable {
+	public void clickPricesTag() throws Throwable {
 		hotelsPage.clickPriceTag();
 	}
 
 	@Then("^prices sorted in ASC$")
-	public void prices_sorted_in_ASC() throws Throwable {
+	public void sortPrices() throws Throwable {
+		log.info("Checking sorting hotels");
 		List<WebElement> hotels = hotelsPage.getListHotels();
 		boolean bool = true;
 		for(int i = 0, l = hotels.size(); i < l-1; ++i) {

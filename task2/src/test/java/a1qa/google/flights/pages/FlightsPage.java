@@ -14,6 +14,8 @@ public class FlightsPage extends BasePage {
 	private final static By FLIGHTS_PAGE_SWITCH_TRACK_PRICES = By.xpath("//div[contains(@class, 'Ub-g')]");
 	private final By FLIGHTS_PAGE_SWITCH_STATUS = By.xpath(".//div[@elm]");
 	private final By FLIGHTS_PAGE_AIRLINE = By.xpath("//div[contains(@class, 's-b')]");
+	private final By FLIGHTS_PAGE_SET_AIRLINE = By.xpath("//div[contains(@class, 'jb-g')]");
+	private final By FLIGHTS_PAGE_ELEMENT_AIRLINE = By.xpath(".//div[contains(@class, 'jb-c')]");
 	private final By FLIGHTS_PAGE_SET_AIRLINES = By.xpath("//div[contains(@class, '-d-P')]");
 	private final By FLIGHTS_PAGE_ELEMENT_AIRLINES = By.xpath(".//a[contains(@class, 'd-X')]/.");
 	private final By FLIGHTS_PAGE_SWITCH_AIRLINE = By.xpath(".//div[contains(@class, 'jb-a')]");
@@ -36,18 +38,25 @@ public class FlightsPage extends BasePage {
 	}
 	
 	public FlightsPage clickAirline() {
+		fluentWaitForPresenceOf(FLIGHTS_PAGE_AIRLINE);
+		log.info("Click sorting airlines"); 
 		new Button(FLIGHTS_PAGE_AIRLINE).clickBnt();
 		return this;
 	}
 	
 	public FlightsPage switchAirline(String titleAirline) {
-		List<WebElement> airlines = new Combobox(FLIGHTS_PAGE_SET_AIRLINES).fetchListElements(FLIGHTS_PAGE_ELEMENT_AIRLINES).getListElements();
-		airlines.forEach(airline -> {
-			if(airline.getText().equals(titleAirline)) {
-				airline.findElement(FLIGHTS_PAGE_SWITCH_AIRLINE).click();
+		fluentWaitForPresenceOf(FLIGHTS_PAGE_SET_AIRLINES);
+		List<WebElement> airlines = new Combobox(FLIGHTS_PAGE_SET_AIRLINE).fetchListElements(FLIGHTS_PAGE_ELEMENT_AIRLINE).getListElements();
+		for(int i = 0, l = airlines.size(); i < l; ++i) {
+			String airline = airlines.get(i).getText();
+			if(airline.equals(titleAirline)) {
+				airlines.get(i).findElement(FLIGHTS_PAGE_SWITCH_AIRLINE).click();
+				log.info("Clicked " + titleAirline);
+				break;
 			}
-		});
+		}
 		new Button(FLIGHTS_PAGE_AIRLINE).clickBnt();
+		fluentWaitForPresenceOf(FLIGHTS_PAGE_AIRLINE_TITLE);
 		return this;
 	}
 	

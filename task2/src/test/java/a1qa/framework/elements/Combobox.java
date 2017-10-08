@@ -60,10 +60,8 @@ public class Combobox extends BaseElement {
 	}
 
 	public Combobox fetchListElements(By locatorSet) {
-		if (isNotNull(locatorSet)) {
-			log.info("Getting of set");
-			listElem = element.findElements(locatorSet);
-		}
+		log.info("Getting of set");
+		listElem = element.findElements(locatorSet);
 		return this;
 	}
 	

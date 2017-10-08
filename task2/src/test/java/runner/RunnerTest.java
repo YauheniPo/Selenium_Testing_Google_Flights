@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
         features = "src/test/java/features/",
         plugin = {"pretty", "html:target/cucumber",},
         glue = "steps",
-        tags = "@check_wallet, @edit_profile, @logout, @special_offer, @steam_download"      
+        tags = "@track_prices_for_guest, @track_prices_for_user, @checking_currencies_and_prices, @sorting_hotels_prices, @sorting_airlines"      
 )
 public class RunnerTest {
 }

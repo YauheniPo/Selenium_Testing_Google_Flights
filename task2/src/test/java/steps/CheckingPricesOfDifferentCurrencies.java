@@ -1,7 +1,7 @@
 package steps;
 
 import a1qa.google.flights.pages.HomePage;
-import a1qa.google.flights.utils.Currency;
+import a1qa.google.flights.utils.CurrenciesLocators;
 import context.ScenarioContext;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -9,7 +9,7 @@ import cucumber.api.java.en.When;
 import static a1qa.framework.utils.RegExConfig.*;
 import static org.testng.Assert.*;
 
-public class Checking_Prices_Of_Different_Currencies {
+public class CheckingPricesOfDifferentCurrencies {
 
 	private String currency;
 
@@ -28,8 +28,8 @@ public class Checking_Prices_Of_Different_Currencies {
 	public void pricesEquals(String coeff, int pct) throws Throwable {
 		double coefficient = Double.valueOf(coeff);
 		
-		double firstPrice = (Double) ScenarioContext.getInstance().getValue(Currency.USD.toString());
-		double secondPrice = (Double) ScenarioContext.getInstance().getValue(Currency.EUR.toString());
+		double firstPrice = (Double) ScenarioContext.getInstance().getValue(CurrenciesLocators.USD.toString());
+		double secondPrice = (Double) ScenarioContext.getInstance().getValue(CurrenciesLocators.EUR.toString());
 		
 		double coeffCurrency = firstPrice / secondPrice;
 		assertEquals(coefficient, coeffCurrency, (coeffCurrency / 100) * pct);

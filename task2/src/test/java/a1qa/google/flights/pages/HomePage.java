@@ -13,6 +13,7 @@ import static a1qa.google.flights.utils.Locators.*;
 public class HomePage extends BasePage {
 
 	private final static By HOME_PAGE_LOCATOR = By.xpath("//div[contains(@class, 'Q-g')]");
+	private final By HOME_PAGE_MAP = By.xpath("//div[contains(@class, 'O-a')]");
 	private final By HOME_PAGE_PLACES = By.xpath("//div[@class='DQX2Q1B-Q-r'][1]/div[1]");
 	private final By HOME_PAGE_PLACE_INPUT = By.xpath("//div[contains(@class, 'Q-g')]//input");
 	private final By HOME_PAGE_PLACE = By.xpath("//div[contains(@class, 'nb-a')]");
@@ -40,7 +41,7 @@ public class HomePage extends BasePage {
 	
 	public HomePage clickPlacesTag() {
 		log.info("Click places tag");
-		fluentWaitForPresenceOf(HOME_PAGE_PLACES);
+		fluentWaitForPresenceOf(HOME_PAGE_MAP);
 		new Button(HOME_PAGE_PLACES).pointToElement().click();
 		return this;
 	}

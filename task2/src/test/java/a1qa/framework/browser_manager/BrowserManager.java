@@ -43,6 +43,14 @@ public class BrowserManager extends BrowserFactory {
 		driver.navigate().back();
 	}
 	
+	public void quit() {
+		if (driver != null) {
+			log.info("Browser close");
+			driver.quit();	
+			driver = null;
+		}
+	}
+	
 	public void refreshPage() {
 		log.info("Refresh of page");
 		driver.navigate().refresh();
@@ -55,11 +63,9 @@ public class BrowserManager extends BrowserFactory {
 		}
 	}
 	
-	public void quit() {
-		if (driver != null) {
-			log.info("Browser close");
-			driver.quit();	
-			driver = null;
+	public void focusNewBrowserWindow() {
+		for(String winHandle : driver.getWindowHandles()){
+		    driver.switchTo().window(winHandle);
 		}
 	}
 }

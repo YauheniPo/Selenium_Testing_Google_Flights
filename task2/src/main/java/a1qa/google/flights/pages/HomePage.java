@@ -42,7 +42,7 @@ public class HomePage extends BasePage {
 	
 	public HomePage clickPlacesTag() {
 		log.info("Click places tag");
-		isElementDisplayed(HOME_PAGE_PLACES);
+		fluentWaitForPresenceOf(HOME_PAGE_PLACES);
 		new Button(HOME_PAGE_PLACES).pointToElement().click();
 		return this;
 	}
@@ -80,13 +80,13 @@ public class HomePage extends BasePage {
 	
 	public String getPlaceName() {
 		log.info("Fetch place name");
-		fluentWaitForPresenceOf(HOME_PAGE_PLACE);
+		fluentWaitForVisibilityOf(HOME_PAGE_PLACE);
 		return new EntityElement(HOME_PAGE_PLACE).getEntityElement().findElement(HOME_PAGE_PLACE_NAME).getText();
 	}
 	
 	public String getPlacePrice() {
 		log.info("Fetch place price");
-		fluentWaitForPresenceOf(HOME_PAGE_PLACE);
+		fluentWaitForVisibilityOf(HOME_PAGE_PLACE);
 		return new EntityElement(HOME_PAGE_PLACE).getEntityElement().findElement(HOME_PAGE_PLACE_PRICE).getText();
 	}
 	

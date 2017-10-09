@@ -41,7 +41,7 @@ public class LeftNavBar extends BaseElement{
 				language = Language.EN;
 			}
 			log.info("Swap language");
-			fluentWaitForPresenceOf(LANGUAGE);
+			fluentWaitForVisibilityOf(LANGUAGE);
 			new Button(LANGUAGE).clickBnt();
 			swapLang(language);
 		}
@@ -52,9 +52,9 @@ public class LeftNavBar extends BaseElement{
 		
 		log.info("Change the language to " + lang.toString());
 		By langLocator = LanguagesLocators.valueOf(lang.toString()).getLocator();
-		fluentWaitForPresenceOf(langLocator);
+		fluentWaitForVisibilityOf(langLocator);
 		element.findElement(langLocator).click();
-		setWaitClickable(LEFT_NAV_BAR);
+		fluentWaitForPresenceOf(LEFT_NAV_BAR);
 		assertTrue(getAttribute(HTML, INPUT_ATRIBUTE_LANG).indexOf(properties.getProperty(PROP_LANG)) >= 0, "Error swap language");
 	}
 	
@@ -68,6 +68,7 @@ public class LeftNavBar extends BaseElement{
 			element.findElement(CurrenciesLocators.valueOf(currency).getLocator()).click();
 		}
 		log.info("Checking currency");
+		fluentWaitForPresenceOf(CURRENCY);
 		String currencyPage = new Label(CURRENCY).getTitleLabel();
 		assertTrue(currencyPage.indexOf(currency.toString()) >= 0, "Error swap currency");
 

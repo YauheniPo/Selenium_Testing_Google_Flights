@@ -132,13 +132,22 @@ public abstract class AbstractEntity {
 				.ignoring(NoSuchElementException.class).until(ExpectedConditions.stalenessOf(driver.findElement(locator)));
 	}
 
-	public void fluentWaitForPresenceOf(By locator) {
+	public void fluentWaitForVisibilityOf(By locator) {
 		log.info("Waiting for presence of element");
 		Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
 				.withTimeout(Integer.parseInt(properties.getProperty(PROP_BROWSER_TIMEOUT)), TimeUnit.MILLISECONDS)
 				.pollingEvery(TimeoutConfig.MIN.getTimeout(), TimeUnit.MILLISECONDS)
 				.ignoring(NoSuchElementException.class, StaleElementReferenceException.class);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+	}
+	
+	public void fluentWaitForPresenceOf(By locator) {
+		log.info("Waiting for presence of element");
+		Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
+				.withTimeout(Integer.parseInt(properties.getProperty(PROP_BROWSER_TIMEOUT)), TimeUnit.MILLISECONDS)
+				.pollingEvery(TimeoutConfig.MIN.getTimeout(), TimeUnit.MILLISECONDS)
+				.ignoring(NoSuchElementException.class, StaleElementReferenceException.class);
+		wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(locator));
 	}
 
 	public void waitingForDownloadPlace() {

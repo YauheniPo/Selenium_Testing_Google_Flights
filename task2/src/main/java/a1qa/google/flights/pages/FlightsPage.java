@@ -40,14 +40,14 @@ public class FlightsPage extends BasePage {
 	}
 	
 	public FlightsPage clickAirline() {
-		fluentWaitForPresenceOf(FLIGHTS_PAGE_AIRLINE);
+		fluentWaitForVisibilityOf(FLIGHTS_PAGE_AIRLINE);
 		log.info("Click sorting airlines"); 
 		new Button(FLIGHTS_PAGE_AIRLINE).clickBnt();
 		return this;
 	}
 	
 	public FlightsPage switchAirline(String titleAirline) {
-		fluentWaitForPresenceOf(FLIGHTS_PAGE_SET_AIRLINES);
+		fluentWaitForVisibilityOf(FLIGHTS_PAGE_SET_AIRLINES);
 		List<WebElement> airlines = new Combobox(FLIGHTS_PAGE_SET_AIRLINE).fetchListElements(FLIGHTS_PAGE_ELEMENT_AIRLINE).getListElements();
 		for(int i = 0, l = airlines.size(); i < l; ++i) {
 			String airline = airlines.get(i).getText();
@@ -58,12 +58,12 @@ public class FlightsPage extends BasePage {
 			}
 		}
 		new Button(FLIGHTS_PAGE_AIRLINE).clickBnt();
-		fluentWaitForPresenceOf(FLIGHTS_PAGE_AIRLINE_TITLE);
+		fluentWaitForVisibilityOf(FLIGHTS_PAGE_AIRLINE_TITLE);
 		return this;
 	}
 	
 	public List<WebElement> getListFlights() {
-		fluentWaitForPresenceOf(FLIGHTS_PAGE_SET_AIRLINES);
+		fluentWaitForPresenceOf(FLIGHTS_PAGE_AIRLINE_TITLE);
 		List<WebElement> list = new Combobox(FLIGHTS_PAGE_SET_AIRLINES).fetchListElements(FLIGHTS_PAGE_ELEMENT_AIRLINES).getListElements();
 		return list;
 	}

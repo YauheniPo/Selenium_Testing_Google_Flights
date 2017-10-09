@@ -28,7 +28,7 @@ public class HotelsPage extends BasePage {
 	
 	public HotelsPage clickPriceTag() {
 		log.info("Click price tag");
-		fluentWaitForPresenceOf(HOTELS_PAGE_MAP);
+		fluentWaitForVisibilityOf(HOTELS_PAGE_MAP);
 		setWaitClickable(HOTELS_PRICE_TAG);
 		new Button(HOTELS_PRICE_TAG).clickBnt();
 		waitingForDownload(SPINNER, TimeoutConfig.SECONDS.getTimeout());
@@ -37,7 +37,7 @@ public class HotelsPage extends BasePage {
 	
 	public List<WebElement> getListHotels() {
 		log.info("Fetch hotels list");
-		fluentWaitForPresenceOf(HOTELS_ELEMENT_PRICE);
+		fluentWaitForVisibilityOf(HOTELS_ELEMENT_PRICE);
 		List<WebElement> list = new Combobox(HOTELS).fetchListElements(HOTELS_ELEMENT).getListElements();
 		return list;
 	}

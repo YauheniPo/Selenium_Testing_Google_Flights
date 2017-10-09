@@ -1,12 +1,15 @@
 package a1qa.google.flights.pages;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.ElementNotInteractableException;
 
 import a1qa.framework.entity.elements.Button;
 import a1qa.framework.entity.elements.EntityElement;
 import a1qa.framework.entity.elements.Label;
 import a1qa.framework.entity.elements.TextBox;
 import a1qa.framework.entity.pages.BasePage;
+import a1qa.framework.utils.Numbers;
+import a1qa.framework.utils.TimeoutConfig;
 import a1qa.google.flights.elements.Header;
 import a1qa.google.flights.elements.LeftNavBar;
 
@@ -15,6 +18,7 @@ import static a1qa.google.flights.utils.Locators.*;
 public class HomePage extends BasePage {
 
 	private static final By HOME_PAGE_LOCATOR = By.xpath("//div[contains(@class, 'Q-g')]");
+	private final By HOME_PAGE_PANEL = By.xpath("//div[@class='DQX2Q1B-u-b']");
 	private final By HOME_PAGE_PLACES = By.xpath("//div[@class='DQX2Q1B-Q-r'][1]//div[contains(@class, 'Q-v')]");
 	private final By HOME_PAGE_PLACE_INPUT = By.xpath("//div[contains(@class, 'Q-g')]//input");
 	private final By HOME_PAGE_PLACE = By.xpath("//div[contains(@class, 'nb-a')]");
@@ -42,16 +46,36 @@ public class HomePage extends BasePage {
 	
 	public HomePage clickPlacesTag() {
 		log.info("Click places tag");
-		fluentWaitForPresenceOf(HOME_PAGE_PLACES);
-		new Button(HOME_PAGE_PLACES).pointToElement().click();
+		fluentWaitForPresenceOf(HOME_PAGE_PANEL);
+		int n = 0;
+		do {
+			try {
+				Thread.sleep(TimeoutConfig.MIN.getTimeout());
+				new Button(HOME_PAGE_PLACES).clickBnt();
+				return this;
+			} catch (ElementNotInteractableException | InterruptedException e) {
+				++n;
+			}
+		} while (n < Numbers.THIRTY.getNumber());
+		log.error("Click error places tab");
 		return this;
 	}
 	
 	public HomePage typePlace(String place) {
 		log.info("Place input");
-		isElementDisplayed(HOME_PAGE_PLACE_INPUT);
-		new TextBox(HOME_PAGE_PLACE_INPUT).inputData(place);
-		return this;
+		fluentWaitForPresenceOf(HOME_PAGE_PLACE_INPUT);
+		int n = 0;
+		do {
+			try {
+				Thread.sleep(TimeoutConfig.MIN.getTimeout());
+				new TextBox(HOME_PAGE_PLACE_INPUT).inputData(place);
+				return this;
+			} catch (ElementNotInteractableException | InterruptedException e) {
+				++n;
+			}
+		} while (n < Numbers.THIRTY.getNumber());
+		log.error("Error place input");
+		return null;
 	}
 	
 	public HomePage clickPlaceResult() {
@@ -92,7 +116,18 @@ public class HomePage extends BasePage {
 	
 	public String getPlaceContent() {
 		log.info("Fetch place content");
-		fluentWaitForPresenceOf(HOME_PAGE_PLACE_CONTENT);
-		return new Label(HOME_PAGE_PLACE_CONTENT).getTitleLabel().trim();
+		int n = 0;
+		do {
+			fluentWaitForVisibilityOf(HOME_PAGE_PLACE_CONTENT);
+			try {
+				Thread.sleep(TimeoutConfig.MIN.getTimeout());
+				String title = new Label(HOME_PAGE_PLACE_CONTENT).getTitleLabel().trim();
+				return title;
+			} catch (ElementNotInteractableException | InterruptedException e) {
+				++n;
+			}
+		} while (n < Numbers.THIRTY.getNumber());
+		log.error("Error place content");
+		return null;
 	}
 }

@@ -24,7 +24,7 @@ public class CheckingTrackPrices extends BaseTest {
 
 	@When("^entered the '(.*?)'$")
 	public void enterPlace(String place) throws Throwable {
-		homePage = new HomePage().typePlace(place);
+		homePage.typePlace(place);
 	}
 
 	@Then("^in results viewed correct information '(.*?)'$")

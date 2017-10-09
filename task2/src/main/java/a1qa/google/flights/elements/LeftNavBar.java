@@ -5,12 +5,15 @@ import static org.testng.Assert.*;
 import static a1qa.google.flights.utils.Locators.*;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.ElementNotInteractableException;
 
 import a1qa.framework.entity.elements.BaseElement;
 import a1qa.framework.entity.elements.Button;
 import a1qa.framework.entity.elements.Combobox;
 import a1qa.framework.entity.elements.Label;
 import a1qa.framework.utils.Language;
+import a1qa.framework.utils.Numbers;
+import a1qa.framework.utils.TimeoutConfig;
 import a1qa.google.flights.utils.CurrenciesLocators;
 import a1qa.google.flights.utils.LanguagesLocators;
 
@@ -48,6 +51,7 @@ public class LeftNavBar extends BaseElement{
 	}
 
 	private void swapLang(Language lang) {
+		fluentWaitForPresenceOf(LANG_COMBOBOX);
 		element = new Combobox(LANG_COMBOBOX).getElement();
 		
 		log.info("Change the language to " + lang.toString());
@@ -68,9 +72,18 @@ public class LeftNavBar extends BaseElement{
 			element.findElement(CurrenciesLocators.valueOf(currency).getLocator()).click();
 		}
 		log.info("Checking currency");
-		fluentWaitForPresenceOf(CURRENCY);
-		String currencyPage = new Label(CURRENCY).getTitleLabel();
-		assertTrue(currencyPage.indexOf(currency.toString()) >= 0, "Error swap currency");
-
+		String currencyPage = null;
+		int n = 0;
+		do {
+			try {
+				Thread.sleep(TimeoutConfig.MIN.getTimeout());
+				currencyPage= new Label(CURRENCY).getTitleLabel();
+				assertTrue(currencyPage.indexOf(currency.toString()) >= 0, "Error swap currency");
+				return;
+			} catch (ElementNotInteractableException | InterruptedException e) {
+				++n;
+			}
+		} while (n < Numbers.THIRTY.getNumber());
+		log.error("Error place content");
 	}
 }

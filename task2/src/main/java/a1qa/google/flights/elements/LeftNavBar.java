@@ -68,6 +68,8 @@ public class LeftNavBar extends BaseElement{
 			element.findElement(CurrenciesLocators.valueOf(currency).getLocator()).click();
 		}
 		log.info("Checking currency");
-		assertTrue(new Label(CURRENCY).getTitleLabel().indexOf(currency.toString()) >= 0, "Error swap currency");
+		String currencyPage = new Label(CURRENCY).getTitleLabel();
+		assertTrue(currencyPage.indexOf(currency.toString()) >= 0, "Error swap currency");
+
 	}
 }

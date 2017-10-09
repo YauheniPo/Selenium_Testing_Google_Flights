@@ -42,7 +42,6 @@ public class HomePage extends BasePage {
 	
 	public HomePage clickPlacesTag() {
 		log.info("Click places tag");
-		fluentWaitForPresenceOf(HOME_PAGE_PLACES);
 		new Button(HOME_PAGE_PLACES).pointToElement().click();
 		return this;
 	}

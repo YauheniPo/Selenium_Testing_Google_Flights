@@ -13,7 +13,7 @@ public class ConfigReader {
 	private Properties properties;
 
 	public ConfigReader() {
-		String configFile = "src/test/resources/config.properties";
+		String configFile = "src/resources/config.properties";
 		
 		properties = new Properties();
 		InputStream input = null;

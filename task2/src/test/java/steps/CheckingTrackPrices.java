@@ -9,7 +9,6 @@ import a1qa.google.flights.pages.LoginPage;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-import static a1qa.google.flights.pages.HomePage.*;
 import static org.testng.Assert.*;
 import static a1qa.google.flights.utils.FlightsConfig.*;
 
@@ -31,7 +30,7 @@ public class CheckingTrackPrices extends BaseTest {
 	@Then("^in results viewed correct information '(.*?)'$")
 	public void checkResult(String place) throws Throwable {
 		log.info("Checking the result of the entered place");
-		String content = homePage.getElement(HOME_PAGE_PLACE_CONTENT).getText().trim();
+		String content = homePage.getPlaceContent();
 		String delim = ", ";
 		
 		StringTokenizer tokenizer = new StringTokenizer(content, delim); 

@@ -5,9 +5,9 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import a1qa.framework.elements.Button;
-import a1qa.framework.elements.Combobox;
-import a1qa.framework.pages.BasePage;
+import a1qa.framework.entity.elements.Button;
+import a1qa.framework.entity.elements.Combobox;
+import a1qa.framework.entity.pages.BasePage;
 import a1qa.framework.utils.TimeoutConfig;
 
 import static a1qa.google.flights.utils.Locators.*;

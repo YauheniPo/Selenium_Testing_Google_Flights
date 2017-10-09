@@ -1,4 +1,4 @@
-package a1qa.framework.elements;
+package a1qa.framework.entity.elements;
 
 import static org.testng.Assert.*;
 
@@ -17,5 +17,9 @@ public class Label extends BaseElement {
 	
 	public void checkNotLabel(String text) {
 		assertNotEquals(text, element.getText(), "Not the same labels");
+	}
+	
+	public String getTitleLabel() {
+		return element.getText();
 	}
 }

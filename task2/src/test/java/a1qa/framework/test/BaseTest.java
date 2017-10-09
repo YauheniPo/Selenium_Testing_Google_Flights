@@ -57,9 +57,9 @@ public class BaseTest {
 		}
 	}
 	
-	public List<WebElement> getElementsFromElement(WebElement elem, By locator) {
+	/*public List<WebElement> getElementsFromElement(WebElement elem, By locator) {
 		return elem.findElements(locator);
-	}
+	}*/
 
 	private void removeMouse() {
 		int pos_x = 0;

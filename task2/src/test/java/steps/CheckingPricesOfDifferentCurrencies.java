@@ -1,17 +1,18 @@
 package steps;
 
-import a1qa.framework.test.BaseTest;
-import a1qa.google.flights.pages.HomePage;
-import a1qa.google.flights.utils.CurrenciesLocators;
 import context.ScenarioContext;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-import static a1qa.framework.utils.RegExConfig.*;
 import static org.testng.Assert.*;
+import static a1qa.framework.utils.RegExConfig.*;
+
+import a1qa.framework.test.BaseTest;
+import a1qa.google.flights.pages.HomePage;
+import a1qa.google.flights.utils.CurrenciesLocators;
 
 public class CheckingPricesOfDifferentCurrencies extends BaseTest {
-
+ 
 	private String currency;
 
 	@When("^I switched currency '(.*?)'$")

@@ -2,12 +2,14 @@ package a1qa.google.flights.elements;
 
 import static a1qa.framework.utils.ConstantValue.*;
 import static org.testng.Assert.*;
+import static a1qa.google.flights.utils.Locators.*;
 
 import org.openqa.selenium.By;
 
-import a1qa.framework.elements.BaseElement;
-import a1qa.framework.elements.Button;
-import a1qa.framework.elements.Combobox;
+import a1qa.framework.entity.elements.BaseElement;
+import a1qa.framework.entity.elements.Button;
+import a1qa.framework.entity.elements.Combobox;
+import a1qa.framework.entity.elements.Label;
 import a1qa.framework.utils.Language;
 import a1qa.google.flights.utils.CurrenciesLocators;
 import a1qa.google.flights.utils.LanguagesLocators;
@@ -52,12 +54,12 @@ public class LeftNavBar extends BaseElement{
 		By langLocator = LanguagesLocators.valueOf(lang.toString()).getLocator();
 		fluentWaitForPresenceOf(langLocator);
 		element.findElement(langLocator).click();
-		
+		setWaitClickable(LEFT_NAV_BAR);
 		assertTrue(getAttribute(HTML, INPUT_ATRIBUTE_LANG).indexOf(properties.getProperty(PROP_LANG)) >= 0, "Error swap language");
 	}
 	
 	public void selectСurrency(String currency) {
-		if (getElement(CURRENCY).getText().indexOf(currency) < 0) {
+		if (new Label(CURRENCY).getTitleLabel().indexOf(currency) < 0) {
 			setWaitClickable(CURRENCY);
 			new Button(CURRENCY).clickBnt();
 			element = new Combobox(CURRENCY_COMBOBOX).getElement();
@@ -66,6 +68,6 @@ public class LeftNavBar extends BaseElement{
 			element.findElement(CurrenciesLocators.valueOf(currency).getLocator()).click();
 		}
 		log.info("Checking currency");
-		assertTrue(getElement(CURRENCY).getText().indexOf(currency.toString()) >= 0, "Error swap currency");
+		assertTrue(new Label(CURRENCY).getTitleLabel().indexOf(currency.toString()) >= 0, "Error swap currency");
 	}
 }

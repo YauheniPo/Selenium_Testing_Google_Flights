@@ -1,4 +1,4 @@
-package a1qa.framework.elements;
+package a1qa.framework.entity.elements;
 
 import org.openqa.selenium.By;
 

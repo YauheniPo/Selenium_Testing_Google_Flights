@@ -2,8 +2,9 @@ package a1qa.google.flights.pages;
 
 import org.openqa.selenium.By;
 
-import a1qa.framework.elements.TextBox;
-import a1qa.framework.pages.BasePage;
+import a1qa.framework.entity.elements.Button;
+import a1qa.framework.entity.elements.TextBox;
+import a1qa.framework.entity.pages.BasePage;
 
 public class LoginPage extends BasePage {
 	
@@ -32,7 +33,7 @@ public class LoginPage extends BasePage {
 	
 	public void submit() {
 		log.info("Clicked - Log in");
-		clickElement(LOGIN_PAGE_SUBMIT);
+		new Button(LOGIN_PAGE_SUBMIT).clickBnt();
 	}
 	
 	public void loginAs(String login, String pass) {

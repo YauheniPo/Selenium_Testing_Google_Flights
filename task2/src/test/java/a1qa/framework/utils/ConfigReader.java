@@ -1,6 +1,5 @@
 package a1qa.framework.utils;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
@@ -14,14 +13,12 @@ public class ConfigReader {
 	private Properties properties;
 
 	public ConfigReader() {
-		String folder = "resources";
-		String configFile = "config.properties";
+		String configFile = "src/test/resources/config.properties";
 		
 		properties = new Properties();
 		InputStream input = null;
 		try {
-			Path path = FileSystems.getDefault().getPath(folder, File.separator,
-					configFile);
+			Path path = FileSystems.getDefault().getPath(configFile);
 			String pathConf = path.toAbsolutePath().toString();
 			input = new FileInputStream(pathConf);
 			properties.load(input);

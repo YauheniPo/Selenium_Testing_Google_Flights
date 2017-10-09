@@ -22,44 +22,19 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import a1qa.framework.browser_manager.BrowserManager;
-import a1qa.framework.elements.Button;
-import a1qa.framework.elements.Combobox;
-import a1qa.framework.elements.Label;
-import a1qa.framework.elements.TextBox;
 import a1qa.framework.test.BaseTest;
 import a1qa.framework.utils.ConfigReader;
 import a1qa.framework.utils.TimeoutConfig;
 
-public abstract class MainForEntityFramework {
+public abstract class AbstractEntity {
 
 	protected WebElement element;
 	protected static Properties properties = ConfigReader.getInstance().getProperties();
 	protected Logger log = BaseTest.log;
 	protected WebDriver driver = BrowserManager.getInstance(properties.getProperty(PROP_BROWSER)).getDriver();
 
-	public MainForEntityFramework(By locator) {
+	public AbstractEntity(By locator) {
 		assertTrue(isNotNull(locator), "Not found element");
-	}
-
-	public WebElement getElement() {
-		return element;
-	}
-
-	public WebElement getElement(By locator) {
-		return driver.findElement(locator);
-	}
-
-	public void setElement(WebElement element) {
-		this.element = element;
-	}
-
-	public void clickElement(By locator) {
-		new Button(locator).clickBnt();
-	}
-
-	public void clickElement() {
-		log.info("Click button");
-		element.click();
 	}
 
 	public static void clickback() {
@@ -77,29 +52,6 @@ public abstract class MainForEntityFramework {
 	
 	public void focusNewWindow() {
 		BrowserManager.getInstance(properties.getProperty(PROP_BROWSER)).focusNewBrowserWindow();
-	}
-
-	public String getText() {
-		return element.getText();
-	}
-
-	public String getText(By locator) {
-		return element.findElement(locator).getText();
-	}
-
-	public Label checkElementLabel(By locator) {
-		log.info("Checked label");
-		return new Label(locator);
-	}
-
-	public Combobox choiceComboBox(By locator) {
-		log.info("Choice combobox");
-		return new Combobox(locator);
-	}
-
-	public TextBox choiceTextBox(By locator) {
-		log.info("Choice textbox");
-		return new TextBox(locator);
 	}
 
 	public void pointToElement(By locator) {
@@ -149,7 +101,7 @@ public abstract class MainForEntityFramework {
 		return element;
 	}
 
-	public WebElement isElementDisplayed(By locator) {
+	public WebElement isElementDisplayed(final By locator) {
 		new WebDriverWait(driver, Long.parseLong(properties.getProperty(PROP_BROWSER_TIMEOUT)))
 				.pollingEvery(TimeoutConfig.MIN.getTimeout(), TimeUnit.MILLISECONDS)
 				.until(new Function<WebDriver, Boolean>() {

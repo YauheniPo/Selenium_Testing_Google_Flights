@@ -4,9 +4,9 @@ import static org.testng.Assert.*;
 
 import org.openqa.selenium.By;
 
-import a1qa.framework.elements.BaseElement;
-import a1qa.framework.elements.Button;
-import a1qa.framework.elements.TextBox;
+import a1qa.framework.entity.elements.BaseElement;
+import a1qa.framework.entity.elements.Button;
+import a1qa.framework.entity.elements.TextBox;
 import a1qa.framework.utils.Numbers;
 import a1qa.google.flights.pages.LoginPage;
 

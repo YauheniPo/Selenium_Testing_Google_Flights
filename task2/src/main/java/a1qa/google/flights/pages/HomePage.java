@@ -42,6 +42,7 @@ public class HomePage extends BasePage {
 	
 	public HomePage clickPlacesTag() {
 		log.info("Click places tag");
+		isElementDisplayed(HOME_PAGE_PLACES);
 		new Button(HOME_PAGE_PLACES).pointToElement().click();
 		return this;
 	}

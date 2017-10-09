@@ -1,448 +1,1795 @@
-2017-10-09 16:48:21,059  INFO - Browser settings
-2017-10-09 16:48:31,502  INFO - Creating of driver browser
-2017-10-09 16:48:40,602  INFO - Item found
-2017-10-09 16:48:40,602  INFO - Opened home page
-2017-10-09 16:48:40,700  INFO - Item found
-2017-10-09 16:48:40,700  INFO - Opened home page
-2017-10-09 16:48:40,700  INFO - Choice left bar
-2017-10-09 16:48:40,754  INFO - Item found
-2017-10-09 16:48:40,755  INFO - Found button
-2017-10-09 16:48:40,755  INFO - Click button
-2017-10-09 16:48:41,505  INFO - Item found
-2017-10-09 16:48:41,506  INFO - Open left bar
-2017-10-09 16:48:41,506  INFO - Сlicked on the desired language
-2017-10-09 16:48:41,507  INFO - Checked language en
-2017-10-09 16:48:41,576  INFO - Getting an attribute
-2017-10-09 16:48:41,919  INFO - Swap language
-2017-10-09 16:48:41,919  INFO - Waiting for presence of element
-2017-10-09 16:48:42,396  INFO - Item found
-2017-10-09 16:48:42,397  INFO - Found button
-2017-10-09 16:48:42,397  INFO - Click button
-2017-10-09 16:48:44,265  INFO - Item found
-2017-10-09 16:48:44,265  INFO - Found combobox
-2017-10-09 16:48:44,265  INFO - Change the language to EN
-2017-10-09 16:48:44,268  INFO - Waiting for presence of element
-2017-10-09 16:48:49,223  INFO - Getting an attribute
-2017-10-09 16:48:49,306  INFO - Item found
-2017-10-09 16:48:49,306  INFO - Opened home page
-2017-10-09 16:48:49,306  INFO - Click places tag
-2017-10-09 16:48:49,375  INFO - Item found
-2017-10-09 16:48:49,375  INFO - Found button
-2017-10-09 16:48:49,376  INFO - Point to element
-2017-10-09 16:48:50,320  INFO - Item found
-2017-10-09 16:48:50,320  INFO - Opened home page
-2017-10-09 16:48:50,321  INFO - Place input
-2017-10-09 16:48:50,628  INFO - Item found
-2017-10-09 16:48:50,628  INFO - Found input field
-2017-10-09 16:48:50,628  INFO - Entered data
-2017-10-09 16:48:51,023  INFO - Checking the result of the entered place
-2017-10-09 16:48:51,023  INFO - Fetch place content
-2017-10-09 16:48:51,023  INFO - Waiting for presence of element
-2017-10-09 16:48:51,829  INFO - Item found
-2017-10-09 16:48:51,829  INFO - Found label
-2017-10-09 16:48:51,961  INFO - Click place result
-2017-10-09 16:48:52,084  INFO - Item found
-2017-10-09 16:48:52,084  INFO - Found button
-2017-10-09 16:48:52,084  INFO - Click button
-2017-10-09 16:48:52,540  INFO - Fetch place name
-2017-10-09 16:48:52,540  INFO - Waiting for presence of element
-2017-10-09 16:48:53,549  INFO - Item found
-2017-10-09 16:48:53,941  INFO - Item found
-2017-10-09 16:48:53,941  INFO - Opened home page
-2017-10-09 16:48:53,941  INFO - Choice left bar
-2017-10-09 16:48:53,994  INFO - Item found
-2017-10-09 16:48:53,994  INFO - Found button
-2017-10-09 16:48:53,994  INFO - Click button
-2017-10-09 16:48:54,346  INFO - Item found
-2017-10-09 16:48:54,347  INFO - Open left bar
-2017-10-09 16:48:54,372  INFO - Item found
-2017-10-09 16:48:54,373  INFO - Found label
-2017-10-09 16:48:55,148  INFO - Item found
-2017-10-09 16:48:55,149  INFO - Found button
-2017-10-09 16:48:55,149  INFO - Click button
-2017-10-09 16:48:55,421  INFO - Item found
-2017-10-09 16:48:55,422  INFO - Found combobox
-2017-10-09 16:48:55,422  INFO - Change the currency
-2017-10-09 16:48:57,652  INFO - Checking currency
-2017-10-09 16:48:57,727  INFO - Item found
-2017-10-09 16:48:57,727  INFO - Found label
-2017-10-09 16:48:58,016  INFO - Item found
-2017-10-09 16:48:58,016  INFO - Opened home page
-2017-10-09 16:48:58,017  INFO - Fetch place price
-2017-10-09 16:48:58,017  INFO - Waiting for presence of element
-2017-10-09 16:48:58,966  INFO - Item found
-2017-10-09 16:48:59,210  INFO - Item found
-2017-10-09 16:48:59,210  INFO - Opened home page
-2017-10-09 16:48:59,210  INFO - Choice left bar
-2017-10-09 16:48:59,268  INFO - Item found
-2017-10-09 16:48:59,269  INFO - Found button
-2017-10-09 16:48:59,269  INFO - Click button
-2017-10-09 16:48:59,701  INFO - Item found
-2017-10-09 16:48:59,701  INFO - Open left bar
-2017-10-09 16:48:59,816  INFO - Item found
-2017-10-09 16:48:59,816  INFO - Found label
-2017-10-09 16:49:00,462  INFO - Item found
-2017-10-09 16:49:00,463  INFO - Found button
-2017-10-09 16:49:00,463  INFO - Click button
-2017-10-09 16:49:00,774  INFO - Item found
-2017-10-09 16:49:00,774  INFO - Found combobox
-2017-10-09 16:49:00,774  INFO - Change the currency
-2017-10-09 16:49:02,786  INFO - Checking currency
-2017-10-09 16:49:02,845  INFO - Item found
-2017-10-09 16:49:02,845  INFO - Found label
-2017-10-09 16:49:03,145  INFO - Item found
-2017-10-09 16:49:03,146  INFO - Opened home page
-2017-10-09 16:49:03,146  INFO - Fetch place price
-2017-10-09 16:49:03,146  INFO - Waiting for presence of element
-2017-10-09 16:49:04,107  INFO - Item found
-2017-10-09 16:49:04,233  INFO - Checking the price difference
-2017-10-09 16:49:04,234  INFO - Browser close
-2017-10-09 16:49:10,588  INFO - Browser settings
-2017-10-09 16:49:16,627  INFO - Creating of driver browser
-2017-10-09 16:49:23,074  INFO - Item found
-2017-10-09 16:49:23,075  INFO - Opened home page
-2017-10-09 16:49:23,467  INFO - Item found
-2017-10-09 16:49:23,467  INFO - Opened home page
-2017-10-09 16:49:23,467  INFO - Choice left bar
-2017-10-09 16:49:23,574  INFO - Item found
-2017-10-09 16:49:23,574  INFO - Found button
-2017-10-09 16:49:23,574  INFO - Click button
-2017-10-09 16:49:25,033  INFO - Item found
-2017-10-09 16:49:25,033  INFO - Open left bar
-2017-10-09 16:49:25,033  INFO - Сlicked on the desired language
-2017-10-09 16:49:25,034  INFO - Checked language en
-2017-10-09 16:49:25,192  INFO - Getting an attribute
-2017-10-09 16:49:25,525  INFO - Swap language
-2017-10-09 16:49:25,525  INFO - Waiting for presence of element
-2017-10-09 16:49:26,173  INFO - Item found
-2017-10-09 16:49:26,173  INFO - Found button
-2017-10-09 16:49:26,173  INFO - Click button
-2017-10-09 16:49:28,569  INFO - Item found
-2017-10-09 16:49:28,570  INFO - Found combobox
-2017-10-09 16:49:28,570  INFO - Change the language to EN
-2017-10-09 16:49:28,570  INFO - Waiting for presence of element
-2017-10-09 16:49:33,703  INFO - Getting an attribute
-2017-10-09 16:49:33,820  INFO - Item found
-2017-10-09 16:49:33,820  INFO - Opened home page
-2017-10-09 16:49:33,820  INFO - Click places tag
-2017-10-09 16:49:33,957  INFO - Item found
-2017-10-09 16:49:33,958  INFO - Found button
-2017-10-09 16:49:33,958  INFO - Point to element
-2017-10-09 16:49:34,879  INFO - Item found
-2017-10-09 16:49:34,880  INFO - Opened home page
-2017-10-09 16:49:34,880  INFO - Place input
-2017-10-09 16:49:35,064  INFO - Item found
-2017-10-09 16:49:35,064  INFO - Found input field
-2017-10-09 16:49:35,065  INFO - Entered data
-2017-10-09 16:49:35,218  INFO - Checking the result of the entered place
-2017-10-09 16:49:35,218  INFO - Fetch place content
-2017-10-09 16:49:35,218  INFO - Waiting for presence of element
-2017-10-09 16:49:36,442  INFO - Item found
-2017-10-09 16:49:36,442  INFO - Found label
-2017-10-09 16:49:36,676  INFO - Click place result
-2017-10-09 16:49:36,991  INFO - Item found
-2017-10-09 16:49:36,991  INFO - Found button
-2017-10-09 16:49:36,991  INFO - Click button
-2017-10-09 16:49:37,724  INFO - Fetch place name
-2017-10-09 16:49:37,724  INFO - Waiting for presence of element
-2017-10-09 16:49:38,775  INFO - Item found
-2017-10-09 16:49:38,870  INFO - Click place
-2017-10-09 16:49:38,912  INFO - Item found
-2017-10-09 16:49:38,912  INFO - Found button
-2017-10-09 16:49:38,912  INFO - Click button
-2017-10-09 16:49:39,304  INFO - Click place
-2017-10-09 16:49:39,335  INFO - Item found
-2017-10-09 16:49:39,335  INFO - Found button
-2017-10-09 16:49:39,336  INFO - Click button
-2017-10-09 16:49:40,397  INFO - Item found
-2017-10-09 16:49:40,398  INFO - Opened flights page
-2017-10-09 16:49:40,446  INFO - Item found
-2017-10-09 16:49:40,446  INFO - Opened flights page
-2017-10-09 16:49:40,446  INFO - Waiting for presence of element
-2017-10-09 16:49:40,709  INFO - Click sorting airlines
-2017-10-09 16:49:40,792  INFO - Item found
-2017-10-09 16:49:40,792  INFO - Found button
-2017-10-09 16:49:40,792  INFO - Click button
-2017-10-09 16:49:41,112  INFO - Waiting for presence of element
-2017-10-09 16:49:41,300  INFO - Item found
-2017-10-09 16:49:41,300  INFO - Found combobox
-2017-10-09 16:49:41,300  INFO - Getting of set
-2017-10-09 16:49:42,284  INFO - Clicked Belavia
-2017-10-09 16:49:42,317  INFO - Item found
-2017-10-09 16:49:42,317  INFO - Found button
-2017-10-09 16:49:42,318  INFO - Click button
-2017-10-09 16:49:42,701  INFO - Waiting for presence of element
-2017-10-09 16:49:42,804  INFO - Checking sorting airlines
-2017-10-09 16:49:42,804  INFO - Waiting for presence of element
-2017-10-09 16:49:43,006  INFO - Item found
-2017-10-09 16:49:43,006  INFO - Found combobox
-2017-10-09 16:49:43,006  INFO - Getting of set
-2017-10-09 16:49:43,891  INFO - Sorted airlines complete
-2017-10-09 16:49:43,892  INFO - Browser close
-2017-10-09 16:49:47,785  INFO - Browser settings
-2017-10-09 16:49:53,786  INFO - Creating of driver browser
-2017-10-09 16:49:58,102  INFO - Item found
-2017-10-09 16:49:58,103  INFO - Opened home page
-2017-10-09 16:49:58,540  INFO - Item found
-2017-10-09 16:49:58,540  INFO - Opened home page
-2017-10-09 16:49:58,540  INFO - Choice left bar
-2017-10-09 16:49:58,650  INFO - Item found
-2017-10-09 16:49:58,650  INFO - Found button
-2017-10-09 16:49:58,650  INFO - Click button
-2017-10-09 16:49:59,654  INFO - Item found
-2017-10-09 16:49:59,654  INFO - Open left bar
-2017-10-09 16:49:59,655  INFO - Сlicked on the desired language
-2017-10-09 16:49:59,655  INFO - Checked language en
-2017-10-09 16:50:00,125  INFO - Getting an attribute
-2017-10-09 16:50:00,484  INFO - Swap language
-2017-10-09 16:50:00,484  INFO - Waiting for presence of element
-2017-10-09 16:50:00,700  INFO - Item found
-2017-10-09 16:50:00,700  INFO - Found button
-2017-10-09 16:50:00,700  INFO - Click button
-2017-10-09 16:50:01,393  INFO - Item found
-2017-10-09 16:50:01,393  INFO - Found combobox
-2017-10-09 16:50:01,393  INFO - Change the language to EN
-2017-10-09 16:50:01,394  INFO - Waiting for presence of element
-2017-10-09 16:50:05,068  INFO - Getting an attribute
-2017-10-09 16:50:05,141  INFO - Item found
-2017-10-09 16:50:05,141  INFO - Opened home page
-2017-10-09 16:50:05,141  INFO - Click places tag
-2017-10-09 16:50:05,163  INFO - Item found
-2017-10-09 16:50:05,163  INFO - Found button
-2017-10-09 16:50:05,163  INFO - Point to element
-2017-10-09 16:50:05,946  INFO - Item found
-2017-10-09 16:50:05,946  INFO - Opened home page
-2017-10-09 16:50:05,947  INFO - Place input
-2017-10-09 16:50:06,300  INFO - Item found
-2017-10-09 16:50:06,300  INFO - Found input field
-2017-10-09 16:50:06,300  INFO - Entered data
-2017-10-09 16:50:06,464  INFO - Checking the result of the entered place
-2017-10-09 16:50:06,464  INFO - Fetch place content
-2017-10-09 16:50:06,464  INFO - Waiting for presence of element
-2017-10-09 16:50:08,161  INFO - Item found
-2017-10-09 16:50:08,161  INFO - Found label
-2017-10-09 16:50:08,296  INFO - Click place result
-2017-10-09 16:50:08,580  INFO - Item found
-2017-10-09 16:50:08,580  INFO - Found button
-2017-10-09 16:50:08,580  INFO - Click button
-2017-10-09 16:50:09,097  INFO - Fetch place name
-2017-10-09 16:50:09,099  INFO - Waiting for presence of element
-2017-10-09 16:50:09,907  INFO - Item found
-2017-10-09 16:50:10,016  INFO - Click place
-2017-10-09 16:50:10,067  INFO - Item found
-2017-10-09 16:50:10,068  INFO - Found button
-2017-10-09 16:50:10,068  INFO - Click button
-2017-10-09 16:50:10,533  INFO - Item found
-2017-10-09 16:50:10,533  INFO - Opened home page
-2017-10-09 16:50:10,533  INFO - Click place
-2017-10-09 16:50:10,556  INFO - Item found
-2017-10-09 16:50:10,556  INFO - Found button
-2017-10-09 16:50:10,556  INFO - Click button
-2017-10-09 16:50:12,901  INFO - Item found
-2017-10-09 16:50:12,901  INFO - Opened hotels page
-2017-10-09 16:50:12,902  INFO - Click price tag
-2017-10-09 16:50:12,902  INFO - Waiting for presence of element
-2017-10-09 16:50:17,655  INFO - Item found
-2017-10-09 16:50:17,655  INFO - Found button
-2017-10-09 16:50:17,656  INFO - Click button
-2017-10-09 16:50:18,246  INFO - Waiting for download
-2017-10-09 16:50:20,710  INFO - Checking sorting hotels
-2017-10-09 16:50:20,710  INFO - Fetch hotels list
-2017-10-09 16:50:20,710  INFO - Waiting for presence of element
-2017-10-09 16:50:21,157  INFO - Item found
-2017-10-09 16:50:21,158  INFO - Found combobox
-2017-10-09 16:50:21,158  INFO - Getting of set
-2017-10-09 16:50:25,496  INFO - Sorted hotels complete
-2017-10-09 16:50:25,497  INFO - Browser close
-2017-10-09 16:50:35,376  INFO - Browser settings
-2017-10-09 16:50:41,448  INFO - Creating of driver browser
-2017-10-09 16:50:49,276  INFO - Item found
-2017-10-09 16:50:49,277  INFO - Opened home page
-2017-10-09 16:50:49,348  INFO - Item found
-2017-10-09 16:50:49,349  INFO - Opened home page
-2017-10-09 16:50:49,349  INFO - Choice left bar
-2017-10-09 16:50:49,661  INFO - Item found
-2017-10-09 16:50:49,661  INFO - Found button
-2017-10-09 16:50:49,661  INFO - Click button
-2017-10-09 16:50:50,519  INFO - Item found
-2017-10-09 16:50:50,519  INFO - Open left bar
-2017-10-09 16:50:50,519  INFO - Сlicked on the desired language
-2017-10-09 16:50:50,519  INFO - Checked language en
-2017-10-09 16:50:50,672  INFO - Getting an attribute
-2017-10-09 16:50:50,836  INFO - Swap language
-2017-10-09 16:50:50,836  INFO - Waiting for presence of element
-2017-10-09 16:50:51,172  INFO - Item found
-2017-10-09 16:50:51,172  INFO - Found button
-2017-10-09 16:50:51,172  INFO - Click button
-2017-10-09 16:50:53,782  INFO - Item found
-2017-10-09 16:50:53,782  INFO - Found combobox
-2017-10-09 16:50:53,782  INFO - Change the language to EN
-2017-10-09 16:50:53,782  INFO - Waiting for presence of element
-2017-10-09 16:51:00,395  INFO - Getting an attribute
-2017-10-09 16:51:00,554  INFO - Item found
-2017-10-09 16:51:00,554  INFO - Opened home page
-2017-10-09 16:51:00,554  INFO - Click places tag
-2017-10-09 16:51:00,955  INFO - Item found
-2017-10-09 16:51:00,955  INFO - Found button
-2017-10-09 16:51:00,955  INFO - Point to element
-2017-10-09 16:51:02,207  INFO - Item found
-2017-10-09 16:51:02,208  INFO - Opened home page
-2017-10-09 16:51:02,208  INFO - Place input
-2017-10-09 16:51:03,010  INFO - Item found
-2017-10-09 16:51:03,010  INFO - Found input field
-2017-10-09 16:51:03,011  INFO - Entered data
-2017-10-09 16:51:03,370  INFO - Checking the result of the entered place
-2017-10-09 16:51:03,370  INFO - Fetch place content
-2017-10-09 16:51:03,370  INFO - Waiting for presence of element
-2017-10-09 16:51:05,057  INFO - Item found
-2017-10-09 16:51:05,057  INFO - Found label
-2017-10-09 16:51:05,117  INFO - Click place result
-2017-10-09 16:51:05,346  INFO - Item found
-2017-10-09 16:51:05,346  INFO - Found button
-2017-10-09 16:51:05,346  INFO - Click button
-2017-10-09 16:51:05,591  INFO - Fetch place name
-2017-10-09 16:51:05,591  INFO - Waiting for presence of element
-2017-10-09 16:51:06,412  INFO - Item found
-2017-10-09 16:51:06,587  INFO - Click place
-2017-10-09 16:51:06,619  INFO - Item found
-2017-10-09 16:51:06,619  INFO - Found button
-2017-10-09 16:51:06,619  INFO - Click button
-2017-10-09 16:51:07,043  INFO - Click place
-2017-10-09 16:51:07,086  INFO - Item found
-2017-10-09 16:51:07,086  INFO - Found button
-2017-10-09 16:51:07,086  INFO - Click button
-2017-10-09 16:51:08,192  INFO - Item found
-2017-10-09 16:51:08,192  INFO - Opened flights page
-2017-10-09 16:51:08,193  INFO - Click track prices
-2017-10-09 16:51:08,251  INFO - Item found
-2017-10-09 16:51:08,643  INFO - Get switch status
-2017-10-09 16:51:08,660  INFO - Item found
-2017-10-09 16:51:08,660  INFO - Found label
-2017-10-09 16:51:08,709  INFO - Browser close
-2017-10-09 16:51:16,274  INFO - Browser settings
-2017-10-09 16:51:22,283  INFO - Creating of driver browser
-2017-10-09 16:51:29,278  INFO - Item found
-2017-10-09 16:51:29,279  INFO - Opened home page
-2017-10-09 16:51:29,640  INFO - Item found
-2017-10-09 16:51:29,641  INFO - Opened home page
-2017-10-09 16:51:29,641  INFO - Choice left bar
-2017-10-09 16:51:29,783  INFO - Item found
-2017-10-09 16:51:29,783  INFO - Found button
-2017-10-09 16:51:29,784  INFO - Click button
-2017-10-09 16:51:30,321  INFO - Item found
-2017-10-09 16:51:30,321  INFO - Open left bar
-2017-10-09 16:51:30,321  INFO - Сlicked on the desired language
-2017-10-09 16:51:30,322  INFO - Checked language en
-2017-10-09 16:51:30,365  INFO - Getting an attribute
-2017-10-09 16:51:30,711  INFO - Swap language
-2017-10-09 16:51:30,711  INFO - Waiting for presence of element
-2017-10-09 16:51:31,300  INFO - Item found
-2017-10-09 16:51:31,300  INFO - Found button
-2017-10-09 16:51:31,301  INFO - Click button
-2017-10-09 16:51:32,189  INFO - Item found
-2017-10-09 16:51:32,190  INFO - Found combobox
-2017-10-09 16:51:32,190  INFO - Change the language to EN
-2017-10-09 16:51:32,190  INFO - Waiting for presence of element
-2017-10-09 16:51:35,475  INFO - Getting an attribute
-2017-10-09 16:51:35,580  INFO - Item found
-2017-10-09 16:51:35,580  INFO - Found the header
-2017-10-09 16:51:35,580  INFO - Click logging
-2017-10-09 16:51:35,728  INFO - Item found
-2017-10-09 16:51:35,729  INFO - Found button
-2017-10-09 16:51:35,729  INFO - Click button
-2017-10-09 16:51:39,405  INFO - Item found
-2017-10-09 16:51:39,405  INFO - Opened login page
-2017-10-09 16:51:39,405  INFO - Inputted user login
-2017-10-09 16:51:39,421  INFO - Item found
-2017-10-09 16:51:39,424  INFO - Found input field
-2017-10-09 16:51:39,425  INFO - Entered data
-2017-10-09 16:51:39,885  INFO - Clicked - Log in
-2017-10-09 16:51:39,925  INFO - Item found
-2017-10-09 16:51:39,925  INFO - Found button
-2017-10-09 16:51:39,925  INFO - Click button
-2017-10-09 16:51:40,296  INFO - Inputted user password
-2017-10-09 16:51:41,708  INFO - Item found
-2017-10-09 16:51:41,708  INFO - Found input field
-2017-10-09 16:51:41,708  INFO - Entered data
-2017-10-09 16:51:41,850  INFO - Clicked - Log in
-2017-10-09 16:51:41,881  INFO - Item found
-2017-10-09 16:51:41,881  INFO - Found button
-2017-10-09 16:51:41,881  INFO - Click button
-2017-10-09 16:51:43,361  INFO - Item found
-2017-10-09 16:51:43,361  INFO - Found the header
-2017-10-09 16:51:43,362  INFO - Checking user authorization
-2017-10-09 16:51:43,412  INFO - Getting an attribute
-2017-10-09 16:51:43,490  INFO - User is authorization
-2017-10-09 16:51:44,797  INFO - Item found
-2017-10-09 16:51:44,797  INFO - Opened home page
-2017-10-09 16:51:44,797  INFO - Click places tag
-2017-10-09 16:51:44,843  INFO - Item found
-2017-10-09 16:51:44,843  INFO - Found button
-2017-10-09 16:51:44,843  INFO - Point to element
-2017-10-09 16:51:46,000  INFO - Item found
-2017-10-09 16:51:46,001  INFO - Opened home page
-2017-10-09 16:51:46,001  INFO - Place input
-2017-10-09 16:51:46,203  INFO - Item found
-2017-10-09 16:51:46,204  INFO - Found input field
-2017-10-09 16:51:46,204  INFO - Entered data
-2017-10-09 16:51:46,507  INFO - Checking the result of the entered place
-2017-10-09 16:51:46,507  INFO - Fetch place content
-2017-10-09 16:51:46,507  INFO - Waiting for presence of element
-2017-10-09 16:51:47,822  INFO - Item found
-2017-10-09 16:51:47,822  INFO - Found label
-2017-10-09 16:51:47,904  INFO - Click place result
-2017-10-09 16:51:48,009  INFO - Item found
-2017-10-09 16:51:48,010  INFO - Found button
-2017-10-09 16:51:48,010  INFO - Click button
-2017-10-09 16:51:48,382  INFO - Fetch place name
-2017-10-09 16:51:48,382  INFO - Waiting for presence of element
-2017-10-09 16:51:49,573  INFO - Item found
-2017-10-09 16:51:49,732  INFO - Click place
-2017-10-09 16:51:49,832  INFO - Item found
-2017-10-09 16:51:49,832  INFO - Found button
-2017-10-09 16:51:49,832  INFO - Click button
-2017-10-09 16:51:50,225  INFO - Click place
-2017-10-09 16:51:50,308  INFO - Item found
-2017-10-09 16:51:50,308  INFO - Found button
-2017-10-09 16:51:50,308  INFO - Click button
-2017-10-09 16:51:51,544  INFO - Item found
-2017-10-09 16:51:51,545  INFO - Opened flights page
-2017-10-09 16:51:51,545  INFO - Click track prices
-2017-10-09 16:51:51,620  INFO - Item found
-2017-10-09 16:51:52,103  INFO - Get switch status
-2017-10-09 16:51:52,130  INFO - Item found
-2017-10-09 16:51:52,131  INFO - Found label
-2017-10-09 16:51:52,206  INFO - Click track prices
-2017-10-09 16:51:52,482  INFO - Item found
-2017-10-09 16:51:53,259  INFO - Item found
-2017-10-09 16:51:53,260  INFO - Found the header
-2017-10-09 16:51:53,260  INFO - Click log out
-2017-10-09 16:51:53,287  INFO - Item found
-2017-10-09 16:51:53,287  INFO - Found button
-2017-10-09 16:51:53,287  INFO - Click button
-2017-10-09 16:51:53,694  INFO - Item found
-2017-10-09 16:51:53,695  INFO - Found button
-2017-10-09 16:51:53,695  INFO - Click button
-2017-10-09 16:51:56,642  INFO - Item found
-2017-10-09 16:51:56,643  INFO - Opened login page
-2017-10-09 16:51:56,689  INFO - Item found
-2017-10-09 16:51:56,689  INFO - Opened login page
-2017-10-09 16:51:56,692  INFO - Click back
-2017-10-09 16:52:00,459  INFO - Item found
-2017-10-09 16:52:00,459  INFO - Opened flights page
-2017-10-09 16:52:00,536  INFO - Item found
-2017-10-09 16:52:00,536  INFO - Found the header
-2017-10-09 16:52:00,536  INFO - Checking user logout
-2017-10-09 16:52:20,601 ERROR - Not found element Unable to locate element: //a[contains(@title, 'ccount')]
+2017-10-09 16:58:06,884  INFO - Browser settings
+2017-10-09 16:58:18,498  INFO - Creating of driver browser
+2017-10-09 16:58:24,828  INFO - Item found
+2017-10-09 16:58:24,829  INFO - Opened home page
+2017-10-09 16:58:24,941  INFO - Item found
+2017-10-09 16:58:24,942  INFO - Opened home page
+2017-10-09 16:58:24,942  INFO - Choice left bar
+2017-10-09 16:58:24,994  INFO - Item found
+2017-10-09 16:58:24,994  INFO - Found button
+2017-10-09 16:58:24,994  INFO - Click button
+2017-10-09 16:58:25,981  INFO - Item found
+2017-10-09 16:58:25,982  INFO - Open left bar
+2017-10-09 16:58:25,982  INFO - Сlicked on the desired language
+2017-10-09 16:58:25,982  INFO - Checked language en
+2017-10-09 16:58:26,251  INFO - Getting an attribute
+2017-10-09 16:58:26,577  INFO - Swap language
+2017-10-09 16:58:26,578  INFO - Waiting for presence of element
+2017-10-09 16:58:27,180  INFO - Item found
+2017-10-09 16:58:27,180  INFO - Found button
+2017-10-09 16:58:27,180  INFO - Click button
+2017-10-09 16:58:28,465  INFO - Item found
+2017-10-09 16:58:28,465  INFO - Found combobox
+2017-10-09 16:58:28,465  INFO - Change the language to EN
+2017-10-09 16:58:28,468  INFO - Waiting for presence of element
+2017-10-09 16:58:33,303  INFO - Getting an attribute
+2017-10-09 16:58:33,418  INFO - Item found
+2017-10-09 16:58:33,419  INFO - Opened home page
+2017-10-09 16:58:33,419  INFO - Click places tag
+2017-10-09 16:58:33,560  INFO - Item found
+2017-10-09 16:58:33,560  INFO - Found button
+2017-10-09 16:58:33,561  INFO - Point to element
+2017-10-09 16:58:34,654  INFO - Item found
+2017-10-09 16:58:34,655  INFO - Opened home page
+2017-10-09 16:58:34,655  INFO - Place input
+2017-10-09 16:58:35,145  INFO - Item found
+2017-10-09 16:58:35,146  INFO - Found input field
+2017-10-09 16:58:35,146  INFO - Entered data
+2017-10-09 16:58:35,897  INFO - Checking the result of the entered place
+2017-10-09 16:58:35,897  INFO - Fetch place content
+2017-10-09 16:58:35,897  INFO - Waiting for presence of element
+2017-10-09 16:58:37,182  INFO - Item found
+2017-10-09 16:58:37,182  INFO - Found label
+2017-10-09 16:58:37,498  INFO - Click place result
+2017-10-09 16:58:37,605  INFO - Item found
+2017-10-09 16:58:37,605  INFO - Found button
+2017-10-09 16:58:37,606  INFO - Click button
+2017-10-09 16:58:38,141  INFO - Fetch place name
+2017-10-09 16:58:38,141  INFO - Waiting for presence of element
+2017-10-09 16:58:39,258  INFO - Item found
+2017-10-09 16:58:39,433  INFO - Item found
+2017-10-09 16:58:39,433  INFO - Opened home page
+2017-10-09 16:58:39,433  INFO - Choice left bar
+2017-10-09 16:58:39,468  INFO - Item found
+2017-10-09 16:58:39,468  INFO - Found button
+2017-10-09 16:58:39,468  INFO - Click button
+2017-10-09 16:58:39,794  INFO - Item found
+2017-10-09 16:58:39,794  INFO - Open left bar
+2017-10-09 16:58:39,823  INFO - Item found
+2017-10-09 16:58:39,823  INFO - Found label
+2017-10-09 16:58:40,145  INFO - Item found
+2017-10-09 16:58:40,145  INFO - Found button
+2017-10-09 16:58:40,145  INFO - Click button
+2017-10-09 16:58:40,405  INFO - Item found
+2017-10-09 16:58:40,405  INFO - Found combobox
+2017-10-09 16:58:40,406  INFO - Change the currency
+2017-10-09 16:58:42,921  INFO - Checking currency
+2017-10-09 16:58:43,004  INFO - Item found
+2017-10-09 16:58:43,005  INFO - Found label
+2017-10-09 16:58:43,416  INFO - Item found
+2017-10-09 16:58:43,416  INFO - Opened home page
+2017-10-09 16:58:43,416  INFO - Fetch place price
+2017-10-09 16:58:43,416  INFO - Waiting for presence of element
+2017-10-09 16:58:44,820  INFO - Item found
+2017-10-09 16:58:45,136  INFO - Item found
+2017-10-09 16:58:45,136  INFO - Opened home page
+2017-10-09 16:58:45,136  INFO - Choice left bar
+2017-10-09 16:58:45,189  INFO - Item found
+2017-10-09 16:58:45,190  INFO - Found button
+2017-10-09 16:58:45,190  INFO - Click button
+2017-10-09 16:58:45,724  INFO - Item found
+2017-10-09 16:58:45,724  INFO - Open left bar
+2017-10-09 16:58:45,828  INFO - Item found
+2017-10-09 16:58:45,829  INFO - Found label
+2017-10-09 16:58:46,218  INFO - Item found
+2017-10-09 16:58:46,218  INFO - Found button
+2017-10-09 16:58:46,218  INFO - Click button
+2017-10-09 16:58:46,535  INFO - Item found
+2017-10-09 16:58:46,535  INFO - Found combobox
+2017-10-09 16:58:46,536  INFO - Change the currency
+2017-10-09 16:58:48,768  INFO - Checking currency
+2017-10-09 16:58:48,849  INFO - Item found
+2017-10-09 16:58:48,850  INFO - Found label
+2017-10-09 16:58:49,148  INFO - Item found
+2017-10-09 16:58:49,148  INFO - Opened home page
+2017-10-09 16:58:49,148  INFO - Fetch place price
+2017-10-09 16:58:49,148  INFO - Waiting for presence of element
+2017-10-09 16:58:50,357  INFO - Item found
+2017-10-09 16:58:50,541  INFO - Checking the price difference
+2017-10-09 16:58:50,543  INFO - Browser close
+2017-10-09 16:58:55,061  INFO - Browser settings
+2017-10-09 16:59:01,065  INFO - Creating of driver browser
+2017-10-09 16:59:04,995  INFO - Item found
+2017-10-09 16:59:04,995  INFO - Opened home page
+2017-10-09 16:59:05,322  INFO - Item found
+2017-10-09 16:59:05,323  INFO - Opened home page
+2017-10-09 16:59:05,323  INFO - Choice left bar
+2017-10-09 16:59:05,446  INFO - Item found
+2017-10-09 16:59:05,446  INFO - Found button
+2017-10-09 16:59:05,446  INFO - Click button
+2017-10-09 16:59:06,419  INFO - Item found
+2017-10-09 16:59:06,419  INFO - Open left bar
+2017-10-09 16:59:06,419  INFO - Сlicked on the desired language
+2017-10-09 16:59:06,419  INFO - Checked language en
+2017-10-09 16:59:06,545  INFO - Getting an attribute
+2017-10-09 16:59:06,636  INFO - Swap language
+2017-10-09 16:59:06,636  INFO - Waiting for presence of element
+2017-10-09 16:59:06,912  INFO - Item found
+2017-10-09 16:59:06,912  INFO - Found button
+2017-10-09 16:59:06,912  INFO - Click button
+2017-10-09 16:59:07,607  INFO - Item found
+2017-10-09 16:59:07,607  INFO - Found combobox
+2017-10-09 16:59:07,607  INFO - Change the language to EN
+2017-10-09 16:59:07,607  INFO - Waiting for presence of element
+2017-10-09 16:59:12,086  INFO - Getting an attribute
+2017-10-09 16:59:12,414  INFO - Item found
+2017-10-09 16:59:12,414  INFO - Opened home page
+2017-10-09 16:59:12,414  INFO - Click places tag
+2017-10-09 16:59:12,908  INFO - Item found
+2017-10-09 16:59:12,909  INFO - Found button
+2017-10-09 16:59:12,909  INFO - Point to element
+2017-10-09 16:59:13,823  INFO - Item found
+2017-10-09 16:59:13,823  INFO - Opened home page
+2017-10-09 16:59:13,824  INFO - Place input
+2017-10-09 16:59:14,204  INFO - Item found
+2017-10-09 16:59:14,205  INFO - Found input field
+2017-10-09 16:59:14,205  INFO - Entered data
+2017-10-09 16:59:14,435  INFO - Checking the result of the entered place
+2017-10-09 16:59:14,435  INFO - Fetch place content
+2017-10-09 16:59:14,435  INFO - Waiting for presence of element
+2017-10-09 16:59:15,865  INFO - Item found
+2017-10-09 16:59:15,865  INFO - Found label
+2017-10-09 16:59:15,960  INFO - Click place result
+2017-10-09 16:59:16,009  INFO - Item found
+2017-10-09 16:59:16,009  INFO - Found button
+2017-10-09 16:59:16,009  INFO - Click button
+2017-10-09 16:59:16,533  INFO - Fetch place name
+2017-10-09 16:59:16,534  INFO - Waiting for presence of element
+2017-10-09 16:59:17,688  INFO - Item found
+2017-10-09 16:59:17,979  INFO - Click place
+2017-10-09 16:59:18,016  INFO - Item found
+2017-10-09 16:59:18,016  INFO - Found button
+2017-10-09 16:59:18,016  INFO - Click button
+2017-10-09 16:59:18,450  INFO - Click place
+2017-10-09 16:59:18,499  INFO - Item found
+2017-10-09 16:59:18,500  INFO - Found button
+2017-10-09 16:59:18,500  INFO - Click button
+2017-10-09 16:59:19,732  INFO - Item found
+2017-10-09 16:59:19,732  INFO - Opened flights page
+2017-10-09 16:59:19,843  INFO - Item found
+2017-10-09 16:59:19,843  INFO - Opened flights page
+2017-10-09 16:59:19,843  INFO - Waiting for presence of element
+2017-10-09 16:59:20,051  INFO - Click sorting airlines
+2017-10-09 16:59:20,108  INFO - Item found
+2017-10-09 16:59:20,108  INFO - Found button
+2017-10-09 16:59:20,108  INFO - Click button
+2017-10-09 16:59:20,416  INFO - Waiting for presence of element
+2017-10-09 16:59:20,658  INFO - Item found
+2017-10-09 16:59:20,659  INFO - Found combobox
+2017-10-09 16:59:20,659  INFO - Getting of set
+2017-10-09 16:59:21,596  INFO - Clicked Belavia
+2017-10-09 16:59:21,609  INFO - Item found
+2017-10-09 16:59:21,609  INFO - Found button
+2017-10-09 16:59:21,610  INFO - Click button
+2017-10-09 16:59:22,005  INFO - Waiting for presence of element
+2017-10-09 16:59:22,133  INFO - Checking sorting airlines
+2017-10-09 16:59:22,134  INFO - Waiting for presence of element
+2017-10-09 16:59:22,376  INFO - Item found
+2017-10-09 16:59:22,377  INFO - Found combobox
+2017-10-09 16:59:22,377  INFO - Getting of set
+2017-10-09 16:59:23,106  INFO - Sorted airlines complete
+2017-10-09 16:59:23,107  INFO - Browser close
+2017-10-09 16:59:26,534  INFO - Browser settings
+2017-10-09 16:59:32,535  INFO - Creating of driver browser
+2017-10-09 16:59:37,751  INFO - Item found
+2017-10-09 16:59:37,751  INFO - Opened home page
+2017-10-09 16:59:38,121  INFO - Item found
+2017-10-09 16:59:38,121  INFO - Opened home page
+2017-10-09 16:59:38,121  INFO - Choice left bar
+2017-10-09 16:59:38,225  INFO - Item found
+2017-10-09 16:59:38,225  INFO - Found button
+2017-10-09 16:59:38,225  INFO - Click button
+2017-10-09 16:59:38,711  INFO - Item found
+2017-10-09 16:59:38,712  INFO - Open left bar
+2017-10-09 16:59:38,712  INFO - Сlicked on the desired language
+2017-10-09 16:59:38,712  INFO - Checked language en
+2017-10-09 16:59:38,739  INFO - Getting an attribute
+2017-10-09 16:59:38,810  INFO - Swap language
+2017-10-09 16:59:38,810  INFO - Waiting for presence of element
+2017-10-09 16:59:38,991  INFO - Item found
+2017-10-09 16:59:38,991  INFO - Found button
+2017-10-09 16:59:38,992  INFO - Click button
+2017-10-09 16:59:39,782  INFO - Item found
+2017-10-09 16:59:39,783  INFO - Found combobox
+2017-10-09 16:59:39,783  INFO - Change the language to EN
+2017-10-09 16:59:39,783  INFO - Waiting for presence of element
+2017-10-09 16:59:44,119  INFO - Getting an attribute
+2017-10-09 16:59:44,214  INFO - Item found
+2017-10-09 16:59:44,214  INFO - Opened home page
+2017-10-09 16:59:44,214  INFO - Click places tag
+2017-10-09 16:59:44,253  INFO - Item found
+2017-10-09 16:59:44,253  INFO - Found button
+2017-10-09 16:59:44,253  INFO - Point to element
+2017-10-09 16:59:45,098  INFO - Item found
+2017-10-09 16:59:45,098  INFO - Opened home page
+2017-10-09 16:59:45,098  INFO - Place input
+2017-10-09 16:59:45,275  INFO - Item found
+2017-10-09 16:59:45,275  INFO - Found input field
+2017-10-09 16:59:45,275  INFO - Entered data
+2017-10-09 16:59:45,419  INFO - Checking the result of the entered place
+2017-10-09 16:59:45,419  INFO - Fetch place content
+2017-10-09 16:59:45,419  INFO - Waiting for presence of element
+2017-10-09 16:59:46,109  INFO - Item found
+2017-10-09 16:59:46,110  INFO - Found label
+2017-10-09 16:59:46,182  INFO - Click place result
+2017-10-09 16:59:46,234  INFO - Item found
+2017-10-09 16:59:46,234  INFO - Found button
+2017-10-09 16:59:46,234  INFO - Click button
+2017-10-09 16:59:46,624  INFO - Fetch place name
+2017-10-09 16:59:46,624  INFO - Waiting for presence of element
+2017-10-09 16:59:47,492  INFO - Item found
+2017-10-09 16:59:48,110  INFO - Click place
+2017-10-09 16:59:48,191  INFO - Item found
+2017-10-09 16:59:48,191  INFO - Found button
+2017-10-09 16:59:48,191  INFO - Click button
+2017-10-09 16:59:48,688  INFO - Item found
+2017-10-09 16:59:48,689  INFO - Opened home page
+2017-10-09 16:59:48,689  INFO - Click place
+2017-10-09 16:59:48,805  INFO - Item found
+2017-10-09 16:59:48,805  INFO - Found button
+2017-10-09 16:59:48,806  INFO - Click button
+2017-10-09 16:59:50,918  INFO - Item found
+2017-10-09 16:59:50,919  INFO - Opened hotels page
+2017-10-09 16:59:50,919  INFO - Click price tag
+2017-10-09 16:59:50,920  INFO - Waiting for presence of element
+2017-10-09 16:59:55,638  INFO - Item found
+2017-10-09 16:59:55,638  INFO - Found button
+2017-10-09 16:59:55,638  INFO - Click button
+2017-10-09 16:59:56,119  INFO - Waiting for download
+2017-10-09 16:59:58,666  INFO - Checking sorting hotels
+2017-10-09 16:59:58,666  INFO - Fetch hotels list
+2017-10-09 16:59:58,666  INFO - Waiting for presence of element
+2017-10-09 16:59:59,087  INFO - Item found
+2017-10-09 16:59:59,087  INFO - Found combobox
+2017-10-09 16:59:59,087  INFO - Getting of set
+2017-10-09 17:00:03,147  INFO - Sorted hotels complete
+2017-10-09 17:00:03,148  INFO - Browser close
+2017-10-09 17:00:09,644  INFO - Browser settings
+2017-10-09 17:00:15,635  INFO - Creating of driver browser
+2017-10-09 17:00:21,514  INFO - Item found
+2017-10-09 17:00:21,514  INFO - Opened home page
+2017-10-09 17:00:21,844  INFO - Item found
+2017-10-09 17:00:21,844  INFO - Opened home page
+2017-10-09 17:00:21,844  INFO - Choice left bar
+2017-10-09 17:00:21,980  INFO - Item found
+2017-10-09 17:00:21,980  INFO - Found button
+2017-10-09 17:00:21,981  INFO - Click button
+2017-10-09 17:00:22,509  INFO - Item found
+2017-10-09 17:00:22,510  INFO - Open left bar
+2017-10-09 17:00:22,510  INFO - Сlicked on the desired language
+2017-10-09 17:00:22,510  INFO - Checked language en
+2017-10-09 17:00:22,577  INFO - Getting an attribute
+2017-10-09 17:00:22,649  INFO - Swap language
+2017-10-09 17:00:22,649  INFO - Waiting for presence of element
+2017-10-09 17:00:23,126  INFO - Item found
+2017-10-09 17:00:23,127  INFO - Found button
+2017-10-09 17:00:23,127  INFO - Click button
+2017-10-09 17:00:26,567  INFO - Item found
+2017-10-09 17:00:26,567  INFO - Found combobox
+2017-10-09 17:00:26,567  INFO - Change the language to EN
+2017-10-09 17:00:26,567  INFO - Waiting for presence of element
+2017-10-09 17:00:32,674  INFO - Getting an attribute
+2017-10-09 17:00:32,869  INFO - Item found
+2017-10-09 17:00:32,869  INFO - Opened home page
+2017-10-09 17:00:32,869  INFO - Click places tag
+2017-10-09 17:00:33,561  INFO - Item found
+2017-10-09 17:00:33,561  INFO - Found button
+2017-10-09 17:00:33,561  INFO - Point to element
+2017-10-09 17:00:34,401  INFO - Item found
+2017-10-09 17:00:34,401  INFO - Opened home page
+2017-10-09 17:00:34,401  INFO - Place input
+2017-10-09 17:00:34,803  INFO - Item found
+2017-10-09 17:00:34,803  INFO - Found input field
+2017-10-09 17:00:34,803  INFO - Entered data
+2017-10-09 17:00:35,173  INFO - Checking the result of the entered place
+2017-10-09 17:00:35,173  INFO - Fetch place content
+2017-10-09 17:00:35,173  INFO - Waiting for presence of element
+2017-10-09 17:00:36,414  INFO - Item found
+2017-10-09 17:00:36,414  INFO - Found label
+2017-10-09 17:00:36,644  INFO - Click place result
+2017-10-09 17:00:37,150  INFO - Item found
+2017-10-09 17:00:37,150  INFO - Found button
+2017-10-09 17:00:37,150  INFO - Click button
+2017-10-09 17:00:37,649  INFO - Fetch place name
+2017-10-09 17:00:37,650  INFO - Waiting for presence of element
+2017-10-09 17:00:38,652  INFO - Item found
+2017-10-09 17:00:38,788  INFO - Click place
+2017-10-09 17:00:38,849  INFO - Item found
+2017-10-09 17:00:38,849  INFO - Found button
+2017-10-09 17:00:38,849  INFO - Click button
+2017-10-09 17:00:39,233  INFO - Click place
+2017-10-09 17:00:39,276  INFO - Item found
+2017-10-09 17:00:39,276  INFO - Found button
+2017-10-09 17:00:39,276  INFO - Click button
+2017-10-09 17:00:40,402  INFO - Item found
+2017-10-09 17:00:40,402  INFO - Opened flights page
+2017-10-09 17:00:40,403  INFO - Click track prices
+2017-10-09 17:00:40,499  INFO - Item found
+2017-10-09 17:00:40,891  INFO - Get switch status
+2017-10-09 17:00:40,951  INFO - Item found
+2017-10-09 17:00:40,951  INFO - Found label
+2017-10-09 17:00:41,052  INFO - Browser close
+2017-10-09 17:00:48,522  INFO - Browser settings
+2017-10-09 17:00:54,516  INFO - Creating of driver browser
+2017-10-09 17:01:00,798  INFO - Item found
+2017-10-09 17:01:00,798  INFO - Opened home page
+2017-10-09 17:01:01,109  INFO - Item found
+2017-10-09 17:01:01,109  INFO - Opened home page
+2017-10-09 17:01:01,109  INFO - Choice left bar
+2017-10-09 17:01:01,201  INFO - Item found
+2017-10-09 17:01:01,201  INFO - Found button
+2017-10-09 17:01:01,201  INFO - Click button
+2017-10-09 17:01:01,745  INFO - Item found
+2017-10-09 17:01:01,745  INFO - Open left bar
+2017-10-09 17:01:01,745  INFO - Сlicked on the desired language
+2017-10-09 17:01:01,745  INFO - Checked language en
+2017-10-09 17:01:01,797  INFO - Getting an attribute
+2017-10-09 17:01:01,879  INFO - Swap language
+2017-10-09 17:01:01,879  INFO - Waiting for presence of element
+2017-10-09 17:01:02,387  INFO - Item found
+2017-10-09 17:01:02,387  INFO - Found button
+2017-10-09 17:01:02,387  INFO - Click button
+2017-10-09 17:01:04,160  INFO - Item found
+2017-10-09 17:01:04,160  INFO - Found combobox
+2017-10-09 17:01:04,161  INFO - Change the language to EN
+2017-10-09 17:01:04,161  INFO - Waiting for presence of element
+2017-10-09 17:01:09,391  INFO - Getting an attribute
+2017-10-09 17:01:09,493  INFO - Item found
+2017-10-09 17:01:09,493  INFO - Found the header
+2017-10-09 17:01:09,493  INFO - Click logging
+2017-10-09 17:01:09,529  INFO - Item found
+2017-10-09 17:01:09,529  INFO - Found button
+2017-10-09 17:01:09,529  INFO - Click button
+2017-10-09 17:02:47,870  INFO - Item found
+2017-10-09 17:02:47,871  INFO - Opened login page
+2017-10-09 17:02:47,871  INFO - Inputted user login
+2017-10-09 17:02:47,888  INFO - Item found
+2017-10-09 17:02:47,888  INFO - Found input field
+2017-10-09 17:02:47,888  INFO - Entered data
+2017-10-09 17:02:48,359  INFO - Clicked - Log in
+2017-10-09 17:02:48,374  INFO - Item found
+2017-10-09 17:02:48,374  INFO - Found button
+2017-10-09 17:02:48,374  INFO - Click button
+2017-10-09 17:02:48,726  INFO - Inputted user password
+2017-10-09 17:02:50,074  INFO - Item found
+2017-10-09 17:02:50,074  INFO - Found input field
+2017-10-09 17:02:50,074  INFO - Entered data
+2017-10-09 17:02:50,187  INFO - Clicked - Log in
+2017-10-09 17:02:50,199  INFO - Item found
+2017-10-09 17:02:50,199  INFO - Found button
+2017-10-09 17:02:50,199  INFO - Click button
+2017-10-09 17:02:52,899  INFO - Item found
+2017-10-09 17:02:52,899  INFO - Found the header
+2017-10-09 17:02:52,900  INFO - Checking user authorization
+2017-10-09 17:02:52,958  INFO - Getting an attribute
+2017-10-09 17:02:53,041  INFO - User is authorization
+2017-10-09 17:03:13,085 ERROR - Not found element Unable to locate element: //div[contains(@class, 'Q-g')]
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
 System info: host: 'COMPUTER', ip: '192.168.199.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.7GMHbpSPXyuJ, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.2, platformVersion=10.0, moz:processID=1632, browserName=firefox, javascriptEnabled=true, platformName=XP}]
-Session ID: b068dac9-80ce-4e89-b995-bbe1ab636c5d
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.6AYc0t0rA7L9, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.2, platformVersion=10.0, moz:processID=2388, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 84b80cf3-22d4-4943-b188-e229655d77ef
+*** Element info: {Using=xpath, value=//div[contains(@class, 'Q-g')]}
+2017-10-09 17:03:13,131  INFO - Browser close
+2017-10-09 17:04:27,477  INFO - Browser settings
+2017-10-09 17:04:37,704  INFO - Creating of driver browser
+2017-10-09 17:04:43,503  INFO - Item found
+2017-10-09 17:04:43,504  INFO - Opened home page
+2017-10-09 17:04:43,598  INFO - Item found
+2017-10-09 17:04:43,598  INFO - Opened home page
+2017-10-09 17:04:43,599  INFO - Choice left bar
+2017-10-09 17:04:43,630  INFO - Item found
+2017-10-09 17:04:43,630  INFO - Found button
+2017-10-09 17:04:43,630  INFO - Click button
+2017-10-09 17:04:44,362  INFO - Item found
+2017-10-09 17:04:44,363  INFO - Open left bar
+2017-10-09 17:04:44,363  INFO - Сlicked on the desired language
+2017-10-09 17:04:44,363  INFO - Checked language en
+2017-10-09 17:04:44,413  INFO - Getting an attribute
+2017-10-09 17:04:44,575  INFO - Swap language
+2017-10-09 17:04:44,575  INFO - Waiting for presence of element
+2017-10-09 17:04:44,877  INFO - Item found
+2017-10-09 17:04:44,878  INFO - Found button
+2017-10-09 17:04:44,878  INFO - Click button
+2017-10-09 17:04:46,725  INFO - Item found
+2017-10-09 17:04:46,725  INFO - Found combobox
+2017-10-09 17:04:46,726  INFO - Change the language to EN
+2017-10-09 17:04:46,729  INFO - Waiting for presence of element
+2017-10-09 17:04:54,472  INFO - Getting an attribute
+2017-10-09 17:04:54,620  INFO - Item found
+2017-10-09 17:04:54,620  INFO - Opened home page
+2017-10-09 17:04:54,620  INFO - Click places tag
+2017-10-09 17:04:55,082  INFO - Item found
+2017-10-09 17:04:55,085  INFO - Found button
+2017-10-09 17:04:55,085  INFO - Point to element
+2017-10-09 17:04:55,750  INFO - Item found
+2017-10-09 17:04:55,750  INFO - Opened home page
+2017-10-09 17:04:55,750  INFO - Place input
+2017-10-09 17:04:55,954  INFO - Item found
+2017-10-09 17:04:55,954  INFO - Found input field
+2017-10-09 17:04:55,954  INFO - Entered data
+2017-10-09 17:04:56,121  INFO - Checking the result of the entered place
+2017-10-09 17:04:56,122  INFO - Fetch place content
+2017-10-09 17:04:56,122  INFO - Waiting for presence of element
+2017-10-09 17:05:00,194  INFO - Item found
+2017-10-09 17:05:00,194  INFO - Found label
+2017-10-09 17:05:00,306  INFO - Click place result
+2017-10-09 17:05:00,519  INFO - Item found
+2017-10-09 17:05:00,520  INFO - Found button
+2017-10-09 17:05:00,520  INFO - Click button
+2017-10-09 17:05:01,026  INFO - Fetch place name
+2017-10-09 17:05:01,026  INFO - Waiting for presence of element
+2017-10-09 17:05:02,088  INFO - Item found
+2017-10-09 17:05:02,176  INFO - Click place
+2017-10-09 17:05:02,213  INFO - Item found
+2017-10-09 17:05:02,213  INFO - Found button
+2017-10-09 17:05:02,213  INFO - Click button
+2017-10-09 17:05:02,604  INFO - Click place
+2017-10-09 17:05:02,684  INFO - Item found
+2017-10-09 17:05:02,685  INFO - Found button
+2017-10-09 17:05:02,685  INFO - Click button
+2017-10-09 17:05:04,025  INFO - Item found
+2017-10-09 17:05:04,025  INFO - Opened flights page
+2017-10-09 17:05:04,026  INFO - Click track prices
+2017-10-09 17:05:04,126  INFO - Item found
+2017-10-09 17:05:04,517  INFO - Get switch status
+2017-10-09 17:05:04,532  INFO - Item found
+2017-10-09 17:05:04,532  INFO - Found label
+2017-10-09 17:05:04,569  INFO - Browser close
+2017-10-09 17:05:09,402  INFO - Browser settings
+2017-10-09 17:05:15,418  INFO - Creating of driver browser
+2017-10-09 17:05:22,030  INFO - Item found
+2017-10-09 17:05:22,031  INFO - Opened home page
+2017-10-09 17:05:22,369  INFO - Item found
+2017-10-09 17:05:22,369  INFO - Opened home page
+2017-10-09 17:05:22,369  INFO - Choice left bar
+2017-10-09 17:05:22,465  INFO - Item found
+2017-10-09 17:05:22,465  INFO - Found button
+2017-10-09 17:05:22,465  INFO - Click button
+2017-10-09 17:05:23,024  INFO - Item found
+2017-10-09 17:05:23,024  INFO - Open left bar
+2017-10-09 17:05:23,025  INFO - Сlicked on the desired language
+2017-10-09 17:05:23,025  INFO - Checked language en
+2017-10-09 17:05:23,076  INFO - Getting an attribute
+2017-10-09 17:05:23,168  INFO - Swap language
+2017-10-09 17:05:23,168  INFO - Waiting for presence of element
+2017-10-09 17:05:23,654  INFO - Item found
+2017-10-09 17:05:23,654  INFO - Found button
+2017-10-09 17:05:23,654  INFO - Click button
+2017-10-09 17:05:26,107  INFO - Item found
+2017-10-09 17:05:26,107  INFO - Found combobox
+2017-10-09 17:05:26,107  INFO - Change the language to EN
+2017-10-09 17:05:26,108  INFO - Waiting for presence of element
+2017-10-09 17:05:35,650  INFO - Getting an attribute
+2017-10-09 17:05:35,768  INFO - Item found
+2017-10-09 17:05:35,768  INFO - Found the header
+2017-10-09 17:05:35,768  INFO - Click logging
+2017-10-09 17:05:35,904  INFO - Item found
+2017-10-09 17:05:35,904  INFO - Found button
+2017-10-09 17:05:35,904  INFO - Click button
+2017-10-09 17:07:09,159  INFO - Item found
+2017-10-09 17:07:09,161  INFO - Opened login page
+2017-10-09 17:07:09,161  INFO - Inputted user login
+2017-10-09 17:07:09,189  INFO - Item found
+2017-10-09 17:07:09,189  INFO - Found input field
+2017-10-09 17:07:09,189  INFO - Entered data
+2017-10-09 17:07:09,770  INFO - Clicked - Log in
+2017-10-09 17:07:09,810  INFO - Item found
+2017-10-09 17:07:09,810  INFO - Found button
+2017-10-09 17:07:09,810  INFO - Click button
+2017-10-09 17:07:10,256  INFO - Inputted user password
+2017-10-09 17:07:11,641  INFO - Item found
+2017-10-09 17:07:11,641  INFO - Found input field
+2017-10-09 17:07:11,642  INFO - Entered data
+2017-10-09 17:07:11,793  INFO - Clicked - Log in
+2017-10-09 17:07:11,838  INFO - Item found
+2017-10-09 17:07:11,838  INFO - Found button
+2017-10-09 17:07:11,838  INFO - Click button
+2017-10-09 17:07:14,297  INFO - Item found
+2017-10-09 17:07:14,298  INFO - Found the header
+2017-10-09 17:07:14,298  INFO - Checking user authorization
+2017-10-09 17:07:14,445  INFO - Getting an attribute
+2017-10-09 17:07:14,525  INFO - User is authorization
+2017-10-09 17:07:35,172 ERROR - Not found element Unable to locate element: //div[contains(@class, 'Q-g')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.tdcLws7Fi3cx, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.2, platformVersion=10.0, moz:processID=360, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: db9e567d-1760-4940-bfb9-a51f76b03d79
+*** Element info: {Using=xpath, value=//div[contains(@class, 'Q-g')]}
+2017-10-09 17:07:35,240  INFO - Browser close
+2017-10-09 17:08:24,406  INFO - Browser settings
+2017-10-09 17:08:34,582  INFO - Creating of driver browser
+2017-10-09 17:08:48,452  INFO - Item found
+2017-10-09 17:08:48,453  INFO - Opened home page
+2017-10-09 17:08:48,543  INFO - Item found
+2017-10-09 17:08:48,544  INFO - Opened home page
+2017-10-09 17:08:48,544  INFO - Choice left bar
+2017-10-09 17:08:48,623  INFO - Item found
+2017-10-09 17:08:48,623  INFO - Found button
+2017-10-09 17:08:48,624  INFO - Click button
+2017-10-09 17:08:49,132  INFO - Item found
+2017-10-09 17:08:49,132  INFO - Open left bar
+2017-10-09 17:08:49,132  INFO - Сlicked on the desired language
+2017-10-09 17:08:49,133  INFO - Checked language en
+2017-10-09 17:08:49,169  INFO - Getting an attribute
+2017-10-09 17:08:49,294  INFO - Swap language
+2017-10-09 17:08:49,295  INFO - Waiting for presence of element
+2017-10-09 17:08:49,677  INFO - Item found
+2017-10-09 17:08:49,677  INFO - Found button
+2017-10-09 17:08:49,678  INFO - Click button
+2017-10-09 17:08:50,454  INFO - Item found
+2017-10-09 17:08:50,454  INFO - Found combobox
+2017-10-09 17:08:50,455  INFO - Change the language to EN
+2017-10-09 17:08:50,455  INFO - Waiting for presence of element
+2017-10-09 17:09:00,413  INFO - Getting an attribute
+2017-10-09 17:09:00,558  INFO - Item found
+2017-10-09 17:09:00,558  INFO - Found the header
+2017-10-09 17:09:00,559  INFO - Click logging
+2017-10-09 17:09:00,609  INFO - Item found
+2017-10-09 17:09:00,609  INFO - Found button
+2017-10-09 17:09:00,609  INFO - Click button
+2017-10-09 17:10:36,148  INFO - Item found
+2017-10-09 17:10:36,148  INFO - Opened login page
+2017-10-09 17:10:36,148  INFO - Inputted user login
+2017-10-09 17:10:36,170  INFO - Item found
+2017-10-09 17:10:36,170  INFO - Found input field
+2017-10-09 17:10:36,170  INFO - Entered data
+2017-10-09 17:10:36,647  INFO - Clicked - Log in
+2017-10-09 17:10:36,665  INFO - Item found
+2017-10-09 17:10:36,665  INFO - Found button
+2017-10-09 17:10:36,665  INFO - Click button
+2017-10-09 17:10:37,018  INFO - Inputted user password
+2017-10-09 17:10:38,437  INFO - Item found
+2017-10-09 17:10:38,437  INFO - Found input field
+2017-10-09 17:10:38,438  INFO - Entered data
+2017-10-09 17:10:38,549  INFO - Clicked - Log in
+2017-10-09 17:10:38,565  INFO - Item found
+2017-10-09 17:10:38,565  INFO - Found button
+2017-10-09 17:10:38,565  INFO - Click button
+2017-10-09 17:10:40,084  INFO - Item found
+2017-10-09 17:10:40,085  INFO - Found the header
+2017-10-09 17:10:40,085  INFO - Checking user authorization
+2017-10-09 17:10:40,127  INFO - Getting an attribute
+2017-10-09 17:10:40,211  INFO - User is authorization
+2017-10-09 17:11:00,277 ERROR - Not found element Unable to locate element: //div[contains(@class, 'Q-g')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.v5KG3S1L4qos, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.2, platformVersion=10.0, moz:processID=8016, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 8e7e0eb2-5aeb-482f-a09a-69debd853437
+*** Element info: {Using=xpath, value=//div[contains(@class, 'Q-g')]}
+2017-10-09 17:11:00,302  INFO - Browser close
+2017-10-09 17:12:32,158  INFO - Browser settings
+2017-10-09 17:12:42,844  INFO - Creating of driver browser
+2017-10-09 17:12:52,629  INFO - Item found
+2017-10-09 17:12:52,629  INFO - Opened home page
+2017-10-09 17:12:52,736  INFO - Item found
+2017-10-09 17:12:52,736  INFO - Opened home page
+2017-10-09 17:12:52,736  INFO - Choice left bar
+2017-10-09 17:12:52,776  INFO - Item found
+2017-10-09 17:12:52,777  INFO - Found button
+2017-10-09 17:12:52,777  INFO - Click button
+2017-10-09 17:12:53,390  INFO - Item found
+2017-10-09 17:12:53,391  INFO - Open left bar
+2017-10-09 17:12:53,391  INFO - Сlicked on the desired language
+2017-10-09 17:12:53,391  INFO - Checked language en
+2017-10-09 17:12:53,458  INFO - Getting an attribute
+2017-10-09 17:12:53,590  INFO - Swap language
+2017-10-09 17:12:53,590  INFO - Waiting for presence of element
+2017-10-09 17:12:54,200  INFO - Item found
+2017-10-09 17:12:54,200  INFO - Found button
+2017-10-09 17:12:54,200  INFO - Click button
+2017-10-09 17:12:56,400  INFO - Item found
+2017-10-09 17:12:56,400  INFO - Found combobox
+2017-10-09 17:12:56,400  INFO - Change the language to EN
+2017-10-09 17:12:56,403  INFO - Waiting for presence of element
+2017-10-09 17:13:01,477  INFO - Getting an attribute
+2017-10-09 17:13:01,622  INFO - Item found
+2017-10-09 17:13:01,623  INFO - Opened home page
+2017-10-09 17:13:01,623  INFO - Click places tag
+2017-10-09 17:13:02,488  INFO - Item found
+2017-10-09 17:13:02,488  INFO - Found button
+2017-10-09 17:13:02,488  INFO - Point to element
+2017-10-09 17:13:03,335  INFO - Item found
+2017-10-09 17:13:03,335  INFO - Opened home page
+2017-10-09 17:13:03,335  INFO - Place input
+2017-10-09 17:13:03,520  INFO - Item found
+2017-10-09 17:13:03,521  INFO - Found input field
+2017-10-09 17:13:03,521  INFO - Entered data
+2017-10-09 17:13:03,741  INFO - Checking the result of the entered place
+2017-10-09 17:13:03,742  INFO - Fetch place content
+2017-10-09 17:13:03,742  INFO - Waiting for presence of element
+2017-10-09 17:13:04,613  INFO - Item found
+2017-10-09 17:13:04,613  INFO - Found label
+2017-10-09 17:13:04,771  INFO - Click place result
+2017-10-09 17:13:05,058  INFO - Item found
+2017-10-09 17:13:05,059  INFO - Found button
+2017-10-09 17:13:05,059  INFO - Click button
+2017-10-09 17:13:05,553  INFO - Fetch place name
+2017-10-09 17:13:05,553  INFO - Waiting for presence of element
+2017-10-09 17:13:06,748  INFO - Item found
+2017-10-09 17:13:06,961  INFO - Item found
+2017-10-09 17:13:06,962  INFO - Opened home page
+2017-10-09 17:13:06,962  INFO - Choice left bar
+2017-10-09 17:13:07,008  INFO - Item found
+2017-10-09 17:13:07,008  INFO - Found button
+2017-10-09 17:13:07,008  INFO - Click button
+2017-10-09 17:13:07,308  INFO - Item found
+2017-10-09 17:13:07,308  INFO - Open left bar
+2017-10-09 17:13:07,343  INFO - Item found
+2017-10-09 17:13:07,344  INFO - Found label
+2017-10-09 17:13:07,588  INFO - Item found
+2017-10-09 17:13:07,588  INFO - Found button
+2017-10-09 17:13:07,589  INFO - Click button
+2017-10-09 17:13:08,126  INFO - Item found
+2017-10-09 17:13:08,126  INFO - Found combobox
+2017-10-09 17:13:08,126  INFO - Change the currency
+2017-10-09 17:13:10,162  INFO - Checking currency
+2017-10-09 17:13:10,223  INFO - Item found
+2017-10-09 17:13:10,223  INFO - Found label
+2017-10-09 17:13:10,515  INFO - Item found
+2017-10-09 17:13:10,515  INFO - Opened home page
+2017-10-09 17:13:10,515  INFO - Fetch place price
+2017-10-09 17:13:10,515  INFO - Waiting for presence of element
+2017-10-09 17:13:11,503  INFO - Item found
+2017-10-09 17:13:11,774  INFO - Item found
+2017-10-09 17:13:11,774  INFO - Opened home page
+2017-10-09 17:13:11,774  INFO - Choice left bar
+2017-10-09 17:13:11,816  INFO - Item found
+2017-10-09 17:13:11,817  INFO - Found button
+2017-10-09 17:13:11,817  INFO - Click button
+2017-10-09 17:13:12,585  INFO - Item found
+2017-10-09 17:13:12,585  INFO - Open left bar
+2017-10-09 17:13:12,749  INFO - Item found
+2017-10-09 17:13:12,749  INFO - Found label
+2017-10-09 17:13:13,114  INFO - Item found
+2017-10-09 17:13:13,114  INFO - Found button
+2017-10-09 17:13:13,115  INFO - Click button
+2017-10-09 17:13:13,443  INFO - Item found
+2017-10-09 17:13:13,443  INFO - Found combobox
+2017-10-09 17:13:13,443  INFO - Change the currency
+2017-10-09 17:13:15,477  INFO - Checking currency
+2017-10-09 17:13:15,543  INFO - Item found
+2017-10-09 17:13:15,543  INFO - Found label
+2017-10-09 17:13:15,831  INFO - Item found
+2017-10-09 17:13:15,831  INFO - Opened home page
+2017-10-09 17:13:15,831  INFO - Fetch place price
+2017-10-09 17:13:15,831  INFO - Waiting for presence of element
+2017-10-09 17:13:16,694  INFO - Item found
+2017-10-09 17:13:16,846  INFO - Checking the price difference
+2017-10-09 17:13:16,847  INFO - Browser close
+2017-10-09 17:13:20,878  INFO - Browser settings
+2017-10-09 17:13:26,902  INFO - Creating of driver browser
+2017-10-09 17:13:33,295  INFO - Item found
+2017-10-09 17:13:33,295  INFO - Opened home page
+2017-10-09 17:13:33,829  INFO - Item found
+2017-10-09 17:13:33,830  INFO - Opened home page
+2017-10-09 17:13:33,830  INFO - Choice left bar
+2017-10-09 17:13:33,971  INFO - Item found
+2017-10-09 17:13:33,971  INFO - Found button
+2017-10-09 17:13:33,971  INFO - Click button
+2017-10-09 17:13:34,569  INFO - Item found
+2017-10-09 17:13:34,569  INFO - Open left bar
+2017-10-09 17:13:34,569  INFO - Сlicked on the desired language
+2017-10-09 17:13:34,569  INFO - Checked language en
+2017-10-09 17:13:34,616  INFO - Getting an attribute
+2017-10-09 17:13:34,688  INFO - Swap language
+2017-10-09 17:13:34,688  INFO - Waiting for presence of element
+2017-10-09 17:13:35,076  INFO - Item found
+2017-10-09 17:13:35,076  INFO - Found button
+2017-10-09 17:13:35,076  INFO - Click button
+2017-10-09 17:13:36,909  INFO - Item found
+2017-10-09 17:13:36,909  INFO - Found combobox
+2017-10-09 17:13:36,910  INFO - Change the language to EN
+2017-10-09 17:13:36,910  INFO - Waiting for presence of element
+2017-10-09 17:13:43,637  INFO - Getting an attribute
+2017-10-09 17:13:43,775  INFO - Item found
+2017-10-09 17:13:43,775  INFO - Opened home page
+2017-10-09 17:13:43,775  INFO - Click places tag
+2017-10-09 17:13:44,036  INFO - Item found
+2017-10-09 17:13:44,037  INFO - Found button
+2017-10-09 17:13:44,037  INFO - Point to element
+2017-10-09 17:13:44,890  INFO - Item found
+2017-10-09 17:13:44,891  INFO - Opened home page
+2017-10-09 17:13:44,891  INFO - Place input
+2017-10-09 17:13:45,071  INFO - Item found
+2017-10-09 17:13:45,071  INFO - Found input field
+2017-10-09 17:13:45,071  INFO - Entered data
+2017-10-09 17:13:45,222  INFO - Checking the result of the entered place
+2017-10-09 17:13:45,223  INFO - Fetch place content
+2017-10-09 17:13:45,223  INFO - Waiting for presence of element
+2017-10-09 17:13:50,535  INFO - Item found
+2017-10-09 17:13:50,535  INFO - Found label
+2017-10-09 17:13:50,596  INFO - Click place result
+2017-10-09 17:13:50,636  INFO - Item found
+2017-10-09 17:13:50,636  INFO - Found button
+2017-10-09 17:13:50,636  INFO - Click button
+2017-10-09 17:13:50,912  INFO - Fetch place name
+2017-10-09 17:13:50,913  INFO - Waiting for presence of element
+2017-10-09 17:13:52,594  INFO - Item found
+2017-10-09 17:13:52,746  INFO - Click place
+2017-10-09 17:13:52,790  INFO - Item found
+2017-10-09 17:13:52,790  INFO - Found button
+2017-10-09 17:13:52,790  INFO - Click button
+2017-10-09 17:13:53,358  INFO - Click place
+2017-10-09 17:13:53,461  INFO - Item found
+2017-10-09 17:13:53,461  INFO - Found button
+2017-10-09 17:13:53,462  INFO - Click button
+2017-10-09 17:13:54,972  INFO - Item found
+2017-10-09 17:13:54,972  INFO - Opened flights page
+2017-10-09 17:13:55,057  INFO - Item found
+2017-10-09 17:13:55,058  INFO - Opened flights page
+2017-10-09 17:13:55,058  INFO - Waiting for presence of element
+2017-10-09 17:13:55,289  INFO - Click sorting airlines
+2017-10-09 17:13:55,329  INFO - Item found
+2017-10-09 17:13:55,330  INFO - Found button
+2017-10-09 17:13:55,330  INFO - Click button
+2017-10-09 17:13:55,658  INFO - Waiting for presence of element
+2017-10-09 17:13:55,829  INFO - Item found
+2017-10-09 17:13:55,829  INFO - Found combobox
+2017-10-09 17:13:55,829  INFO - Getting of set
+2017-10-09 17:13:59,056  INFO - Clicked Belavia
+2017-10-09 17:13:59,085  INFO - Item found
+2017-10-09 17:13:59,085  INFO - Found button
+2017-10-09 17:13:59,085  INFO - Click button
+2017-10-09 17:13:59,400  INFO - Waiting for presence of element
+2017-10-09 17:13:59,703  INFO - Checking sorting airlines
+2017-10-09 17:13:59,703  INFO - Waiting for presence of element
+2017-10-09 17:13:59,953  INFO - Item found
+2017-10-09 17:13:59,953  INFO - Found combobox
+2017-10-09 17:13:59,953  INFO - Getting of set
+2017-10-09 17:14:00,857  INFO - Sorted airlines complete
+2017-10-09 17:14:00,858  INFO - Browser close
+2017-10-09 17:14:07,573  INFO - Browser settings
+2017-10-09 17:14:13,628  INFO - Creating of driver browser
+2017-10-09 17:14:20,394  INFO - Item found
+2017-10-09 17:14:20,395  INFO - Opened home page
+2017-10-09 17:14:20,726  INFO - Item found
+2017-10-09 17:14:20,726  INFO - Opened home page
+2017-10-09 17:14:20,726  INFO - Choice left bar
+2017-10-09 17:14:20,795  INFO - Item found
+2017-10-09 17:14:20,795  INFO - Found button
+2017-10-09 17:14:20,795  INFO - Click button
+2017-10-09 17:14:21,291  INFO - Item found
+2017-10-09 17:14:21,291  INFO - Open left bar
+2017-10-09 17:14:21,291  INFO - Сlicked on the desired language
+2017-10-09 17:14:21,291  INFO - Checked language en
+2017-10-09 17:14:21,340  INFO - Getting an attribute
+2017-10-09 17:14:21,449  INFO - Swap language
+2017-10-09 17:14:21,449  INFO - Waiting for presence of element
+2017-10-09 17:14:22,045  INFO - Item found
+2017-10-09 17:14:22,045  INFO - Found button
+2017-10-09 17:14:22,045  INFO - Click button
+2017-10-09 17:14:25,218  INFO - Item found
+2017-10-09 17:14:25,218  INFO - Found combobox
+2017-10-09 17:14:25,219  INFO - Change the language to EN
+2017-10-09 17:14:25,219  INFO - Waiting for presence of element
+2017-10-09 17:14:32,242  INFO - Getting an attribute
+2017-10-09 17:14:32,350  INFO - Item found
+2017-10-09 17:14:32,350  INFO - Opened home page
+2017-10-09 17:14:32,350  INFO - Click places tag
+2017-10-09 17:14:32,832  INFO - Item found
+2017-10-09 17:14:32,833  INFO - Found button
+2017-10-09 17:14:32,833  INFO - Point to element
+2017-10-09 17:14:33,385  INFO - Item found
+2017-10-09 17:14:33,385  INFO - Opened home page
+2017-10-09 17:14:33,385  INFO - Place input
+2017-10-09 17:14:33,555  INFO - Item found
+2017-10-09 17:14:33,555  INFO - Found input field
+2017-10-09 17:14:33,555  INFO - Entered data
+2017-10-09 17:14:33,713  INFO - Checking the result of the entered place
+2017-10-09 17:14:33,713  INFO - Fetch place content
+2017-10-09 17:14:33,713  INFO - Waiting for presence of element
+2017-10-09 17:14:35,796  INFO - Item found
+2017-10-09 17:14:35,797  INFO - Found label
+2017-10-09 17:14:35,883  INFO - Click place result
+2017-10-09 17:14:35,978  INFO - Item found
+2017-10-09 17:14:35,978  INFO - Found button
+2017-10-09 17:14:35,979  INFO - Click button
+2017-10-09 17:14:36,258  INFO - Fetch place name
+2017-10-09 17:14:36,258  INFO - Waiting for presence of element
+2017-10-09 17:14:37,049  INFO - Item found
+2017-10-09 17:14:37,150  INFO - Click place
+2017-10-09 17:14:37,179  INFO - Item found
+2017-10-09 17:14:37,180  INFO - Found button
+2017-10-09 17:14:37,180  INFO - Click button
+2017-10-09 17:14:37,729  INFO - Item found
+2017-10-09 17:14:37,729  INFO - Opened home page
+2017-10-09 17:14:37,729  INFO - Click place
+2017-10-09 17:14:37,841  INFO - Item found
+2017-10-09 17:14:37,841  INFO - Found button
+2017-10-09 17:14:37,841  INFO - Click button
+2017-10-09 17:14:40,386  INFO - Item found
+2017-10-09 17:14:40,386  INFO - Opened hotels page
+2017-10-09 17:14:40,388  INFO - Click price tag
+2017-10-09 17:14:40,388  INFO - Waiting for presence of element
+2017-10-09 17:14:51,107  INFO - Item found
+2017-10-09 17:14:51,107  INFO - Found button
+2017-10-09 17:14:51,107  INFO - Click button
+2017-10-09 17:14:51,756  INFO - Waiting for download
+2017-10-09 17:14:54,602  INFO - Checking sorting hotels
+2017-10-09 17:14:54,602  INFO - Fetch hotels list
+2017-10-09 17:14:54,602  INFO - Waiting for presence of element
+2017-10-09 17:14:55,238  INFO - Item found
+2017-10-09 17:14:55,238  INFO - Found combobox
+2017-10-09 17:14:55,238  INFO - Getting of set
+2017-10-09 17:14:58,897  INFO - Sorted hotels complete
+2017-10-09 17:14:58,898  INFO - Browser close
+2017-10-09 17:15:02,267  INFO - Browser settings
+2017-10-09 17:15:08,264  INFO - Creating of driver browser
+2017-10-09 17:15:16,699  INFO - Item found
+2017-10-09 17:15:16,699  INFO - Opened home page
+2017-10-09 17:15:17,021  INFO - Item found
+2017-10-09 17:15:17,021  INFO - Opened home page
+2017-10-09 17:15:17,021  INFO - Choice left bar
+2017-10-09 17:15:17,154  INFO - Item found
+2017-10-09 17:15:17,154  INFO - Found button
+2017-10-09 17:15:17,154  INFO - Click button
+2017-10-09 17:15:17,596  INFO - Item found
+2017-10-09 17:15:17,596  INFO - Open left bar
+2017-10-09 17:15:17,597  INFO - Сlicked on the desired language
+2017-10-09 17:15:17,597  INFO - Checked language en
+2017-10-09 17:15:17,625  INFO - Getting an attribute
+2017-10-09 17:15:17,674  INFO - Swap language
+2017-10-09 17:15:17,674  INFO - Waiting for presence of element
+2017-10-09 17:15:18,042  INFO - Item found
+2017-10-09 17:15:18,043  INFO - Found button
+2017-10-09 17:15:18,043  INFO - Click button
+2017-10-09 17:15:18,804  INFO - Item found
+2017-10-09 17:15:18,804  INFO - Found combobox
+2017-10-09 17:15:18,804  INFO - Change the language to EN
+2017-10-09 17:15:18,804  INFO - Waiting for presence of element
+2017-10-09 17:15:31,366  INFO - Getting an attribute
+2017-10-09 17:15:31,431  INFO - Item found
+2017-10-09 17:15:31,432  INFO - Opened home page
+2017-10-09 17:15:31,432  INFO - Click places tag
+2017-10-09 17:15:31,535  INFO - Item found
+2017-10-09 17:15:31,536  INFO - Found button
+2017-10-09 17:15:31,536  INFO - Point to element
+2017-10-09 17:15:32,054  INFO - Item found
+2017-10-09 17:15:32,054  INFO - Opened home page
+2017-10-09 17:15:32,054  INFO - Place input
+2017-10-09 17:15:32,185  INFO - Item found
+2017-10-09 17:15:32,185  INFO - Found input field
+2017-10-09 17:15:32,185  INFO - Entered data
+2017-10-09 17:15:32,320  INFO - Checking the result of the entered place
+2017-10-09 17:15:32,320  INFO - Fetch place content
+2017-10-09 17:15:32,320  INFO - Waiting for presence of element
+2017-10-09 17:15:36,987  INFO - Item found
+2017-10-09 17:15:36,987  INFO - Found label
+2017-10-09 17:15:37,081  INFO - Click place result
+2017-10-09 17:15:37,130  INFO - Item found
+2017-10-09 17:15:37,130  INFO - Found button
+2017-10-09 17:15:37,130  INFO - Click button
+2017-10-09 17:15:37,568  INFO - Fetch place name
+2017-10-09 17:15:37,568  INFO - Waiting for presence of element
+2017-10-09 17:15:38,276  INFO - Item found
+2017-10-09 17:15:38,400  INFO - Click place
+2017-10-09 17:15:38,436  INFO - Item found
+2017-10-09 17:15:38,436  INFO - Found button
+2017-10-09 17:15:38,436  INFO - Click button
+2017-10-09 17:15:38,827  INFO - Click place
+2017-10-09 17:15:38,875  INFO - Item found
+2017-10-09 17:15:38,875  INFO - Found button
+2017-10-09 17:15:38,875  INFO - Click button
+2017-10-09 17:15:39,993  INFO - Item found
+2017-10-09 17:15:39,993  INFO - Opened flights page
+2017-10-09 17:15:39,994  INFO - Click track prices
+2017-10-09 17:15:40,060  INFO - Item found
+2017-10-09 17:15:40,665  INFO - Get switch status
+2017-10-09 17:15:40,694  INFO - Item found
+2017-10-09 17:15:40,695  INFO - Found label
+2017-10-09 17:15:40,732  INFO - Browser close
+2017-10-09 17:15:44,305  INFO - Browser settings
+2017-10-09 17:15:50,279  INFO - Creating of driver browser
+2017-10-09 17:20:50,623  INFO - Browser close
+2017-10-09 17:23:40,213  INFO - Browser settings
+2017-10-09 17:23:51,225  INFO - Creating of driver browser
+2017-10-09 17:23:57,114  INFO - Item found
+2017-10-09 17:23:57,114  INFO - Opened home page
+2017-10-09 17:23:57,256  INFO - Item found
+2017-10-09 17:23:57,256  INFO - Opened home page
+2017-10-09 17:23:57,256  INFO - Choice left bar
+2017-10-09 17:23:57,338  INFO - Item found
+2017-10-09 17:23:57,338  INFO - Found button
+2017-10-09 17:23:57,339  INFO - Click button
+2017-10-09 17:23:58,510  INFO - Item found
+2017-10-09 17:23:58,511  INFO - Open left bar
+2017-10-09 17:23:58,511  INFO - Сlicked on the desired language
+2017-10-09 17:23:58,513  INFO - Checked language en
+2017-10-09 17:23:58,673  INFO - Getting an attribute
+2017-10-09 17:23:59,155  INFO - Swap language
+2017-10-09 17:23:59,155  INFO - Waiting for presence of element
+2017-10-09 17:23:59,794  INFO - Item found
+2017-10-09 17:23:59,794  INFO - Found button
+2017-10-09 17:23:59,794  INFO - Click button
+2017-10-09 17:24:00,297  INFO - Item found
+2017-10-09 17:24:00,298  INFO - Found combobox
+2017-10-09 17:24:00,298  INFO - Change the language to EN
+2017-10-09 17:24:00,301  INFO - Waiting for presence of element
+2017-10-09 17:24:03,795  INFO - Getting an attribute
+2017-10-09 17:24:03,982  INFO - Item found
+2017-10-09 17:24:03,983  INFO - Opened home page
+2017-10-09 17:24:03,983  INFO - Click places tag
+2017-10-09 17:24:04,562  INFO - Item found
+2017-10-09 17:24:04,562  INFO - Found button
+2017-10-09 17:24:04,563  INFO - Point to element
+2017-10-09 17:24:05,697  INFO - Item found
+2017-10-09 17:24:05,697  INFO - Opened home page
+2017-10-09 17:24:05,698  INFO - Place input
+2017-10-09 17:24:06,054  INFO - Item found
+2017-10-09 17:24:06,054  INFO - Found input field
+2017-10-09 17:24:06,054  INFO - Entered data
+2017-10-09 17:24:06,411  INFO - Checking the result of the entered place
+2017-10-09 17:24:06,412  INFO - Fetch place content
+2017-10-09 17:24:06,412  INFO - Waiting for presence of element
+2017-10-09 17:24:08,324  INFO - Item found
+2017-10-09 17:24:08,325  INFO - Found label
+2017-10-09 17:24:08,494  INFO - Click place result
+2017-10-09 17:24:08,511  INFO - Item found
+2017-10-09 17:24:08,511  INFO - Found button
+2017-10-09 17:24:08,511  INFO - Click button
+2017-10-09 17:24:08,794  INFO - Fetch place name
+2017-10-09 17:24:08,794  INFO - Waiting for presence of element
+2017-10-09 17:24:09,577  INFO - Item found
+2017-10-09 17:24:09,711  INFO - Item found
+2017-10-09 17:24:09,712  INFO - Opened home page
+2017-10-09 17:24:09,712  INFO - Choice left bar
+2017-10-09 17:24:09,771  INFO - Item found
+2017-10-09 17:24:09,771  INFO - Found button
+2017-10-09 17:24:09,771  INFO - Click button
+2017-10-09 17:24:10,096  INFO - Item found
+2017-10-09 17:24:10,096  INFO - Open left bar
+2017-10-09 17:24:10,133  INFO - Item found
+2017-10-09 17:24:10,134  INFO - Found label
+2017-10-09 17:24:10,432  INFO - Item found
+2017-10-09 17:24:10,432  INFO - Found button
+2017-10-09 17:24:10,433  INFO - Click button
+2017-10-09 17:24:10,693  INFO - Item found
+2017-10-09 17:24:10,693  INFO - Found combobox
+2017-10-09 17:24:10,693  INFO - Change the currency
+2017-10-09 17:24:14,541  INFO - Checking currency
+2017-10-09 17:24:14,678  INFO - Item found
+2017-10-09 17:24:14,678  INFO - Found label
+2017-10-09 17:24:15,006  INFO - Item found
+2017-10-09 17:24:15,007  INFO - Opened home page
+2017-10-09 17:24:15,007  INFO - Fetch place price
+2017-10-09 17:24:15,007  INFO - Waiting for presence of element
+2017-10-09 17:24:15,990  INFO - Item found
+2017-10-09 17:24:16,224  INFO - Item found
+2017-10-09 17:24:16,224  INFO - Opened home page
+2017-10-09 17:24:16,224  INFO - Choice left bar
+2017-10-09 17:24:16,256  INFO - Item found
+2017-10-09 17:24:16,256  INFO - Found button
+2017-10-09 17:24:16,256  INFO - Click button
+2017-10-09 17:24:16,799  INFO - Item found
+2017-10-09 17:24:16,799  INFO - Open left bar
+2017-10-09 17:24:16,881  INFO - Item found
+2017-10-09 17:24:16,881  INFO - Found label
+2017-10-09 17:24:17,420  INFO - Item found
+2017-10-09 17:24:17,420  INFO - Found button
+2017-10-09 17:24:17,420  INFO - Click button
+2017-10-09 17:24:17,730  INFO - Item found
+2017-10-09 17:24:17,730  INFO - Found combobox
+2017-10-09 17:24:17,730  INFO - Change the currency
+2017-10-09 17:24:20,142  INFO - Checking currency
+2017-10-09 17:24:20,197  INFO - Item found
+2017-10-09 17:24:20,197  INFO - Found label
+2017-10-09 17:24:20,527  INFO - Item found
+2017-10-09 17:24:20,527  INFO - Opened home page
+2017-10-09 17:24:20,527  INFO - Fetch place price
+2017-10-09 17:24:20,527  INFO - Waiting for presence of element
+2017-10-09 17:24:21,529  INFO - Item found
+2017-10-09 17:24:21,696  INFO - Checking the price difference
+2017-10-09 17:24:21,697  INFO - Browser close
+2017-10-09 17:24:25,676  INFO - Browser settings
+2017-10-09 17:24:31,702  INFO - Creating of driver browser
+2017-10-09 17:24:37,045  INFO - Item found
+2017-10-09 17:24:37,045  INFO - Opened home page
+2017-10-09 17:24:37,498  INFO - Item found
+2017-10-09 17:24:37,498  INFO - Opened home page
+2017-10-09 17:24:37,499  INFO - Choice left bar
+2017-10-09 17:24:37,830  INFO - Item found
+2017-10-09 17:24:37,830  INFO - Found button
+2017-10-09 17:24:37,830  INFO - Click button
+2017-10-09 17:24:38,803  INFO - Item found
+2017-10-09 17:24:38,804  INFO - Open left bar
+2017-10-09 17:24:38,804  INFO - Сlicked on the desired language
+2017-10-09 17:24:38,804  INFO - Checked language en
+2017-10-09 17:24:38,843  INFO - Getting an attribute
+2017-10-09 17:24:39,120  INFO - Swap language
+2017-10-09 17:24:39,120  INFO - Waiting for presence of element
+2017-10-09 17:24:39,378  INFO - Item found
+2017-10-09 17:24:39,378  INFO - Found button
+2017-10-09 17:24:39,378  INFO - Click button
+2017-10-09 17:24:42,609  INFO - Item found
+2017-10-09 17:24:42,609  INFO - Found combobox
+2017-10-09 17:24:42,609  INFO - Change the language to EN
+2017-10-09 17:24:42,609  INFO - Waiting for presence of element
+2017-10-09 17:24:47,684  INFO - Getting an attribute
+2017-10-09 17:24:47,787  INFO - Item found
+2017-10-09 17:24:47,787  INFO - Opened home page
+2017-10-09 17:24:47,787  INFO - Click places tag
+2017-10-09 17:24:48,333  INFO - Item found
+2017-10-09 17:24:48,334  INFO - Found button
+2017-10-09 17:24:48,334  INFO - Point to element
+2017-10-09 17:24:49,451  INFO - Item found
+2017-10-09 17:24:49,451  INFO - Opened home page
+2017-10-09 17:24:49,451  INFO - Place input
+2017-10-09 17:24:50,042  INFO - Item found
+2017-10-09 17:24:50,042  INFO - Found input field
+2017-10-09 17:24:50,042  INFO - Entered data
+2017-10-09 17:24:50,309  INFO - Checking the result of the entered place
+2017-10-09 17:24:50,309  INFO - Fetch place content
+2017-10-09 17:24:50,309  INFO - Waiting for presence of element
+2017-10-09 17:24:51,576  INFO - Item found
+2017-10-09 17:24:51,577  INFO - Found label
+2017-10-09 17:24:51,648  INFO - Click place result
+2017-10-09 17:24:51,664  INFO - Item found
+2017-10-09 17:24:51,664  INFO - Found button
+2017-10-09 17:24:51,664  INFO - Click button
+2017-10-09 17:24:52,034  INFO - Fetch place name
+2017-10-09 17:24:52,034  INFO - Waiting for presence of element
+2017-10-09 17:24:52,871  INFO - Item found
+2017-10-09 17:24:52,979  INFO - Click place
+2017-10-09 17:24:53,015  INFO - Item found
+2017-10-09 17:24:53,016  INFO - Found button
+2017-10-09 17:24:53,016  INFO - Click button
+2017-10-09 17:24:53,432  INFO - Click place
+2017-10-09 17:24:53,522  INFO - Item found
+2017-10-09 17:24:53,522  INFO - Found button
+2017-10-09 17:24:53,522  INFO - Click button
+2017-10-09 17:24:54,640  INFO - Item found
+2017-10-09 17:24:54,640  INFO - Opened flights page
+2017-10-09 17:24:54,714  INFO - Item found
+2017-10-09 17:24:54,715  INFO - Opened flights page
+2017-10-09 17:24:54,715  INFO - Waiting for presence of element
+2017-10-09 17:24:54,908  INFO - Click sorting airlines
+2017-10-09 17:24:54,968  INFO - Item found
+2017-10-09 17:24:54,969  INFO - Found button
+2017-10-09 17:24:54,969  INFO - Click button
+2017-10-09 17:24:55,297  INFO - Waiting for presence of element
+2017-10-09 17:24:55,466  INFO - Item found
+2017-10-09 17:24:55,467  INFO - Found combobox
+2017-10-09 17:24:55,467  INFO - Getting of set
+2017-10-09 17:24:56,457  INFO - Clicked Belavia
+2017-10-09 17:24:56,504  INFO - Item found
+2017-10-09 17:24:56,504  INFO - Found button
+2017-10-09 17:24:56,504  INFO - Click button
+2017-10-09 17:24:56,890  INFO - Waiting for presence of element
+2017-10-09 17:24:57,013  INFO - Checking sorting airlines
+2017-10-09 17:24:57,014  INFO - Waiting for presence of element
+2017-10-09 17:24:57,304  INFO - Item found
+2017-10-09 17:24:57,305  INFO - Found combobox
+2017-10-09 17:24:57,305  INFO - Getting of set
+2017-10-09 17:24:57,998  INFO - Sorted airlines complete
+2017-10-09 17:24:57,999  INFO - Browser close
+2017-10-09 17:25:01,465  INFO - Browser settings
+2017-10-09 17:25:08,911  INFO - Creating of driver browser
+2017-10-09 17:25:18,769  INFO - Item found
+2017-10-09 17:25:18,769  INFO - Opened home page
+2017-10-09 17:25:19,606  INFO - Item found
+2017-10-09 17:25:19,606  INFO - Opened home page
+2017-10-09 17:25:19,606  INFO - Choice left bar
+2017-10-09 17:25:19,748  INFO - Item found
+2017-10-09 17:25:19,748  INFO - Found button
+2017-10-09 17:25:19,748  INFO - Click button
+2017-10-09 17:25:20,742  INFO - Item found
+2017-10-09 17:25:20,742  INFO - Open left bar
+2017-10-09 17:25:20,742  INFO - Сlicked on the desired language
+2017-10-09 17:25:20,742  INFO - Checked language en
+2017-10-09 17:25:21,126  INFO - Getting an attribute
+2017-10-09 17:25:21,304  INFO - Swap language
+2017-10-09 17:25:21,304  INFO - Waiting for presence of element
+2017-10-09 17:25:21,757  INFO - Item found
+2017-10-09 17:25:21,757  INFO - Found button
+2017-10-09 17:25:21,757  INFO - Click button
+2017-10-09 17:25:22,430  INFO - Item found
+2017-10-09 17:25:22,431  INFO - Found combobox
+2017-10-09 17:25:22,431  INFO - Change the language to EN
+2017-10-09 17:25:22,431  INFO - Waiting for presence of element
+2017-10-09 17:25:29,094  INFO - Getting an attribute
+2017-10-09 17:25:29,232  INFO - Item found
+2017-10-09 17:25:29,232  INFO - Opened home page
+2017-10-09 17:25:29,232  INFO - Click places tag
+2017-10-09 17:25:29,757  INFO - Item found
+2017-10-09 17:25:29,757  INFO - Found button
+2017-10-09 17:25:29,757  INFO - Point to element
+2017-10-09 17:25:30,433  INFO - Item found
+2017-10-09 17:25:30,433  INFO - Opened home page
+2017-10-09 17:25:30,433  INFO - Place input
+2017-10-09 17:25:31,153  INFO - Item found
+2017-10-09 17:25:31,153  INFO - Found input field
+2017-10-09 17:25:31,154  INFO - Entered data
+2017-10-09 17:25:31,416  INFO - Checking the result of the entered place
+2017-10-09 17:25:31,416  INFO - Fetch place content
+2017-10-09 17:25:31,416  INFO - Waiting for presence of element
+2017-10-09 17:25:32,962  INFO - Item found
+2017-10-09 17:25:32,962  INFO - Found label
+2017-10-09 17:25:33,127  INFO - Click place result
+2017-10-09 17:25:33,195  INFO - Item found
+2017-10-09 17:25:33,195  INFO - Found button
+2017-10-09 17:25:33,195  INFO - Click button
+2017-10-09 17:25:33,632  INFO - Fetch place name
+2017-10-09 17:25:33,632  INFO - Waiting for presence of element
+2017-10-09 17:25:34,657  INFO - Item found
+2017-10-09 17:25:34,798  INFO - Click place
+2017-10-09 17:25:34,833  INFO - Item found
+2017-10-09 17:25:34,833  INFO - Found button
+2017-10-09 17:25:34,833  INFO - Click button
+2017-10-09 17:25:35,249  INFO - Item found
+2017-10-09 17:25:35,249  INFO - Opened home page
+2017-10-09 17:25:35,249  INFO - Click place
+2017-10-09 17:25:35,296  INFO - Item found
+2017-10-09 17:25:35,297  INFO - Found button
+2017-10-09 17:25:35,297  INFO - Click button
+2017-10-09 17:25:37,535  INFO - Item found
+2017-10-09 17:25:37,536  INFO - Opened hotels page
+2017-10-09 17:25:37,537  INFO - Click price tag
+2017-10-09 17:25:37,537  INFO - Waiting for presence of element
+2017-10-09 17:25:50,268  INFO - Item found
+2017-10-09 17:25:50,273  INFO - Found button
+2017-10-09 17:25:50,273  INFO - Click button
+2017-10-09 17:25:51,487  INFO - Waiting for download
+2017-10-09 17:25:55,094  INFO - Checking sorting hotels
+2017-10-09 17:25:55,094  INFO - Fetch hotels list
+2017-10-09 17:25:55,094  INFO - Waiting for presence of element
+2017-10-09 17:25:56,840  INFO - Item found
+2017-10-09 17:25:56,840  INFO - Found combobox
+2017-10-09 17:25:56,840  INFO - Getting of set
+2017-10-09 17:26:01,348  INFO - Sorted hotels complete
+2017-10-09 17:26:01,353  INFO - Browser close
+2017-10-09 17:26:11,870  INFO - Browser settings
+2017-10-09 17:26:22,182  INFO - Creating of driver browser
+2017-10-09 17:26:27,650  INFO - Item found
+2017-10-09 17:26:27,651  INFO - Opened home page
+2017-10-09 17:26:28,117  INFO - Item found
+2017-10-09 17:26:28,117  INFO - Opened home page
+2017-10-09 17:26:28,117  INFO - Choice left bar
+2017-10-09 17:26:28,340  INFO - Item found
+2017-10-09 17:26:28,340  INFO - Found button
+2017-10-09 17:26:28,340  INFO - Click button
+2017-10-09 17:26:29,367  INFO - Item found
+2017-10-09 17:26:29,367  INFO - Open left bar
+2017-10-09 17:26:29,368  INFO - Сlicked on the desired language
+2017-10-09 17:26:29,368  INFO - Checked language en
+2017-10-09 17:26:29,455  INFO - Getting an attribute
+2017-10-09 17:26:29,825  INFO - Swap language
+2017-10-09 17:26:29,825  INFO - Waiting for presence of element
+2017-10-09 17:26:30,212  INFO - Item found
+2017-10-09 17:26:30,213  INFO - Found button
+2017-10-09 17:26:30,213  INFO - Click button
+2017-10-09 17:26:31,277  INFO - Item found
+2017-10-09 17:26:31,277  INFO - Found combobox
+2017-10-09 17:26:31,277  INFO - Change the language to EN
+2017-10-09 17:26:31,277  INFO - Waiting for presence of element
+2017-10-09 17:26:35,443  INFO - Getting an attribute
+2017-10-09 17:26:35,641  INFO - Item found
+2017-10-09 17:26:35,641  INFO - Opened home page
+2017-10-09 17:26:35,641  INFO - Click places tag
+2017-10-09 17:26:36,177  INFO - Item found
+2017-10-09 17:26:36,177  INFO - Found button
+2017-10-09 17:26:36,177  INFO - Point to element
+2017-10-09 17:26:37,029  INFO - Item found
+2017-10-09 17:26:37,029  INFO - Opened home page
+2017-10-09 17:26:37,029  INFO - Place input
+2017-10-09 17:26:37,326  INFO - Item found
+2017-10-09 17:26:37,326  INFO - Found input field
+2017-10-09 17:26:37,326  INFO - Entered data
+2017-10-09 17:26:37,589  INFO - Checking the result of the entered place
+2017-10-09 17:26:37,589  INFO - Fetch place content
+2017-10-09 17:26:37,589  INFO - Waiting for presence of element
+2017-10-09 17:26:39,396  INFO - Item found
+2017-10-09 17:26:39,396  INFO - Found label
+2017-10-09 17:26:39,484  INFO - Click place result
+2017-10-09 17:26:39,513  INFO - Item found
+2017-10-09 17:26:39,513  INFO - Found button
+2017-10-09 17:26:39,514  INFO - Click button
+2017-10-09 17:26:39,795  INFO - Fetch place name
+2017-10-09 17:26:39,796  INFO - Waiting for presence of element
+2017-10-09 17:26:40,687  INFO - Item found
+2017-10-09 17:26:40,785  INFO - Click place
+2017-10-09 17:26:40,819  INFO - Item found
+2017-10-09 17:26:40,819  INFO - Found button
+2017-10-09 17:26:40,819  INFO - Click button
+2017-10-09 17:26:41,350  INFO - Click place
+2017-10-09 17:26:41,394  INFO - Item found
+2017-10-09 17:26:41,394  INFO - Found button
+2017-10-09 17:26:41,394  INFO - Click button
+2017-10-09 17:26:42,433  INFO - Item found
+2017-10-09 17:26:42,434  INFO - Opened flights page
+2017-10-09 17:26:42,434  INFO - Click track prices
+2017-10-09 17:26:42,520  INFO - Item found
+2017-10-09 17:26:42,887  INFO - Get switch status
+2017-10-09 17:26:42,902  INFO - Item found
+2017-10-09 17:26:42,902  INFO - Found label
+2017-10-09 17:26:42,949  INFO - Browser close
+2017-10-09 17:26:50,169  INFO - Browser settings
+2017-10-09 17:26:56,164  INFO - Creating of driver browser
+2017-10-09 17:27:02,965  INFO - Item found
+2017-10-09 17:27:02,965  INFO - Opened home page
+2017-10-09 17:27:03,321  INFO - Item found
+2017-10-09 17:27:03,321  INFO - Opened home page
+2017-10-09 17:27:03,321  INFO - Choice left bar
+2017-10-09 17:27:03,442  INFO - Item found
+2017-10-09 17:27:03,442  INFO - Found button
+2017-10-09 17:27:03,442  INFO - Click button
+2017-10-09 17:27:03,931  INFO - Item found
+2017-10-09 17:27:03,932  INFO - Open left bar
+2017-10-09 17:27:03,932  INFO - Сlicked on the desired language
+2017-10-09 17:27:03,932  INFO - Checked language en
+2017-10-09 17:27:03,956  INFO - Getting an attribute
+2017-10-09 17:27:04,019  INFO - Swap language
+2017-10-09 17:27:04,019  INFO - Waiting for presence of element
+2017-10-09 17:27:04,278  INFO - Item found
+2017-10-09 17:27:04,278  INFO - Found button
+2017-10-09 17:27:04,278  INFO - Click button
+2017-10-09 17:27:05,284  INFO - Item found
+2017-10-09 17:27:05,284  INFO - Found combobox
+2017-10-09 17:27:05,284  INFO - Change the language to EN
+2017-10-09 17:27:05,284  INFO - Waiting for presence of element
+2017-10-09 17:27:11,108  INFO - Getting an attribute
+2017-10-09 17:27:11,596  INFO - Item found
+2017-10-09 17:27:11,596  INFO - Found the header
+2017-10-09 17:27:11,596  INFO - Click logging
+2017-10-09 17:27:11,894  INFO - Item found
+2017-10-09 17:27:11,894  INFO - Found button
+2017-10-09 17:27:11,894  INFO - Click button
+2017-10-09 17:27:14,999  INFO - Item found
+2017-10-09 17:27:14,999  INFO - Opened login page
+2017-10-09 17:27:14,999  INFO - Inputted user login
+2017-10-09 17:27:15,015  INFO - Item found
+2017-10-09 17:27:15,015  INFO - Found input field
+2017-10-09 17:27:15,015  INFO - Entered data
+2017-10-09 17:27:15,498  INFO - Clicked - Log in
+2017-10-09 17:27:15,548  INFO - Item found
+2017-10-09 17:27:15,548  INFO - Found button
+2017-10-09 17:27:15,548  INFO - Click button
+2017-10-09 17:27:15,964  INFO - Inputted user password
+2017-10-09 17:27:17,303  INFO - Item found
+2017-10-09 17:27:17,304  INFO - Found input field
+2017-10-09 17:27:17,304  INFO - Entered data
+2017-10-09 17:27:17,415  INFO - Clicked - Log in
+2017-10-09 17:27:17,429  INFO - Item found
+2017-10-09 17:27:17,429  INFO - Found button
+2017-10-09 17:27:17,429  INFO - Click button
+2017-10-09 17:27:18,951  INFO - Item found
+2017-10-09 17:27:18,951  INFO - Found the header
+2017-10-09 17:27:18,951  INFO - Checking user authorization
+2017-10-09 17:27:19,016  INFO - Getting an attribute
+2017-10-09 17:27:19,078  INFO - User is authorization
+2017-10-09 17:27:41,334  INFO - Item found
+2017-10-09 17:27:41,334  INFO - Opened home page
+2017-10-09 17:27:41,334  INFO - Click places tag
+2017-10-09 17:27:41,863  INFO - Item found
+2017-10-09 17:27:41,863  INFO - Found button
+2017-10-09 17:27:41,863  INFO - Point to element
+2017-10-09 17:27:42,834  INFO - Item found
+2017-10-09 17:27:42,834  INFO - Opened home page
+2017-10-09 17:27:42,834  INFO - Place input
+2017-10-09 17:27:43,191  INFO - Item found
+2017-10-09 17:27:43,191  INFO - Found input field
+2017-10-09 17:27:43,192  INFO - Entered data
+2017-10-09 17:27:43,350  INFO - Checking the result of the entered place
+2017-10-09 17:27:43,351  INFO - Fetch place content
+2017-10-09 17:27:43,351  INFO - Waiting for presence of element
+2017-10-09 17:27:43,928  INFO - Item found
+2017-10-09 17:27:43,928  INFO - Found label
+2017-10-09 17:27:43,992  INFO - Click place result
+2017-10-09 17:27:44,031  INFO - Item found
+2017-10-09 17:27:44,031  INFO - Found button
+2017-10-09 17:27:44,031  INFO - Click button
+2017-10-09 17:27:44,329  INFO - Fetch place name
+2017-10-09 17:27:44,329  INFO - Waiting for presence of element
+2017-10-09 17:27:45,492  INFO - Item found
+2017-10-09 17:27:45,630  INFO - Click place
+2017-10-09 17:27:45,730  INFO - Item found
+2017-10-09 17:27:45,731  INFO - Found button
+2017-10-09 17:27:45,731  INFO - Click button
+2017-10-09 17:27:46,274  INFO - Click place
+2017-10-09 17:27:46,429  INFO - Item found
+2017-10-09 17:27:46,430  INFO - Found button
+2017-10-09 17:27:46,430  INFO - Click button
+2017-10-09 17:27:47,580  INFO - Item found
+2017-10-09 17:27:47,580  INFO - Opened flights page
+2017-10-09 17:27:47,581  INFO - Click track prices
+2017-10-09 17:27:47,662  INFO - Item found
+2017-10-09 17:27:48,092  INFO - Get switch status
+2017-10-09 17:27:48,124  INFO - Item found
+2017-10-09 17:27:48,124  INFO - Found label
+2017-10-09 17:27:48,177  INFO - Click track prices
+2017-10-09 17:27:48,215  INFO - Item found
+2017-10-09 17:27:48,593  INFO - Item found
+2017-10-09 17:27:48,593  INFO - Found the header
+2017-10-09 17:27:48,593  INFO - Click log out
+2017-10-09 17:27:48,610  INFO - Item found
+2017-10-09 17:27:48,610  INFO - Found button
+2017-10-09 17:27:48,610  INFO - Click button
+2017-10-09 17:27:48,887  INFO - Item found
+2017-10-09 17:27:48,887  INFO - Found button
+2017-10-09 17:27:48,887  INFO - Click button
+2017-10-09 17:28:11,738  INFO - Item found
+2017-10-09 17:28:11,739  INFO - Opened login page
+2017-10-09 17:28:11,839  INFO - Item found
+2017-10-09 17:28:11,839  INFO - Opened login page
+2017-10-09 17:28:11,841  INFO - Click back
+2017-10-09 17:28:15,773  INFO - Item found
+2017-10-09 17:28:15,774  INFO - Opened flights page
+2017-10-09 17:28:15,849  INFO - Item found
+2017-10-09 17:28:15,849  INFO - Found the header
+2017-10-09 17:28:15,849  INFO - Checking user logout
+2017-10-09 17:28:40,907 ERROR - Not found element Unable to locate element: //a[contains(@title, 'ccount')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.4Tusqew5ymLh, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.2, platformVersion=10.0, moz:processID=800, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: a794a26f-78b5-4472-9963-49f68e648f3c
 *** Element info: {Using=xpath, value=//a[contains(@title, 'ccount')]}
-2017-10-09 16:52:20,602  INFO - User is log out
-2017-10-09 16:52:20,603  INFO - Get switch status
-2017-10-09 16:52:20,652  INFO - Item found
-2017-10-09 16:52:20,652  INFO - Found label
-2017-10-09 16:52:20,821  INFO - Browser close
+2017-10-09 17:28:40,908  INFO - User is log out
+2017-10-09 17:28:40,908  INFO - Get switch status
+2017-10-09 17:28:40,968  INFO - Item found
+2017-10-09 17:28:40,968  INFO - Found label
+2017-10-09 17:28:41,086  INFO - Browser close
+2017-10-09 18:14:32,805  INFO - Browser settings
+2017-10-09 18:14:43,577  INFO - Creating of driver browser
+2017-10-09 18:14:50,330  INFO - Item found
+2017-10-09 18:14:50,330  INFO - Opened home page
+2017-10-09 18:14:50,546  INFO - Item found
+2017-10-09 18:14:50,546  INFO - Opened home page
+2017-10-09 18:14:50,546  INFO - Choice left bar
+2017-10-09 18:14:50,678  INFO - Item found
+2017-10-09 18:14:50,678  INFO - Found button
+2017-10-09 18:14:50,678  INFO - Click button
+2017-10-09 18:14:51,576  INFO - Item found
+2017-10-09 18:14:51,577  INFO - Open left bar
+2017-10-09 18:14:51,577  INFO - Сlicked on the desired language
+2017-10-09 18:14:51,578  INFO - Checked language en
+2017-10-09 18:14:51,647  INFO - Getting an attribute
+2017-10-09 18:14:51,872  INFO - Swap language
+2017-10-09 18:14:51,872  INFO - Waiting for presence of element
+2017-10-09 18:14:52,475  INFO - Item found
+2017-10-09 18:14:52,476  INFO - Found button
+2017-10-09 18:14:52,476  INFO - Click button
+2017-10-09 18:14:52,939  INFO - Item found
+2017-10-09 18:14:52,940  INFO - Found combobox
+2017-10-09 18:14:52,940  INFO - Change the language to EN
+2017-10-09 18:14:52,942  INFO - Waiting for presence of element
+2017-10-09 18:14:56,565  INFO - Getting an attribute
+2017-10-09 18:14:56,650  INFO - Item found
+2017-10-09 18:14:56,650  INFO - Opened home page
+2017-10-09 18:14:56,650  INFO - Click places tag
+2017-10-09 18:14:56,980  INFO - Item found
+2017-10-09 18:14:56,980  INFO - Found button
+2017-10-09 18:14:56,980  INFO - Point to element
+2017-10-09 18:14:58,208  INFO - Item found
+2017-10-09 18:14:58,208  INFO - Opened home page
+2017-10-09 18:14:58,208  INFO - Place input
+2017-10-09 18:14:59,107  INFO - Item found
+2017-10-09 18:14:59,107  INFO - Found input field
+2017-10-09 18:14:59,107  INFO - Entered data
+2017-10-09 18:14:59,323  INFO - Checking the result of the entered place
+2017-10-09 18:14:59,323  INFO - Fetch place content
+2017-10-09 18:14:59,323  INFO - Waiting for presence of element
+2017-10-09 18:15:00,424  INFO - Item found
+2017-10-09 18:15:00,424  INFO - Found label
+2017-10-09 18:15:00,761  INFO - Click place result
+2017-10-09 18:15:01,072  INFO - Item found
+2017-10-09 18:15:01,072  INFO - Found button
+2017-10-09 18:15:01,072  INFO - Click button
+2017-10-09 18:15:01,633  INFO - Fetch place name
+2017-10-09 18:15:01,633  INFO - Waiting for presence of element
+2017-10-09 18:15:02,809  INFO - Item found
+2017-10-09 18:15:03,110  INFO - Item found
+2017-10-09 18:15:03,110  INFO - Opened home page
+2017-10-09 18:15:03,110  INFO - Choice left bar
+2017-10-09 18:15:03,202  INFO - Item found
+2017-10-09 18:15:03,203  INFO - Found button
+2017-10-09 18:15:03,203  INFO - Click button
+2017-10-09 18:15:03,691  INFO - Item found
+2017-10-09 18:15:03,691  INFO - Open left bar
+2017-10-09 18:15:03,738  INFO - Item found
+2017-10-09 18:15:03,738  INFO - Found label
+2017-10-09 18:15:04,292  INFO - Item found
+2017-10-09 18:15:04,292  INFO - Found button
+2017-10-09 18:15:04,292  INFO - Click button
+2017-10-09 18:15:04,709  INFO - Item found
+2017-10-09 18:15:04,709  INFO - Found combobox
+2017-10-09 18:15:04,709  INFO - Change the currency
+2017-10-09 18:15:08,062  INFO - Checking currency
+2017-10-09 18:15:08,177  INFO - Item found
+2017-10-09 18:15:08,177  INFO - Found label
+2017-10-09 18:15:08,954  INFO - Item found
+2017-10-09 18:15:08,955  INFO - Opened home page
+2017-10-09 18:15:08,955  INFO - Fetch place price
+2017-10-09 18:15:08,955  INFO - Waiting for presence of element
+2017-10-09 18:15:10,479  INFO - Item found
+2017-10-09 18:15:10,790  INFO - Item found
+2017-10-09 18:15:10,790  INFO - Opened home page
+2017-10-09 18:15:10,790  INFO - Choice left bar
+2017-10-09 18:15:10,818  INFO - Item found
+2017-10-09 18:15:10,818  INFO - Found button
+2017-10-09 18:15:10,818  INFO - Click button
+2017-10-09 18:15:11,487  INFO - Item found
+2017-10-09 18:15:11,487  INFO - Open left bar
+2017-10-09 18:15:11,620  INFO - Item found
+2017-10-09 18:15:11,620  INFO - Found label
+2017-10-09 18:15:12,745  INFO - Item found
+2017-10-09 18:15:12,745  INFO - Found button
+2017-10-09 18:15:12,745  INFO - Click button
+2017-10-09 18:15:13,196  INFO - Item found
+2017-10-09 18:15:13,197  INFO - Found combobox
+2017-10-09 18:15:13,197  INFO - Change the currency
+2017-10-09 18:15:16,148  INFO - Checking currency
+2017-10-09 18:15:16,370  INFO - Item found
+2017-10-09 18:15:16,370  INFO - Found label
+2017-10-09 18:15:17,677  INFO - Item found
+2017-10-09 18:15:17,677  INFO - Opened home page
+2017-10-09 18:15:17,677  INFO - Fetch place price
+2017-10-09 18:15:17,677  INFO - Waiting for presence of element
+2017-10-09 18:15:19,984  INFO - Item found
+2017-10-09 18:15:20,805  INFO - Checking the price difference
+2017-10-09 18:15:20,820  INFO - Browser close
+2017-10-09 18:15:28,925  INFO - Browser settings
+2017-10-09 18:15:37,241  INFO - Creating of driver browser
+2017-10-09 18:15:43,052  INFO - Item found
+2017-10-09 18:15:43,052  INFO - Opened home page
+2017-10-09 18:15:43,747  INFO - Item found
+2017-10-09 18:15:43,747  INFO - Opened home page
+2017-10-09 18:15:43,747  INFO - Choice left bar
+2017-10-09 18:15:43,910  INFO - Item found
+2017-10-09 18:15:43,910  INFO - Found button
+2017-10-09 18:15:43,910  INFO - Click button
+2017-10-09 18:15:44,619  INFO - Item found
+2017-10-09 18:15:44,619  INFO - Open left bar
+2017-10-09 18:15:44,619  INFO - Сlicked on the desired language
+2017-10-09 18:15:44,619  INFO - Checked language en
+2017-10-09 18:15:44,679  INFO - Getting an attribute
+2017-10-09 18:15:44,810  INFO - Swap language
+2017-10-09 18:15:44,810  INFO - Waiting for presence of element
+2017-10-09 18:15:45,583  INFO - Item found
+2017-10-09 18:15:45,583  INFO - Found button
+2017-10-09 18:15:45,583  INFO - Click button
+2017-10-09 18:15:46,196  INFO - Item found
+2017-10-09 18:15:46,196  INFO - Found combobox
+2017-10-09 18:15:46,196  INFO - Change the language to EN
+2017-10-09 18:15:46,196  INFO - Waiting for presence of element
+2017-10-09 18:15:49,800  INFO - Getting an attribute
+2017-10-09 18:15:49,868  INFO - Item found
+2017-10-09 18:15:49,868  INFO - Opened home page
+2017-10-09 18:15:49,868  INFO - Click places tag
+2017-10-09 18:15:50,366  INFO - Item found
+2017-10-09 18:15:50,366  INFO - Found button
+2017-10-09 18:15:50,366  INFO - Point to element
+2017-10-09 18:15:51,487  INFO - Item found
+2017-10-09 18:15:51,487  INFO - Opened home page
+2017-10-09 18:15:51,487  INFO - Place input
+2017-10-09 18:15:52,076  INFO - Item found
+2017-10-09 18:15:52,076  INFO - Found input field
+2017-10-09 18:15:52,076  INFO - Entered data
+2017-10-09 18:15:52,295  INFO - Checking the result of the entered place
+2017-10-09 18:15:52,295  INFO - Fetch place content
+2017-10-09 18:15:52,295  INFO - Waiting for presence of element
+2017-10-09 18:15:56,342  INFO - Item found
+2017-10-09 18:15:56,342  INFO - Found label
+2017-10-09 18:15:56,415  INFO - Click place result
+2017-10-09 18:15:56,435  INFO - Item found
+2017-10-09 18:15:56,435  INFO - Found button
+2017-10-09 18:15:56,435  INFO - Click button
+2017-10-09 18:15:56,737  INFO - Fetch place name
+2017-10-09 18:15:56,737  INFO - Waiting for presence of element
+2017-10-09 18:15:57,779  INFO - Item found
+2017-10-09 18:15:57,923  INFO - Click place
+2017-10-09 18:15:57,971  INFO - Item found
+2017-10-09 18:15:57,975  INFO - Found button
+2017-10-09 18:15:57,975  INFO - Click button
+2017-10-09 18:15:58,599  INFO - Click place
+2017-10-09 18:15:58,685  INFO - Item found
+2017-10-09 18:15:58,686  INFO - Found button
+2017-10-09 18:15:58,686  INFO - Click button
+2017-10-09 18:16:00,491  INFO - Item found
+2017-10-09 18:16:00,491  INFO - Opened flights page
+2017-10-09 18:16:00,695  INFO - Item found
+2017-10-09 18:16:00,695  INFO - Opened flights page
+2017-10-09 18:16:00,695  INFO - Waiting for presence of element
+2017-10-09 18:16:00,999  INFO - Click sorting airlines
+2017-10-09 18:16:01,059  INFO - Item found
+2017-10-09 18:16:01,059  INFO - Found button
+2017-10-09 18:16:01,059  INFO - Click button
+2017-10-09 18:16:01,508  INFO - Waiting for presence of element
+2017-10-09 18:16:01,766  INFO - Item found
+2017-10-09 18:16:01,766  INFO - Found combobox
+2017-10-09 18:16:01,766  INFO - Getting of set
+2017-10-09 18:16:03,108  INFO - Clicked Belavia
+2017-10-09 18:16:03,162  INFO - Item found
+2017-10-09 18:16:03,162  INFO - Found button
+2017-10-09 18:16:03,162  INFO - Click button
+2017-10-09 18:16:03,698  INFO - Waiting for presence of element
+2017-10-09 18:16:04,952  INFO - Checking sorting airlines
+2017-10-09 18:16:04,952  INFO - Waiting for presence of element
+2017-10-09 18:16:05,051  INFO - Item found
+2017-10-09 18:16:05,051  INFO - Found combobox
+2017-10-09 18:16:05,051  INFO - Getting of set
+2017-10-09 18:16:05,573  INFO - Sorted airlines complete
+2017-10-09 18:16:05,583  INFO - Browser close
+2017-10-09 18:16:09,475  INFO - Browser settings
+2017-10-09 18:16:16,014  INFO - Creating of driver browser
+2017-10-09 18:16:24,200  INFO - Item found
+2017-10-09 18:16:24,200  INFO - Opened home page
+2017-10-09 18:16:24,661  INFO - Item found
+2017-10-09 18:16:24,661  INFO - Opened home page
+2017-10-09 18:16:24,661  INFO - Choice left bar
+2017-10-09 18:16:24,797  INFO - Item found
+2017-10-09 18:16:24,797  INFO - Found button
+2017-10-09 18:16:24,797  INFO - Click button
+2017-10-09 18:16:25,793  INFO - Item found
+2017-10-09 18:16:25,793  INFO - Open left bar
+2017-10-09 18:16:25,793  INFO - Сlicked on the desired language
+2017-10-09 18:16:25,793  INFO - Checked language en
+2017-10-09 18:16:25,853  INFO - Getting an attribute
+2017-10-09 18:16:25,957  INFO - Swap language
+2017-10-09 18:16:25,957  INFO - Waiting for presence of element
+2017-10-09 18:16:26,728  INFO - Item found
+2017-10-09 18:16:26,728  INFO - Found button
+2017-10-09 18:16:26,728  INFO - Click button
+2017-10-09 18:16:28,721  INFO - Item found
+2017-10-09 18:16:28,722  INFO - Found combobox
+2017-10-09 18:16:28,722  INFO - Change the language to EN
+2017-10-09 18:16:28,722  INFO - Waiting for presence of element
+2017-10-09 18:16:33,846  INFO - Getting an attribute
+2017-10-09 18:16:34,020  INFO - Item found
+2017-10-09 18:16:34,020  INFO - Opened home page
+2017-10-09 18:16:34,020  INFO - Click places tag
+2017-10-09 18:16:34,746  INFO - Item found
+2017-10-09 18:16:34,746  INFO - Found button
+2017-10-09 18:16:34,746  INFO - Point to element
+2017-10-09 18:16:35,546  INFO - Item found
+2017-10-09 18:16:35,546  INFO - Opened home page
+2017-10-09 18:16:35,546  INFO - Place input
+2017-10-09 18:16:36,241  INFO - Item found
+2017-10-09 18:16:36,241  INFO - Found input field
+2017-10-09 18:16:36,241  INFO - Entered data
+2017-10-09 18:16:36,509  INFO - Checking the result of the entered place
+2017-10-09 18:16:36,509  INFO - Fetch place content
+2017-10-09 18:16:36,509  INFO - Waiting for presence of element
+2017-10-09 18:16:38,050  INFO - Item found
+2017-10-09 18:16:38,050  INFO - Found label
+2017-10-09 18:16:38,106  INFO - Click place result
+2017-10-09 18:16:38,146  INFO - Item found
+2017-10-09 18:16:38,146  INFO - Found button
+2017-10-09 18:16:38,146  INFO - Click button
+2017-10-09 18:16:38,475  INFO - Fetch place name
+2017-10-09 18:16:38,475  INFO - Waiting for presence of element
+2017-10-09 18:16:39,406  INFO - Item found
+2017-10-09 18:16:39,510  INFO - Click place
+2017-10-09 18:16:39,564  INFO - Item found
+2017-10-09 18:16:39,565  INFO - Found button
+2017-10-09 18:16:39,565  INFO - Click button
+2017-10-09 18:16:40,218  INFO - Item found
+2017-10-09 18:16:40,218  INFO - Opened home page
+2017-10-09 18:16:40,218  INFO - Click place
+2017-10-09 18:16:40,413  INFO - Item found
+2017-10-09 18:16:40,413  INFO - Found button
+2017-10-09 18:16:40,413  INFO - Click button
+2017-10-09 18:16:42,927  INFO - Item found
+2017-10-09 18:16:42,927  INFO - Opened hotels page
+2017-10-09 18:16:42,931  INFO - Click price tag
+2017-10-09 18:16:42,931  INFO - Waiting for presence of element
+2017-10-09 18:16:48,101  INFO - Item found
+2017-10-09 18:16:48,105  INFO - Found button
+2017-10-09 18:16:48,105  INFO - Click button
+2017-10-09 18:16:48,605  INFO - Waiting for download
+2017-10-09 18:16:50,933  INFO - Checking sorting hotels
+2017-10-09 18:16:50,933  INFO - Fetch hotels list
+2017-10-09 18:16:50,933  INFO - Waiting for presence of element
+2017-10-09 18:16:51,292  INFO - Item found
+2017-10-09 18:16:51,293  INFO - Found combobox
+2017-10-09 18:16:51,293  INFO - Getting of set
+2017-10-09 18:16:55,252  INFO - Sorted hotels complete
+2017-10-09 18:16:55,255  INFO - Browser close
+2017-10-09 18:16:58,651  INFO - Browser settings
+2017-10-09 18:17:04,751  INFO - Creating of driver browser
+2017-10-09 18:17:10,554  INFO - Item found
+2017-10-09 18:17:10,554  INFO - Opened home page
+2017-10-09 18:17:10,942  INFO - Item found
+2017-10-09 18:17:10,942  INFO - Opened home page
+2017-10-09 18:17:10,942  INFO - Choice left bar
+2017-10-09 18:17:11,097  INFO - Item found
+2017-10-09 18:17:11,097  INFO - Found button
+2017-10-09 18:17:11,097  INFO - Click button
+2017-10-09 18:17:11,599  INFO - Item found
+2017-10-09 18:17:11,599  INFO - Open left bar
+2017-10-09 18:17:11,599  INFO - Сlicked on the desired language
+2017-10-09 18:17:11,599  INFO - Checked language en
+2017-10-09 18:17:11,642  INFO - Getting an attribute
+2017-10-09 18:17:11,699  INFO - Swap language
+2017-10-09 18:17:11,699  INFO - Waiting for presence of element
+2017-10-09 18:17:11,991  INFO - Item found
+2017-10-09 18:17:11,991  INFO - Found button
+2017-10-09 18:17:11,991  INFO - Click button
+2017-10-09 18:17:13,000  INFO - Item found
+2017-10-09 18:17:13,000  INFO - Found combobox
+2017-10-09 18:17:13,000  INFO - Change the language to EN
+2017-10-09 18:17:13,000  INFO - Waiting for presence of element
+2017-10-09 18:17:17,582  INFO - Getting an attribute
+2017-10-09 18:17:17,757  INFO - Item found
+2017-10-09 18:17:17,757  INFO - Opened home page
+2017-10-09 18:17:17,757  INFO - Click places tag
+2017-10-09 18:17:18,581  INFO - Item found
+2017-10-09 18:17:18,581  INFO - Found button
+2017-10-09 18:17:18,581  INFO - Point to element
+2017-10-09 18:17:19,373  INFO - Item found
+2017-10-09 18:17:19,377  INFO - Opened home page
+2017-10-09 18:17:19,377  INFO - Place input
+2017-10-09 18:17:19,718  INFO - Item found
+2017-10-09 18:17:19,719  INFO - Found input field
+2017-10-09 18:17:19,719  INFO - Entered data
+2017-10-09 18:17:19,970  INFO - Checking the result of the entered place
+2017-10-09 18:17:19,970  INFO - Fetch place content
+2017-10-09 18:17:19,970  INFO - Waiting for presence of element
+2017-10-09 18:17:21,906  INFO - Item found
+2017-10-09 18:17:21,906  INFO - Found label
+2017-10-09 18:17:21,969  INFO - Click place result
+2017-10-09 18:17:22,078  INFO - Item found
+2017-10-09 18:17:22,078  INFO - Found button
+2017-10-09 18:17:22,078  INFO - Click button
+2017-10-09 18:17:22,396  INFO - Fetch place name
+2017-10-09 18:17:22,396  INFO - Waiting for presence of element
+2017-10-09 18:17:23,455  INFO - Item found
+2017-10-09 18:17:23,591  INFO - Click place
+2017-10-09 18:17:23,667  INFO - Item found
+2017-10-09 18:17:23,667  INFO - Found button
+2017-10-09 18:17:23,667  INFO - Click button
+2017-10-09 18:17:24,128  INFO - Click place
+2017-10-09 18:17:24,200  INFO - Item found
+2017-10-09 18:17:24,200  INFO - Found button
+2017-10-09 18:17:24,200  INFO - Click button
+2017-10-09 18:17:25,544  INFO - Item found
+2017-10-09 18:17:25,544  INFO - Opened flights page
+2017-10-09 18:17:25,544  INFO - Click track prices
+2017-10-09 18:17:25,612  INFO - Item found
+2017-10-09 18:17:26,047  INFO - Get switch status
+2017-10-09 18:17:26,088  INFO - Item found
+2017-10-09 18:17:26,092  INFO - Found label
+2017-10-09 18:17:26,224  INFO - Browser close
+2017-10-09 18:17:29,780  INFO - Browser settings
+2017-10-09 18:17:35,866  INFO - Creating of driver browser
+2017-10-09 18:17:40,156  INFO - Item found
+2017-10-09 18:17:40,156  INFO - Opened home page
+2017-10-09 18:17:40,489  INFO - Item found
+2017-10-09 18:17:40,489  INFO - Opened home page
+2017-10-09 18:17:40,489  INFO - Choice left bar
+2017-10-09 18:17:40,645  INFO - Item found
+2017-10-09 18:17:40,645  INFO - Found button
+2017-10-09 18:17:40,645  INFO - Click button
+2017-10-09 18:17:41,370  INFO - Item found
+2017-10-09 18:17:41,370  INFO - Open left bar
+2017-10-09 18:17:41,370  INFO - Сlicked on the desired language
+2017-10-09 18:17:41,370  INFO - Checked language en
+2017-10-09 18:17:41,486  INFO - Getting an attribute
+2017-10-09 18:17:41,606  INFO - Swap language
+2017-10-09 18:17:41,606  INFO - Waiting for presence of element
+2017-10-09 18:17:42,276  INFO - Item found
+2017-10-09 18:17:42,276  INFO - Found button
+2017-10-09 18:17:42,276  INFO - Click button
+2017-10-09 18:17:43,620  INFO - Item found
+2017-10-09 18:17:43,620  INFO - Found combobox
+2017-10-09 18:17:43,620  INFO - Change the language to EN
+2017-10-09 18:17:43,620  INFO - Waiting for presence of element
+2017-10-09 18:17:47,930  INFO - Getting an attribute
+2017-10-09 18:17:48,043  INFO - Item found
+2017-10-09 18:17:48,043  INFO - Found the header
+2017-10-09 18:17:48,043  INFO - Click logging
+2017-10-09 18:17:48,071  INFO - Item found
+2017-10-09 18:17:48,075  INFO - Found button
+2017-10-09 18:17:48,075  INFO - Click button
+2017-10-09 18:19:48,627  INFO - Item found
+2017-10-09 18:19:48,627  INFO - Opened login page
+2017-10-09 18:19:48,627  INFO - Inputted user login
+2017-10-09 18:19:48,647  INFO - Item found
+2017-10-09 18:19:48,647  INFO - Found input field
+2017-10-09 18:19:48,647  INFO - Entered data
+2017-10-09 18:19:49,286  INFO - Clicked - Log in
+2017-10-09 18:19:49,317  INFO - Item found
+2017-10-09 18:19:49,317  INFO - Found button
+2017-10-09 18:19:49,317  INFO - Click button
+2017-10-09 18:19:49,663  INFO - Inputted user password
+2017-10-09 18:19:51,258  INFO - Item found
+2017-10-09 18:19:51,258  INFO - Found input field
+2017-10-09 18:19:51,258  INFO - Entered data
+2017-10-09 18:19:51,378  INFO - Clicked - Log in
+2017-10-09 18:19:51,394  INFO - Item found
+2017-10-09 18:19:51,394  INFO - Found button
+2017-10-09 18:19:51,394  INFO - Click button
+2017-10-09 18:19:53,191  INFO - Item found
+2017-10-09 18:19:53,191  INFO - Found the header
+2017-10-09 18:19:53,191  INFO - Checking user authorization
+2017-10-09 18:19:53,244  INFO - Getting an attribute
+2017-10-09 18:19:53,328  INFO - User is authorization
+2017-10-09 18:20:15,685  INFO - Item found
+2017-10-09 18:20:15,685  INFO - Opened home page
+2017-10-09 18:20:15,685  INFO - Click places tag
+2017-10-09 18:20:16,417  INFO - Item found
+2017-10-09 18:20:16,417  INFO - Found button
+2017-10-09 18:20:16,417  INFO - Point to element
+2017-10-09 18:20:17,347  INFO - Item found
+2017-10-09 18:20:17,348  INFO - Opened home page
+2017-10-09 18:20:17,348  INFO - Place input
+2017-10-09 18:20:17,598  INFO - Item found
+2017-10-09 18:20:17,598  INFO - Found input field
+2017-10-09 18:20:17,598  INFO - Entered data
+2017-10-09 18:20:17,774  INFO - Checking the result of the entered place
+2017-10-09 18:20:17,774  INFO - Fetch place content
+2017-10-09 18:20:17,774  INFO - Waiting for presence of element
+2017-10-09 18:20:18,934  INFO - Item found
+2017-10-09 18:20:18,934  INFO - Found label
+2017-10-09 18:20:19,284  INFO - Click place result
+2017-10-09 18:20:19,647  INFO - Item found
+2017-10-09 18:20:19,648  INFO - Found button
+2017-10-09 18:20:19,648  INFO - Click button
+2017-10-09 18:20:20,327  INFO - Fetch place name
+2017-10-09 18:20:20,327  INFO - Waiting for presence of element
+2017-10-09 18:20:21,990  INFO - Item found
+2017-10-09 18:20:22,181  INFO - Click place
+2017-10-09 18:20:22,214  INFO - Item found
+2017-10-09 18:20:22,214  INFO - Found button
+2017-10-09 18:20:22,214  INFO - Click button
+2017-10-09 18:20:22,836  INFO - Click place
+2017-10-09 18:20:22,869  INFO - Item found
+2017-10-09 18:20:22,873  INFO - Found button
+2017-10-09 18:20:22,873  INFO - Click button
+2017-10-09 18:20:24,412  INFO - Item found
+2017-10-09 18:20:24,412  INFO - Opened flights page
+2017-10-09 18:20:24,412  INFO - Click track prices
+2017-10-09 18:20:24,505  INFO - Item found
+2017-10-09 18:20:25,176  INFO - Get switch status
+2017-10-09 18:20:25,288  INFO - Item found
+2017-10-09 18:20:25,288  INFO - Found label
+2017-10-09 18:20:25,432  INFO - Click track prices
+2017-10-09 18:20:25,511  INFO - Item found
+2017-10-09 18:20:25,898  INFO - Item found
+2017-10-09 18:20:25,898  INFO - Found the header
+2017-10-09 18:20:25,898  INFO - Click log out
+2017-10-09 18:20:25,910  INFO - Item found
+2017-10-09 18:20:25,910  INFO - Found button
+2017-10-09 18:20:25,910  INFO - Click button
+2017-10-09 18:20:26,270  INFO - Item found
+2017-10-09 18:20:26,270  INFO - Found button
+2017-10-09 18:20:26,270  INFO - Click button
+2017-10-09 18:20:49,946  INFO - Item found
+2017-10-09 18:20:49,946  INFO - Opened login page
+2017-10-09 18:20:50,006  INFO - Item found
+2017-10-09 18:20:50,006  INFO - Opened login page
+2017-10-09 18:20:50,022  INFO - Click back
+2017-10-09 18:20:53,502  INFO - Item found
+2017-10-09 18:20:53,502  INFO - Opened flights page
+2017-10-09 18:20:53,628  INFO - Item found
+2017-10-09 18:20:53,628  INFO - Found the header
+2017-10-09 18:20:53,628  INFO - Checking user logout
+2017-10-09 18:21:18,973 ERROR - Not found element Unable to locate element: //a[contains(@title, 'ccount')]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'COMPUTER', ip: '192.168.199.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\popo\AppData\Local\Temp\rust_mozprofile.94A6VJeUg9dk, rotatable=false, timeouts={implicit=0, pageLoad=300000, script=30000}, pageLoadStrategy=normal, platform=XP, specificationLevel=0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=55.0.2, platformVersion=10.0, moz:processID=3124, browserName=firefox, javascriptEnabled=true, platformName=XP}]
+Session ID: 7235a678-8b80-42cd-b795-654bae8b317e
+*** Element info: {Using=xpath, value=//a[contains(@title, 'ccount')]}
+2017-10-09 18:21:18,977  INFO - User is log out
+2017-10-09 18:21:18,977  INFO - Get switch status
+2017-10-09 18:21:19,010  INFO - Item found
+2017-10-09 18:21:19,011  INFO - Found label
+2017-10-09 18:21:19,357  INFO - Browser close

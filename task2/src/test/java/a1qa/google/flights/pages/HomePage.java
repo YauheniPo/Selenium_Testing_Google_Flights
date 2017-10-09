@@ -49,7 +49,7 @@ public class HomePage extends BasePage {
 	
 	public HomePage typePlace(String place) {
 		log.info("Place input");
-		new Button(HOME_PAGE_PLACE_INPUT).clickBnt();
+		isElementDisplayed(HOME_PAGE_PLACE_INPUT);
 		new TextBox(HOME_PAGE_PLACE_INPUT).inputData(place);
 		return this;
 	}

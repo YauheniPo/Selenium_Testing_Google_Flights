@@ -58,11 +58,23 @@ public class LeftNavBar extends BaseElement{
 		By langLocator = LanguagesLocators.valueOf(lang.toString()).getLocator();
 		fluentWaitForVisibilityOf(langLocator);
 		element.findElement(langLocator).click();
-		fluentWaitForPresenceOf(LEFT_NAV_BAR);
-		assertTrue(getAttribute(HTML, INPUT_ATRIBUTE_LANG).indexOf(properties.getProperty(PROP_LANG)) >= 0, "Error swap language");
+		int n = 0;
+		do {
+			try {
+				Thread.sleep(TimeoutConfig.MIN.getTimeout());
+				if(getAttribute(HTML, INPUT_ATRIBUTE_LANG).indexOf(properties.getProperty(PROP_LANG)) >= 0) {
+					log.info("Checking site language");
+					return;
+				}
+			} catch (ElementNotInteractableException | InterruptedException e) {
+				++n;
+			}
+		} while (n < Numbers.THIRTY.getNumber());
+		log.error("Error swap language");
 	}
 	
-	public void selectСurrency(String currency) {
+	public void selectCurrency(String currency) {
+		fluentWaitForVisibilityOf(CURRENCY);
 		if (new Label(CURRENCY).getTitleLabel().indexOf(currency) < 0) {
 			setWaitClickable(CURRENCY);
 			new Button(CURRENCY).clickBnt();
@@ -72,6 +84,7 @@ public class LeftNavBar extends BaseElement{
 			element.findElement(CurrenciesLocators.valueOf(currency).getLocator()).click();
 		}
 		log.info("Checking currency");
+		fluentWaitForVisibilityOf(CURRENCY);
 		String currencyPage = null;
 		int n = 0;
 		do {

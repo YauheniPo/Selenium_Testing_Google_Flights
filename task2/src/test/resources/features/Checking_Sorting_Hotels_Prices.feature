@@ -1,5 +1,5 @@
 @sorting_hotels_prices
-Feature: Сorrect sorting of prices
+Feature: Correct sorting of prices
 
 Scenario Outline: Check the sorting of prices in ASC
 Given site https://www.google.com/flights/ was opened

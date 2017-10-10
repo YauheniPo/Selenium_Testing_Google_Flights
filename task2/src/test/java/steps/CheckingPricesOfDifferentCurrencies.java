@@ -18,7 +18,7 @@ public class CheckingPricesOfDifferentCurrencies extends BaseTest {
 	@When("^I switched currency '(.*?)'$")
 	public void switchCurrency(String cur) throws Throwable {
 		this.currency = cur;
-		new HomePage().clickLeftBar().selectСurrency(currency);
+		new HomePage().clickLeftBar().selectCurrency(currency);
 	}
 
 	@Then("^there was a new price$")

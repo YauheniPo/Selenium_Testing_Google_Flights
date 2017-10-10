@@ -19,7 +19,7 @@ public class ConfigLogger {
 
 	public ConfigLogger() {
 		String prop = "logfile";
-		
+		System.setProperty("org.apache.commons.logging.Log", "org.apache.commons.logging.impl.Jdk14Logger");
 		Path path = FileSystems.getDefault().getPath(properties.getProperty(PROP_RESOURCES_FOLDER), File.separator,
 				properties.getProperty(PROP_LOG));
 		String pathLog = path.toAbsolutePath().toString();

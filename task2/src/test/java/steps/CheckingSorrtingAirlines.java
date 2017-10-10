@@ -10,8 +10,7 @@ import a1qa.google.flights.utils.Airlines;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-import static a1qa.google.flights.pages.FlightsPage.*;
-import static org.testng.Assert.assertTrue;
+import static org.testng.Assert.*;
 
 public class CheckingSorrtingAirlines extends BaseTest {
 	
@@ -32,15 +31,7 @@ public class CheckingSorrtingAirlines extends BaseTest {
 	public void checkFlights() throws Throwable {
 		log.info("Checking sorting airlines");
 		List<WebElement> flights = flightPage.getListFlights();
-		boolean bool = true;
-		for(int i = 0, l = flights.size(); i < l; ++i) {
-			String airlineTitle = flights.get(i).findElement(FLIGHTS_PAGE_AIRLINE_TITLE).getText();
-			if(!Airlines.BELAVIA.getTitle().equals(airlineTitle)) {
-				bool = false;
-				break;
-			}
-		}
-		assertTrue(bool, "Error airlines sorting");
+		assertTrue(flightPage.isCorrectSorting(flights), "Error airlines sorting");
 		log.info("Sorted airlines complete");
 	}
 }

@@ -116,10 +116,10 @@ public class HomePage extends BasePage {
 	
 	public String getPlaceContent() {
 		log.info("Fetch place content");
-		fluentWaitForVisibilityOf(HOME_PAGE_PLACE_CONTENT);
 		int n = 0;
 		do {
 			try {
+				fluentWaitForVisibilityOf(HOME_PAGE_PLACE_CONTENT);
 				Thread.sleep(TimeoutConfig.MIN.getTimeout());
 				String title = new Label(HOME_PAGE_PLACE_CONTENT).getTitleLabel().trim();
 				return title;

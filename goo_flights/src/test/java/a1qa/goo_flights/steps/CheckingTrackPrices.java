@@ -73,7 +73,7 @@ public class CheckingTrackPrices extends BaseTest {
 
 	@Then("^track prices function is turned on$")
 	public void checkTrackPricesStatusIsON() throws Throwable {
-		assertEquals(SWITCH_ON, flightsPage.getStatusSwitchTrackPrices(), "Incorrected switch work");
+		assertTrue(flightsPage.isNewStatusSwitchTrackPrices(SWITCH_ON), "Incorrected switch work");
 		
 		//Выключаем для корректной работы следующих тестов
 		flightsPage.clickTrackPrices();
@@ -86,6 +86,6 @@ public class CheckingTrackPrices extends BaseTest {
 	
 	@Then("^track prices function is turned off$")
 	public void checkTrackPricesStatusIsOFF() throws Throwable {
-		assertEquals(SWITCH_OFF, flightsPage.getStatusSwitchTrackPrices(), "Incorrected switch work");
+		assertTrue(flightsPage.isNewStatusSwitchTrackPrices(SWITCH_OFF), "Incorrected switch work");
 	}
 }

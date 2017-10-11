@@ -9,7 +9,6 @@ import org.openqa.selenium.WebElement;
 import a1qa.framework.entity.elements.Button;
 import a1qa.framework.entity.elements.Combobox;
 import a1qa.framework.entity.elements.EntityElement;
-import a1qa.framework.entity.elements.Label;
 import a1qa.framework.entity.pages.BasePage;
 import a1qa.framework.utils.Numbers;
 import a1qa.framework.utils.TimeoutConfig;
@@ -37,10 +36,10 @@ public class FlightsPage extends BasePage {
 		return this;
 	}
 	
-	public String getStatusSwitchTrackPrices() {
-		log.info("Get switch status");
-		fluentWaitForVisibilityOf(FLIGHTS_PAGE_SWITCH_TRACK_PRICES);
-		return new Label(FLIGHTS_PAGE_SWITCH_TRACK_PRICES).getTitleLabel();
+	public boolean isNewStatusSwitchTrackPrices(String status) {
+		log.info("Status has changed");
+		setFluensWaitTextInElement(FLIGHTS_PAGE_SWITCH_TRACK_PRICES, status);
+		return true;
 	}
 	
 	public FlightsPage clickAirline() {
